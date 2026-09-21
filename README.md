@@ -142,6 +142,10 @@ hospital-analytics/
 - Introduce role-based access and governance documentation.
 - Publish a documented KPI dictionary.
 
+## Dashboard Preview
+
+![Hospital Operations Analytics Dashboard](dashboard.png)
+
 ## Author
 
 Nur Sabrina Radzali
