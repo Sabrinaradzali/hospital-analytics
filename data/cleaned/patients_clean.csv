@@ -1,0 +1,1144 @@
+Id,BIRTHDATE,DEATHDATE,MARITAL,RACE,ETHNICITY,GENDER,CITY,STATE,COUNTY,ZIP,HEALTHCARE_EXPENSES,HEALTHCARE_COVERAGE,INCOME
+363f54b9-0818-955e-a2bf-d6dd285ba76e,1982-09-24,,M,white,nonhispanic,M,Southborough,Massachusetts,Worcester County,0,115456.37,19105.52,989268
+900bef8d-69f8-a8fc-20a9-62ac49b7fc53,1978-11-05,,S,asian,nonhispanic,M,Somerville,Massachusetts,Middlesex County,2155,33215.8,109243.16,126601
+a0fa0b4a-7dcc-b6fd-d6f9-947b9c092407,2001-09-10,,,white,nonhispanic,F,Hingham,Massachusetts,Plymouth County,2043,96009.75,233122.55,47021
+a1a6035a-93e5-ce09-c762-821a246b6f54,2009-07-13,,,black,nonhispanic,F,New Bedford,Massachusetts,Bristol County,2744,48249.86,3961.73,65187
+4c3962bf-7dc1-2653-36c1-446346f58f66,1989-05-25,,M,white,nonhispanic,M,Billerica,Massachusetts,Middlesex County,0,123787.74,3503.29,109322
+14e1b200-3938-48be-3f88-1a6f14a61dcb,2019-07-24,,,white,nonhispanic,M,Plymouth,Massachusetts,Plymouth County,2360,24809.13,3772.04,82003
+20e7c563-99ad-b56d-fe9c-6bd42bba68d3,1960-07-05,,S,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1607,398965.05,76430.44,56912
+7d8546eb-f1ae-7603-c447-d2d095fc5309,1958-07-04,,S,white,nonhispanic,M,Bourne,Massachusetts,Barnstable County,2532,27631.12,885924.16,19626
+e7386988-332f-de84-707d-ab3f804c1576,1957-05-03,,M,white,nonhispanic,M,Paxton,Massachusetts,Worcester County,0,74566.12,746866.13,72780
+58a77c0c-6b0b-0dd0-57d1-561f18f0b428,1992-06-08,,M,hawaiian,nonhispanic,M,Boston,Massachusetts,Suffolk County,2152,70538.1,664220.51,27081
+3a499035-df1e-c10b-25a4-e021cd53978f,1971-05-30,,D,white,nonhispanic,M,Merrimac,Massachusetts,Essex County,0,117735.36,7311.92,59912
+54be5a86-b509-4f2b-b8ff-dd6ec38e21b1,1943-05-24,,M,black,nonhispanic,F,Fitchburg,Massachusetts,Worcester County,1420,868601.99,798214.09,37017
+e03a6bd8-c4be-b132-3d40-872469885f6a,1969-08-13,,M,asian,nonhispanic,M,Boston,Massachusetts,Suffolk County,2130,142235.16,90231.46,73401
+22be82ef-2492-57db-5287-b34662cf1c56,1973-01-11,,M,white,nonhispanic,F,Plainville,Massachusetts,Norfolk County,0,174875.11,52829.01,50042
+6d55c1c1-a928-117e-f207-6b194070b37d,1973-06-30,,M,asian,nonhispanic,F,West Yarmouth,Massachusetts,Barnstable County,2673,18171.76,1203039.53,23194
+3b71fbfd-f2f0-8338-247a-b8d69c53d03f,1989-09-17,,D,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,6352.52,93523.37,16905
+d2078200-2e2a-85ef-4bbd-cb36f1f60525,1979-05-16,2022-02-01,D,white,nonhispanic,M,Weymouth,Massachusetts,Norfolk County,2190,50700.35,69807.51,365755
+2b815ea0-5bee-704d-3c59-85e9b377f05b,1944-12-31,2022-03-17,M,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2745,13127.75,262498.5,10390
+e0a5b812-6885-12b4-951a-e477cf889292,1979-05-16,,M,white,nonhispanic,M,Weymouth,Massachusetts,Norfolk County,2189,80180.7,17632.91,365755
+7d1ae655-5c3d-7cfb-4ae7-97e9a595826b,1975-01-26,,D,white,nonhispanic,M,Lynn,Massachusetts,Essex County,1901,162985.94,0.0,76439
+bdd2f35d-8c08-2bba-4137-05a5c9295df4,2023-11-29,,,white,nonhispanic,F,Brockton,Massachusetts,Plymouth County,2302,6187.89,7255.56,64922
+6c08c959-7ad0-f14a-a833-6bd5a1f564ba,1966-05-04,2000-09-14,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2134,24715.98,1218469.7,13102
+0878e1ee-2f0c-ad7b-3f3b-304da8644fa3,1972-07-13,,S,white,nonhispanic,F,Sutton,Massachusetts,Worcester County,0,166981.99,677820.69,184237
+4a1ee160-2f22-6e49-bb4a-f1b15ab048e8,1973-11-24,,M,white,nonhispanic,M,Easthampton,Massachusetts,Hampshire County,1027,258070.78,604.2,55401
+3ec08f24-5e3e-25af-1a0d-1fc4f809b3b7,1944-12-31,,S,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2740,19488.75,449976.46,10390
+ea2617fb-4092-c7d3-3e74-757bae134d01,2001-06-10,,,white,hispanic,M,Sutton,Massachusetts,Worcester County,0,88368.33,28179.83,182215
+a64c19f6-2d08-c414-3b43-f85316d89707,2013-11-06,2024-12-04,,white,nonhispanic,F,Westfield,Massachusetts,Hampden County,1086,34669.98,38769.22,52931
+fe60a849-26d0-6c70-85ae-43b61f5ccc08,1966-05-04,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2124,20960.71,1553197.31,13102
+d83fbff7-c1ef-3cf3-c624-8fdf924cfdd0,2013-11-06,,,white,nonhispanic,F,Westfield,Massachusetts,Hampden County,1085,46297.49,19986.25,52931
+2379fdbe-920a-20d8-7774-c059a563d319,2007-07-15,,,white,hispanic,F,Swampscott,Massachusetts,Essex County,1907,3812.69,78190.84,12091
+572aefa6-ff41-613b-07e7-da0c705e64df,1937-01-26,2019-06-28,M,white,nonhispanic,F,Newton,Massachusetts,Middlesex County,2461,1056283.71,431764.22,50928
+61ae8e2d-e866-bb25-6fb9-b8c7c95e8de9,1962-08-22,,D,white,nonhispanic,F,Somerville,Massachusetts,Middlesex County,2145,568189.53,354803.3,63295
+bbbde012-2b40-2893-0b2d-c7faacdecfb4,1995-02-05,,M,white,nonhispanic,F,Sandwich,Massachusetts,Barnstable County,2563,69217.34,157769.74,38960
+6301e254-32b5-7f4b-4131-b8750cc863c8,2008-04-10,,,white,nonhispanic,F,Amherst,Massachusetts,Hampshire County,0,66561.06,8174.75,120232
+24d88600-9461-ea07-2a88-ff90dc8f5028,1963-01-04,,W,white,nonhispanic,M,West Boylston,Massachusetts,Worcester County,0,234635.0,98978.28,66490
+2527c544-c3ce-5745-6703-833c50a9ce37,1973-03-22,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1610,88752.86,29014.56,86829
+61473392-49bb-1851-f1cb-c2ec0337bd6b,1937-01-26,1995-05-25,M,white,nonhispanic,F,Newton,Massachusetts,Middlesex County,2464,788162.51,159454.35,50928
+98bb3b43-c2bd-b1e8-48fb-d03d733949a8,1957-06-06,2001-11-12,M,black,nonhispanic,M,Salem,Massachusetts,Essex County,1907,8308.8,91507.92,16218
+083864a1-ccf4-dac8-747a-cf7dbb080de4,2015-07-03,,,white,nonhispanic,F,Maynard,Massachusetts,Middlesex County,1754,51185.59,0.0,65776
+2388affb-65b9-640b-5331-ae809829b583,1995-01-02,,M,white,nonhispanic,F,Raynham,Massachusetts,Bristol County,0,174490.34,381130.87,170157
+0f7a3c8c-0871-0b1c-b633-9d3ea1ea97c1,2018-04-30,,,black,nonhispanic,F,Wenham,Massachusetts,Essex County,0,24515.4,9901.68,371083
+36362114-0c2d-fbd3-2dc9-bea1aafdda93,1985-08-11,,M,black,nonhispanic,F,Agawam,Massachusetts,Hampden County,1001,256657.78,337887.85,82662
+90e84654-3b4b-9b09-a079-bc69e215e2b3,1975-01-07,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2151,8029.75,162074.06,7228
+8859fbb8-6bd3-7ab3-652b-07f4fce5cb14,1937-01-26,2021-07-23,W,white,nonhispanic,F,Newton,Massachusetts,Middlesex County,2468,1006939.89,339730.49,50928
+befa0464-57f4-5f9f-fd64-3de9426c7ba3,2005-11-07,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2210,4666.7,71990.32,13822
+54247c4d-5024-65cc-0a58-f60b9a79cc6e,1964-04-05,,M,white,nonhispanic,F,Millbury,Massachusetts,Worcester County,0,1065360.53,563039.34,40027
+678aa883-5f54-eea1-1eb5-647a4a7271e2,2012-05-21,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2203,2954.92,51349.51,1624
+a4f9296b-280b-c0ea-ea8b-d98627ea90f6,1996-09-09,,M,white,nonhispanic,F,Leicester,Massachusetts,Worcester County,0,400529.34,76563.23,99640
+c1de6a76-137a-0bb6-c817-266d9d8474f0,2000-11-04,,,white,nonhispanic,M,Milford,Massachusetts,Worcester County,1757,67964.63,6260.78,69990
+f55ee39f-eebf-8aa7-74bc-9df883ba8e6e,1973-05-27,,M,white,nonhispanic,F,Needham,Massachusetts,Norfolk County,2492,123489.62,853204.7,841808
+07868381-3a4e-57a4-8d9f-7bef8cfa5972,2014-11-27,,,white,nonhispanic,M,Lawrence,Massachusetts,Essex County,1843,1875.17,25748.45,15013
+380518ce-9aed-542b-b445-c5b472ff3e5e,1937-01-26,,M,white,nonhispanic,F,Newton,Massachusetts,Middlesex County,2468,696683.46,294729.91,50928
+50ef8d87-401c-ebd9-8415-4aa041256057,1957-06-06,,M,black,nonhispanic,M,Salem,Massachusetts,Essex County,1907,25983.0,669311.08,16218
+cc8ade2c-9bf4-3ebe-a44c-fa8d2b4b89f7,1988-11-15,,M,white,nonhispanic,F,Groton,Massachusetts,Middlesex County,1450,116141.52,380729.18,212388
+03e7b514-660c-1cd6-b5d8-ecf9986e7992,1979-01-09,2026-05-23,S,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,160545.65,1021904.7,101096
+3fe24809-a398-91fb-88a5-9eec362d2727,1970-03-26,,M,white,hispanic,F,Worcester,Massachusetts,Worcester County,1545,41686.09,909559.79,178783
+4cd0a640-e29a-1ad6-0b59-13546f74fae9,2007-04-23,,,white,hispanic,F,Springfield,Massachusetts,Hampden County,1104,62276.84,270518.77,56332
+a4187e4a-2e2b-da9b-5e54-6b0f6291a75d,1997-11-26,,M,asian,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,73091.83,44225.57,594606
+2f810a9c-7eee-9941-7d51-bfc20566a350,1973-07-06,,M,white,nonhispanic,F,Malden,Massachusetts,Middlesex County,2148,606379.29,107143.64,66126
+647919db-1d51-b6e9-8eb5-f9f3f6f34f6a,1979-01-09,,M,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,194248.66,3308.2,101096
+2e22908d-5adb-d943-00c8-21376a4d9ddb,2021-02-14,,,white,nonhispanic,M,Belchertown,Massachusetts,Hampshire County,1007,700.0,9367.89,15760
+c6afa903-a9c5-943b-401e-fbf2a459d887,2002-10-19,,,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2747,72693.88,0.0,105998
+dd3ef65f-af06-ca3f-4c5a-5ee9a1913da7,2014-07-28,,,white,nonhispanic,F,Ayer,Massachusetts,Middlesex County,1434,46968.89,11783.51,122363
+855fe537-3bc8-bb08-8a67-0dd8e8a977d2,1966-05-29,,M,asian,hispanic,M,Boston,Massachusetts,Suffolk County,2131,10291.67,282615.82,3738
+69062007-e6cc-c058-2b58-5e4287865aad,2001-09-05,,,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2151,63122.38,4587.93,60405
+0560cc48-4cdd-d9ff-997f-a566b61660e6,2010-09-15,,,white,nonhispanic,M,Bridgewater,Massachusetts,Plymouth County,2324,35590.69,2150.4,121469
+d92a23b6-4bd6-3ca3-d2c2-ccc78bb3d8fe,1999-02-19,,,white,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,68374.63,25168.91,37220
+469f0bd7-3cbf-5eea-c395-ed7de402c75e,1978-07-02,,M,black,nonhispanic,F,Wilmington,Massachusetts,Middlesex County,1887,270314.64,424986.08,30844
+c351400a-6d55-007d-b5df-d51b9695cee4,2024-08-11,,,white,nonhispanic,F,Newton,Massachusetts,Middlesex County,2468,8183.83,1007.8,54798
+f6655e55-d4e3-c666-6de9-93a806532b38,1969-08-09,,S,white,nonhispanic,M,Great Barrington,Massachusetts,Berkshire County,1230,235757.76,0.0,63793
+8efc2815-203c-cbdd-4a85-d9e69de1f35a,1987-08-18,,M,white,hispanic,M,Taunton,Massachusetts,Bristol County,2780,86280.01,66107.93,54102
+45b9c39e-7acb-0760-049e-6a97c5da6f37,1995-12-01,,M,white,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,5573.74,64143.24,11109
+4ba96317-3f3c-4653-11b1-09b6df5ee293,2002-03-25,,,black,nonhispanic,F,Middleborough,Massachusetts,Plymouth County,0,51801.81,195327.42,622118
+b942ddb4-a79f-2a11-435d-55ad1415ba51,2020-01-04,,,other,nonhispanic,F,Whitman,Massachusetts,Plymouth County,0,1465.22,22178.36,31120
+ca805a7d-cb5c-75a2-bba5-60ad5f84c60f,2002-11-15,,,white,nonhispanic,M,Stoughton,Massachusetts,Norfolk County,0,62958.92,2615.45,127876
+6a78fb9d-8bdb-da66-5723-ada1252044a6,2008-12-14,,,white,nonhispanic,M,Everett,Massachusetts,Middlesex County,2149,47584.09,8124.51,86324
+57508bb6-e7e6-5eda-e417-b4e771ba9b0c,2011-03-17,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2108,38378.25,7667.35,32976
+dfcc9f28-c003-e917-d9fb-f5fa5d9ac4e7,2002-11-13,,,white,nonhispanic,M,North Attleborough,Massachusetts,Bristol County,0,70665.74,4723.73,49855
+997b79d9-0ffb-bb44-8eb2-0839316fe404,1970-06-20,,D,asian,hispanic,F,Cohasset,Massachusetts,Norfolk County,0,550802.91,130981.15,116888
+83f97ed9-7ece-de0d-7ec4-5ce89d77533d,2000-06-13,,,white,nonhispanic,M,Revere,Massachusetts,Suffolk County,2151,87593.25,11025.01,89126
+c540434f-bf28-481b-3a74-08ff64940818,1957-03-06,,M,asian,nonhispanic,M,Billerica,Massachusetts,Middlesex County,0,256548.09,97138.25,796264
+e84b5809-b195-fc36-57b1-50f19c78f162,1990-03-09,,S,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2134,17896.95,574575.35,182602
+d44548c8-5601-60bb-8663-c5e8bd440bb7,1965-06-14,,S,white,nonhispanic,M,Andover,Massachusetts,Essex County,1810,154229.91,37214.41,187773
+a8ed6b9b-ceb7-e98f-1493-c9e71a7791a8,2016-02-13,,,white,nonhispanic,M,Charlton,Massachusetts,Worcester County,0,24059.31,7335.78,57689
+99db3e0b-4371-e356-155b-5b885c1d5618,1944-01-09,,M,white,nonhispanic,F,Freetown,Massachusetts,Bristol County,0,814407.06,505127.95,63745
+8788c563-afb3-beba-7afa-d3d8a3d72c59,2013-11-27,,,white,nonhispanic,F,Plympton,Massachusetts,Plymouth County,0,15462.08,42027.66,143442
+598d0682-ca84-a6bc-fa3b-2ae902970c39,2001-02-05,,,white,nonhispanic,M,Peabody,Massachusetts,Essex County,1940,77805.88,7364.36,89990
+2d0de715-86c9-f2dd-a9dd-35c18671904a,1946-11-22,,M,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1605,1234324.47,410423.5,36423
+e9a03ac5-aa85-d6c0-0434-aedd7a4fc769,2023-06-07,,,white,nonhispanic,M,Saugus,Massachusetts,Essex County,1906,700.0,9970.91,13750
+b8c9df08-a081-aae0-2823-58c978b121d9,2023-05-06,,,asian,nonhispanic,F,Boston,Massachusetts,Suffolk County,2152,9184.86,0.0,146581
+d4544902-6653-4995-d7d5-70f0e0f263cc,2005-08-12,,,white,nonhispanic,F,Vineyard Haven,Massachusetts,Dukes County,2568,51992.84,38813.32,69417
+0f0d5384-51e6-0b33-a16a-f4b8966d4866,1995-03-09,,M,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2163,85174.44,0.0,61885
+0f0653e1-1143-05d3-e5c0-b70d0a6d9527,1976-03-08,,M,white,nonhispanic,F,Lawrence,Massachusetts,Essex County,1843,270938.91,595000.71,26082
+15134d27-fcb8-09af-8871-0e05777c0162,2013-01-24,,,white,nonhispanic,M,Chelmsford,Massachusetts,Middlesex County,0,42384.97,253.75,109093
+d7a3dc85-c5b3-2242-edc6-28423313c8e5,1971-12-29,,M,white,hispanic,F,Westminster,Massachusetts,Worcester County,0,192970.96,29197.97,63411
+fa9cadb4-c56a-d999-e22c-b15c2a1e3feb,1974-01-19,,S,white,nonhispanic,M,Douglas,Massachusetts,Worcester County,0,141372.12,15699.54,133016
+7efa2120-49c9-8767-2ed9-7299114f4112,1979-07-04,,S,white,nonhispanic,F,Woburn,Massachusetts,Middlesex County,1890,202120.58,372794.58,88533
+956fbea3-b8dd-62c7-e920-902e27238a57,2017-06-30,,,white,nonhispanic,F,Stoughton,Massachusetts,Norfolk County,0,9807.69,17761.85,104106
+1652c5fe-3577-8cc3-2750-b31ef2d34f5f,1975-09-14,,M,white,nonhispanic,M,Malden,Massachusetts,Middlesex County,2148,94253.01,10099.16,38359
+9aa19631-e913-3dd5-a0a1-0516167674a1,1987-11-01,,M,white,nonhispanic,F,Taunton,Massachusetts,Bristol County,2780,686041.8,113595.25,75554
+1b84cdc5-4cb7-1946-07c8-88c082bb8639,1967-01-23,,M,white,nonhispanic,F,Norton,Massachusetts,Bristol County,0,708982.7,505200.61,74042
+ba912956-ff73-119d-a841-3d532885af74,2013-04-08,,,white,nonhispanic,M,Lowell,Massachusetts,Middlesex County,1852,38356.82,0.0,56615
+4a6da156-fea8-a082-78d8-bf41cf07fcde,1995-11-26,,M,white,nonhispanic,F,Waltham,Massachusetts,Middlesex County,2453,187580.52,457696.94,92472
+21c6f0da-e436-b872-60fa-a387559a98f0,2002-10-31,,,white,nonhispanic,F,Billerica,Massachusetts,Middlesex County,0,81907.98,117685.24,131251
+81963efb-7dda-e44e-0dec-a9b004c4c89d,1999-02-16,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2121,89465.53,48183.34,28130
+cdb7313f-3e9c-02bf-6dab-6057d4283759,1964-04-03,,W,white,nonhispanic,M,Brewster,Massachusetts,Barnstable County,2631,159070.77,53679.82,357423
+30b9c105-51df-0898-7482-1f1a74330292,2015-08-07,,,white,nonhispanic,F,Milton,Massachusetts,Norfolk County,2186,37830.18,1887.73,149075
+c9a032c0-36db-621c-0f67-c8080857c8d6,2016-06-22,,,white,nonhispanic,F,Westport,Massachusetts,Bristol County,0,16153.2,16045.97,103563
+ddd7ae31-032a-e75f-1ee3-568c912a10b1,1993-08-13,,S,white,nonhispanic,M,Lowell,Massachusetts,Middlesex County,1850,39169.62,71710.4,24391
+66dbcb26-629f-ff0e-5ea6-c0f449d35633,2014-04-22,,,white,nonhispanic,F,Revere,Massachusetts,Suffolk County,2151,28713.22,0.0,45125
+34ccd784-600a-965f-e301-f42beb2bca16,1958-09-26,,D,white,hispanic,F,Winchester,Massachusetts,Middlesex County,1890,400346.91,1316357.51,128078
+57866393-152e-0373-3b36-b96d2b4392e9,1959-12-27,,D,white,nonhispanic,F,Hanover,Massachusetts,Plymouth County,0,304108.94,1302805.78,374441
+dfe3ec57-27b1-6f72-41d6-405613a60afb,2021-03-16,2023-06-08,,white,nonhispanic,F,Lowell,Massachusetts,Middlesex County,1851,7375.06,2191.89,117672
+caca3c77-0700-2dcf-814a-a08118eba119,2021-03-16,,,white,nonhispanic,F,Lowell,Massachusetts,Middlesex County,1850,14033.48,633.89,117672
+f024398a-e31b-ddbf-c713-dd3cd4b64cbf,1989-12-18,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1607,102294.19,0.0,46785
+f6d10057-78e6-83bf-d920-6e16320dfa8a,2017-03-22,,,white,nonhispanic,F,Dracut,Massachusetts,Middlesex County,0,21006.07,1871.23,94136
+45b4a25d-872e-a495-dca1-8c7dd8eb74bb,2006-05-03,,,white,nonhispanic,M,East Brookfield,Massachusetts,Worcester County,1515,23925.33,537100.78,99379
+3fc2e5ac-7a9b-e7fe-1b22-0254f2dd3619,1997-08-19,,S,white,nonhispanic,F,Hubbardston,Massachusetts,Worcester County,0,124817.82,313004.17,32624
+4b0602ae-5e53-4894-7ebc-07e2b92fab35,1922-05-21,,S,black,nonhispanic,F,Holyoke,Massachusetts,Hampden County,1040,836131.64,344286.92,56131
+9369e69b-2a60-395e-14b9-2e016da6c95a,1964-02-11,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2125,11911.86,142129.93,10023
+a60af609-8046-ee45-ebf6-7a74c17257ce,2008-02-15,,,white,nonhispanic,F,Fall River,Massachusetts,Bristol County,2721,3732.35,69306.53,14372
+5bb9c1fd-d12f-3acb-6c08-aef2785e45f6,1952-04-24,,W,white,nonhispanic,F,Holbrook,Massachusetts,Norfolk County,2368,361301.73,712391.14,125821
+24faba95-655d-1bd0-409b-7c2335a0ee75,1966-10-13,2018-09-19,M,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2740,378784.09,569241.12,41941
+12b64a16-0479-750a-e780-bba48ef0aecf,2018-02-25,,,white,hispanic,M,Franklin,Massachusetts,Norfolk County,2038,19354.23,0.0,92175
+5f214267-4485-5966-ce54-e0b90dc535c1,1992-06-17,,S,white,hispanic,F,Revere,Massachusetts,Suffolk County,2151,10992.79,831324.27,2831
+0c10b5af-2c74-3b14-f2a9-baf6c843178f,1970-02-25,,M,white,nonhispanic,F,Falmouth,Massachusetts,Barnstable County,2540,251983.91,416945.88,136957
+a784de0b-715e-29c3-e229-7f015cf3f1e9,1968-04-03,,M,white,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2139,175472.33,851406.09,801398
+d3a6fb76-e283-aafa-ebb2-08aa93165273,1966-10-13,2022-02-13,S,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2747,146445.37,20702.22,41941
+c4520531-5c93-fbaa-756f-32376c79d7f1,2002-01-17,,,white,nonhispanic,M,Natick,Massachusetts,Middlesex County,0,34611.65,38603.24,253540
+656202a0-cd80-26c4-28a6-1d88681bbb35,1958-07-02,,M,white,nonhispanic,F,Stoughton,Massachusetts,Norfolk County,0,152396.83,857760.44,145148
+f1585a05-7d06-de28-7779-ddd3b2b49e87,2000-11-04,,,white,nonhispanic,M,Wilbraham,Massachusetts,Hampden County,1095,91972.25,51399.52,204120
+a0b6cf70-f46f-f2cc-eb8a-2f240112e8f4,1942-09-10,,M,white,hispanic,F,Springfield,Massachusetts,Hampden County,1129,295333.88,619957.69,125466
+61774ec7-774b-ae85-96f1-0a9fdbd4a0e4,2021-12-18,,,white,nonhispanic,F,Amherst Center,Massachusetts,Hampshire County,0,895.86,15298.8,16413
+a3dbdb1d-d559-e2c9-e976-cb834e79bf2d,1997-03-22,,S,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2723,7489.26,78928.68,10564
+00602829-6c4a-0b56-8514-c141c1e2297e,1956-11-09,2014-10-26,M,white,nonhispanic,F,Yarmouth,Massachusetts,Barnstable County,0,266308.67,812295.93,412899
+c93a6ea8-d3ce-0db9-b2e5-c04f8b05638e,1978-01-14,,M,white,nonhispanic,F,Barnstable,Massachusetts,Barnstable County,2637,454532.66,559987.41,72777
+59b9df66-db49-bb7b-c1f2-1ca9534b26fb,1944-02-22,,W,white,nonhispanic,F,Andover,Massachusetts,Essex County,1810,452638.59,1411870.24,160277
+c537b064-4204-c1b0-7b97-4eb3e228430e,1956-11-09,,M,white,nonhispanic,F,Yarmouth,Massachusetts,Barnstable County,0,390748.63,989330.8,412899
+cb5d7d55-ec36-2468-eba1-a03bacd28c7e,1956-02-11,,M,native,nonhispanic,M,Lynn,Massachusetts,Essex County,1905,197970.23,551954.53,30491
+3657fc04-adba-860b-bb5b-027f12f0320e,1966-10-13,,M,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2743,560578.47,36435.75,41941
+96543068-7439-5ea1-9f69-8175dc17ef90,2003-12-17,,,white,nonhispanic,M,Salem,Massachusetts,Essex County,1970,71979.47,6665.23,142809
+14f1ee00-5f82-877e-9982-d85554fc630a,1997-05-08,,M,white,nonhispanic,M,Northborough,Massachusetts,Worcester County,1532,69955.97,3238.39,56236
+412e0c32-f4dd-1f7d-780d-b1ac7cd13350,1991-01-07,,M,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1103,7479.3,65982.37,19862
+e4aeda0e-13c8-bc03-14c9-1104d4832f61,1960-11-20,,D,asian,nonhispanic,M,Lowell,Massachusetts,Middlesex County,1852,153854.16,126857.72,76209
+96478a9a-1fe1-b196-9b5b-b9d4705c7bd4,1954-02-25,,D,white,nonhispanic,F,New Bedford,Massachusetts,Bristol County,2745,22355.97,1378038.5,21315
+cacb719d-9f99-3099-0eb9-20b331a03577,2011-05-27,,,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1607,31634.95,42538.23,145556
+61d0d8bc-4367-81a1-25d8-652341db4a87,1966-12-09,,M,white,nonhispanic,M,Ipswich,Massachusetts,Essex County,1938,128846.63,61165.3,90597
+c598a1cb-3116-4821-5647-009be7ade71b,1980-10-24,,M,white,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2138,184248.92,995163.31,293985
+7b221b8b-378f-a7e3-686e-17a9cd604235,1978-10-20,,M,black,nonhispanic,M,Revere,Massachusetts,Suffolk County,2151,519110.29,351185.99,39607
+1b450cae-1bb2-1798-f2df-87b4220bfb3e,2016-08-21,,,white,nonhispanic,F,Lawrence,Massachusetts,Essex County,1840,1600.0,22881.82,1438
+abc93057-886d-744e-b8a3-2325b77eff14,1974-05-23,,S,white,nonhispanic,F,Shrewsbury,Massachusetts,Worcester County,0,23336.41,1196535.04,21626
+af80bd99-d433-7d28-dc68-ffdf8e705bef,1993-05-27,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1583,18105.69,765279.45,14518
+619b2861-63eb-ea81-ca62-09e839dbe65c,1949-11-27,,S,white,nonhispanic,F,Stoneham,Massachusetts,Middlesex County,2180,375362.65,997530.63,187377
+e2c38297-26ed-b4b2-ddcd-bcc30dc0fe40,1975-11-21,,D,white,nonhispanic,M,South Duxbury,Massachusetts,Plymouth County,0,145896.08,0.0,113336
+a7fd3a12-197e-9b4d-cda3-f45c586e2196,2009-05-08,,,white,hispanic,F,Beverly,Massachusetts,Essex County,1915,4619.42,205930.34,20452
+6dd76ac3-4aa4-92e7-8ee5-245364bc78a1,1989-08-04,,M,white,nonhispanic,F,Brookline,Massachusetts,Norfolk County,2445,33994.8,612288.41,764
+7c6b90b7-85ab-d34e-7457-bcd7c8a42558,2017-04-13,,,white,nonhispanic,M,Quincy,Massachusetts,Norfolk County,2170,17833.46,13278.91,68183
+2c1d68cb-a289-7f5c-35b4-c9623c002084,2004-10-05,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2203,96836.93,100459.31,117150
+fd712c7e-5293-54f1-83e5-239d78ae6192,1990-09-09,,D,white,hispanic,F,Malden,Massachusetts,Middlesex County,2155,10967.41,673657.72,2347
+14265090-a1aa-2d22-e520-0279a7f02ce7,1954-01-16,2008-05-12,M,white,nonhispanic,F,Gardner,Massachusetts,Worcester County,1440,704623.33,1927557.45,67893
+aeec16f0-2acf-8906-0cc4-aeca9093d69a,2023-10-03,,,white,nonhispanic,M,Framingham,Massachusetts,Middlesex County,1702,7452.68,150.84,642815
+14f0b534-43cf-37ed-627d-89df32a58bf5,1983-04-21,,M,white,nonhispanic,F,Somerville,Massachusetts,Middlesex County,2145,162953.08,853695.71,104100
+3ae50fa7-b701-c7da-3dcc-854a3eb9e3b2,1965-03-15,,D,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,147358.53,43941.75,119438
+80b33abf-d523-abbe-bcc7-2ba031f769f4,1954-01-16,,M,white,nonhispanic,F,Gardner,Massachusetts,Worcester County,1440,653307.18,297178.33,67893
+2a551e7a-416f-a261-0700-cec89bc13bec,1973-09-20,,D,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1103,185902.14,4755.32,53614
+e2466423-98c2-c829-398f-36f062d17d30,2019-10-18,,,white,nonhispanic,M,Plymouth,Massachusetts,Plymouth County,2360,1150.0,20160.86,1257
+a6879460-a5fa-7b1b-c395-980d098abaf6,2010-07-18,,,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,44052.38,0.0,133335
+5f90ecd8-7694-d4ce-e660-f62d2fd12db0,1974-10-24,,S,white,nonhispanic,F,Woburn,Massachusetts,Middlesex County,1801,181073.54,959172.28,24297
+24d135ba-04b9-0acb-8977-69d1f9a638eb,1984-05-15,,M,asian,nonhispanic,F,Medford,Massachusetts,Middlesex County,2155,563905.86,510862.48,84906
+ca2204d0-2311-3fce-a3bb-c2b7419aabf5,1974-12-09,,M,black,nonhispanic,F,Lowell,Massachusetts,Middlesex County,1850,347388.54,656005.37,131954
+04a392bf-4769-c23a-a6c4-27c9e05a14ed,1984-04-04,,M,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2302,85196.01,6013.85,60199
+d8c0f3fa-f61b-d850-9fc3-3004c7ce391f,1993-04-18,,M,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,100854.68,2330.26,51060
+b6512358-b6d2-7046-d766-55c6b2219948,1964-07-14,,S,white,nonhispanic,F,Sharon,Massachusetts,Norfolk County,2067,316603.18,770617.09,162260
+8ad4e752-ef77-01f4-8169-27cdfbced65e,1987-12-05,2025-01-20,M,white,nonhispanic,M,Grafton,Massachusetts,Worcester County,0,112322.91,664065.24,729368
+e444f077-4c97-0b9d-580e-a69e872ad16e,1921-09-19,1995-10-17,D,other,nonhispanic,M,Falmouth,Massachusetts,Barnstable County,2540,291415.18,632386.19,33979
+31f939cc-1be4-932b-8b62-ffc514ae171a,1987-12-05,,M,white,nonhispanic,M,Grafton,Massachusetts,Worcester County,0,42126.17,36134.31,729368
+6cc8f52c-af30-1a6f-a638-3dab70f17260,1952-01-19,,M,hawaiian,hispanic,M,Nantucket,Massachusetts,Nantucket County,2554,51345.92,296219.66,199279
+3034f235-3f2d-cfc8-181d-c1e20880e5c9,1972-02-27,,S,white,nonhispanic,F,Franklin,Massachusetts,Norfolk County,2038,406092.59,360615.4,27111
+84c84f3b-4f90-3d5e-adfb-06978755f00a,1921-09-19,2007-08-21,M,other,nonhispanic,M,Falmouth,Massachusetts,Barnstable County,2540,205803.29,339535.52,33979
+6d10a39e-49db-3fe0-754e-9518332f4b2e,1949-01-31,2009-01-09,M,asian,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,543836.49,306146.87,116518
+d7601a80-c8f9-700c-3568-3923b3f46b6b,2016-09-04,2021-05-11,,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1199,275135.23,147140.46,1737
+7ca24776-dcc0-7d1b-258f-04cf7143048c,2016-09-04,,,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1106,1712.6,24584.54,1737
+88fd925e-b499-e832-0740-84350c71f2bf,1934-02-23,,D,white,nonhispanic,F,Belmont,Massachusetts,Middlesex County,2478,33365.29,1226999.62,8861
+67184114-028f-e1bb-8d7c-15b35813b605,1921-09-19,,M,other,nonhispanic,M,Falmouth,Massachusetts,Barnstable County,2540,199443.31,282676.56,33979
+b27c7211-d615-8a5f-c9e8-5b6148a28479,1968-04-04,,M,white,nonhispanic,M,Hopkinton,Massachusetts,Middlesex County,1748,107041.68,576561.56,34556
+96a407ad-d7b3-7462-d73d-206d40963721,1949-01-31,,S,asian,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,193263.87,159358.67,116518
+8d69e248-644c-fdcb-39c7-0acd358cb54e,2006-07-05,,,black,hispanic,M,Methuen,Massachusetts,Essex County,1844,4152.61,138393.56,19737
+4b9c04cd-b4ee-1dbc-6815-abeb49670ec6,2015-05-06,,,white,nonhispanic,M,Stoneham,Massachusetts,Middlesex County,2180,25556.4,60.61,110694
+b7336190-4a6a-e289-8568-cd1a1870cd62,2018-03-04,,,white,nonhispanic,M,Harwich,Massachusetts,Barnstable County,0,29374.54,0.0,64206
+7172b24a-7302-89a4-7d87-7709a779fb51,1978-05-18,,S,white,nonhispanic,F,New Bedford,Massachusetts,Bristol County,2745,86955.33,654637.41,74405
+22ff710c-6580-3690-b279-7a8f3ca5e2dc,1963-06-30,,M,white,nonhispanic,F,West Boylston,Massachusetts,Worcester County,0,363645.58,612446.26,803229
+62eb31b8-28d2-17b6-1387-794f195fa059,1990-03-01,,M,white,nonhispanic,F,Spencer,Massachusetts,Worcester County,1562,167431.24,712374.11,116242
+85817a66-d073-4615-c88c-844f5ccc6312,1971-11-15,,S,white,nonhispanic,F,Holbrook,Massachusetts,Norfolk County,2343,12084.69,420322.56,19586
+71b1eca4-f396-a547-69b5-6aaccda4760b,1973-04-19,,M,white,nonhispanic,F,Brockton,Massachusetts,Plymouth County,2301,16797.78,1172168.07,13571
+134f9a34-d7bb-c08d-e26b-27f2dbdaa427,2023-09-22,,,black,hispanic,M,Chicopee,Massachusetts,Hampden County,1013,9209.5,649.68,102072
+393dd070-cf66-0365-b880-aaf46ad4994f,1976-11-19,,M,black,nonhispanic,M,North Pembroke,Massachusetts,Plymouth County,2358,140737.91,12119.32,108049
+747a0727-e893-40f7-b261-1cdf66d9d15e,1970-07-06,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2199,299582.73,884303.3,124210
+4ecfe083-7b1a-8f63-3ef2-6912ccd78e78,1957-09-01,,S,white,nonhispanic,F,Norton,Massachusetts,Bristol County,0,393880.29,918698.76,144366
+f06354a1-16d5-89ab-cdd0-7cc6bab44b02,1948-02-22,,M,white,nonhispanic,F,Taunton,Massachusetts,Bristol County,2780,645470.9,213693.8,71894
+11c8460e-35f0-fc19-16c0-111bf2bd8922,2023-01-02,,,white,nonhispanic,M,Carver,Massachusetts,Plymouth County,0,15038.37,0.0,62545
+5e86ff3c-61c7-40ca-f61e-4a5cd4f5952d,1993-10-07,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1604,85538.25,630383.47,182478
+a9ad07b2-9136-3a47-c222-8314db68fed9,1954-01-23,,S,white,nonhispanic,F,Brookline,Massachusetts,Norfolk County,2467,314946.44,797635.24,935551
+8cdc027b-99e0-647a-12d7-1a3eb4eaca02,1974-08-09,,S,white,nonhispanic,M,Bridgewater,Massachusetts,Plymouth County,2324,121277.37,12067.75,74996
+1c3ccbe5-f5e1-a530-d709-784b7101a280,2010-04-10,,,white,nonhispanic,M,Waltham,Massachusetts,Middlesex County,2451,5750.0,506838.62,19507
+1f2eafa4-b9a1-444a-68f0-aa2ac9db6406,2024-12-23,,,white,nonhispanic,M,Shrewsbury,Massachusetts,Worcester County,0,6149.61,237.14,75198
+723adf58-a3bb-866c-76d7-aeecad44bdd4,2020-04-26,,,white,hispanic,M,Grafton,Massachusetts,Worcester County,0,17408.12,0.0,57302
+6096d079-3654-46fc-dc3b-e5a686acef67,2002-09-23,,,black,hispanic,F,Lynn,Massachusetts,Essex County,1901,104382.95,568572.15,95284
+83202f8d-9b7c-6d82-186b-b6f319493087,2009-09-18,,,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1602,37958.09,11340.68,60038
+a43e0bdc-3c18-2989-4f8f-70e547e23d87,1964-05-21,,M,white,nonhispanic,M,Marshfield,Massachusetts,Plymouth County,2050,278180.63,573344.23,53397
+883aac52-010d-ccee-346d-d4be24ea4b2e,1985-04-03,,S,white,hispanic,F,New Bedford,Massachusetts,Bristol County,2746,214762.44,566400.12,120954
+6338393d-af0c-e3e0-ac14-e0f6b647691e,2001-01-02,,,white,hispanic,F,Agawam,Massachusetts,Hampden County,1001,7075.35,344878.95,4143
+cedb8f08-2e39-7040-37aa-495ada26dea1,2013-03-27,,,white,nonhispanic,M,Arlington,Massachusetts,Middlesex County,2476,37346.53,10557.96,44408
+4ce5d6c9-54e7-ad85-205d-0e26b6927e78,1967-10-05,2020-01-01,M,white,hispanic,F,Newton,Massachusetts,Middlesex County,2461,12852.3,548969.9,10002
+f0711698-2d83-a8d2-11be-7216bbcc93f4,1976-02-19,,M,white,nonhispanic,F,East Dennis,Massachusetts,Barnstable County,2641,406984.35,529156.31,39491
+b90e8c69-a795-305c-307e-504860a35af4,1979-01-04,,M,white,nonhispanic,M,Ashburnham,Massachusetts,Worcester County,0,102881.34,0.0,60138
+411d2ca6-2ea9-dd6f-ff6f-1f026eae1f84,2013-03-08,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2121,39416.94,5238.79,110852
+4df26753-44cd-683b-ff5e-9dfd2a8040c4,1967-10-05,,D,white,hispanic,F,Newton,Massachusetts,Middlesex County,2467,16511.49,1097699.3,10002
+39acd19e-7b4e-6606-e4bc-1d20e605c5bc,1971-10-20,2026-05-09,M,white,nonhispanic,F,East Bridgewater,Massachusetts,Plymouth County,0,296360.17,457162.85,24114
+2f2d1eb4-3b53-9f6b-beb0-5b6fb98bdf2d,1942-02-06,,M,white,nonhispanic,F,Ayer,Massachusetts,Middlesex County,1432,48156.29,2110863.49,23102
+d7e74ab2-696d-bd76-69a2-67c3fec09993,1995-01-11,,M,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2210,8862.11,540810.53,14159
+db8cef11-2697-b2b1-5d9e-fba72951fe90,1972-03-11,,D,white,nonhispanic,F,Hudson,Massachusetts,Middlesex County,1749,845366.51,476140.39,57674
+26e97e58-d9fd-754a-ca1a-7aa07928e457,2008-10-21,,,white,hispanic,M,Wales,Massachusetts,Hampden County,0,39450.16,19176.67,63155
+72418fb1-73b0-63cb-bfc5-8d58f3e1717f,1975-06-10,,D,asian,nonhispanic,F,Tyngsborough,Massachusetts,Middlesex County,0,1239621.04,132327.81,109850
+e5f2db8a-1d9a-31cf-ee91-909ea4071e45,1971-10-20,,M,white,nonhispanic,F,East Bridgewater,Massachusetts,Plymouth County,0,173414.52,1646450.54,24114
+b54989c2-34b4-17f7-a75a-cc069ea232e6,1952-02-03,,M,white,nonhispanic,M,Spencer,Massachusetts,Worcester County,1562,19088.34,407491.17,16309
+5d7ea316-9f4f-050d-7052-2f38d4eaffff,2024-08-14,,,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2748,6668.62,362.3,141188
+e19beb5b-d819-fd67-6034-ec6ddf161ef5,1994-09-05,,M,other,nonhispanic,M,Charlton,Massachusetts,Worcester County,0,71882.41,17910.32,30716
+918c7280-b19a-83f7-f414-268766e1fbc9,1982-06-26,,M,white,nonhispanic,F,Wenham,Massachusetts,Essex County,0,344273.85,906574.91,249230
+045a051d-f6f5-6a64-3d0f-6d3401b89285,1988-01-08,,M,white,nonhispanic,M,Lawrence,Massachusetts,Essex County,1841,74319.15,0.0,77056
+10b7b546-5d4d-c187-d79b-c4829a429759,1988-05-01,,M,white,nonhispanic,F,Waltham,Massachusetts,Middlesex County,2453,12047.51,276107.6,1776
+538d97a7-84a7-f03b-16b7-4af6f3f78737,1976-05-15,,D,hawaiian,nonhispanic,M,Wilbraham,Massachusetts,Hampden County,1095,208343.19,0.0,96768
+dbfad56b-07d1-451c-4249-d30a62a1ac32,1987-07-05,,S,white,nonhispanic,M,Belmont,Massachusetts,Middlesex County,2472,21985.48,121746.15,138886
+6a480329-88bc-6bc7-74be-c371e4a1af98,2006-01-09,,,asian,nonhispanic,M,Belmont,Massachusetts,Middlesex County,2138,42721.06,1843.87,568720
+ee6420b4-7098-652f-d445-849588fbbf45,1995-05-30,,S,white,hispanic,F,Boston,Massachusetts,Suffolk County,2110,235216.91,35838.0,44508
+0b2fabdc-7fe6-40b6-838d-d4f12b986c66,2006-04-12,,,white,nonhispanic,F,Chicopee,Massachusetts,Hampden County,1020,110596.54,804183.42,83546
+00e779b5-076c-dc27-40bd-a4ca30464afa,1998-04-14,,M,white,nonhispanic,M,Fitchburg,Massachusetts,Worcester County,1420,77366.5,48522.66,34008
+ef5d5733-5a42-346b-a6fd-37bda7e43b4d,2002-04-09,,,white,nonhispanic,F,Southborough,Massachusetts,Worcester County,0,84267.87,152599.77,45206
+541ceae2-0686-42c9-67b5-3d912e4e7ff1,1957-09-09,,M,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,153100.97,27807.41,50129
+c3e81ca1-8ca8-3e46-c700-50e6cea7ea1b,2004-12-26,,,white,nonhispanic,M,Pittsfield,Massachusetts,Berkshire County,1201,4424.71,51355.64,16654
+c1f14c37-6cb6-592e-007b-ea2890f1e74f,2020-05-01,,,white,nonhispanic,F,Lowell,Massachusetts,Middlesex County,1854,12669.38,0.0,45069
+c3c1c8a5-6a9b-931f-db30-2d621d7dc51c,1958-05-12,2017-04-02,M,white,nonhispanic,F,Hadley,Massachusetts,Hampshire County,0,797636.25,238936.37,66265
+fae080f6-ee61-43d4-8933-4e1ec3c7a41d,1953-04-08,,M,white,nonhispanic,M,Duxbury,Massachusetts,Plymouth County,2332,157985.43,55204.02,111615
+f0a9ad94-1649-49d9-bb1b-0f3a491b5fbb,2011-07-02,,,asian,nonhispanic,M,Boston,Massachusetts,Suffolk County,2152,33367.58,7486.7,69443
+1a19e0aa-cd15-0976-7a7f-be4578fba4e7,1953-03-26,,M,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2186,875356.9,274963.48,76563
+880a5e47-a222-6a51-795b-b51cb15d0c7c,1984-04-05,,M,black,hispanic,F,Lynn,Massachusetts,Essex County,1902,16256.46,1175800.01,5978
+c938a6a3-0e85-cb84-8c68-5fd7981be649,2003-06-01,,,white,nonhispanic,M,South Amherst,Massachusetts,Hampshire County,0,59172.78,3740.8,507091
+fcc4048e-c121-506c-cf4d-f6bbb3b3cc5b,2006-10-13,,,white,nonhispanic,M,Raynham,Massachusetts,Bristol County,0,35818.06,36614.31,322356
+945b275f-e055-f256-2bc7-5572fbe940a7,2022-01-07,,,black,nonhispanic,M,Holyoke,Massachusetts,Hampden County,1040,550.0,19523.33,25412
+ce0ef316-ceee-6b26-92d0-19fb54a2fd94,1967-07-09,,W,other,nonhispanic,M,Acton,Massachusetts,Middlesex County,0,75096.79,217253.06,96495
+fc9ccceb-cacb-3e22-522b-d94225ee5e8b,1953-06-24,,D,white,nonhispanic,M,Shrewsbury,Massachusetts,Worcester County,0,455525.74,81651.69,39295
+8b1869c8-94b6-9490-abee-2ac1b5a0c1f8,1999-10-09,,,white,nonhispanic,M,Framingham,Massachusetts,Middlesex County,1702,103681.25,13215.65,138245
+b178edc6-2055-a0b6-12b6-ffac66c53cd3,1958-05-12,,S,white,nonhispanic,F,Hadley,Massachusetts,Hampshire County,0,716488.87,537739.06,66265
+c9a46955-9771-7bd1-38f7-f16748895256,2026-02-16,,,white,nonhispanic,F,Barnstable,Massachusetts,Barnstable County,2632,2585.58,0.0,47173
+4180dbcb-7411-85d4-d187-f22d7d466de1,1971-04-01,,D,white,nonhispanic,M,Salem,Massachusetts,Essex County,1907,154019.58,111022.49,64302
+018e476b-482b-249e-0ff9-89b490e881ac,1985-06-07,,S,white,hispanic,M,New Bedford,Massachusetts,Bristol County,2746,129041.48,36625.81,130245
+7f6a14ac-27e9-50b2-4b9e-588fd3d1a158,2006-01-15,,,asian,nonhispanic,F,Barnstable,Massachusetts,Barnstable County,2647,42853.95,7375.96,46590
+e4779989-f733-5042-9d51-dde9cf177402,1927-04-30,2011-12-04,M,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,15460.49,483759.71,13875
+0949d099-f32e-3199-b309-dd09b66f3904,1962-08-02,,M,white,nonhispanic,M,Natick,Massachusetts,Middlesex County,0,154697.99,38863.33,153665
+d79a33b3-d932-7be9-324b-b28feca3405a,2004-05-08,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2126,88040.79,136959.75,395002
+0c3c1b83-a78d-428c-c36a-f09bb7b564c2,1981-12-26,,M,white,nonhispanic,M,Stoneham,Massachusetts,Middlesex County,2180,95472.95,6939.1,196946
+5bd2d989-f169-162f-be87-31adeb54742b,1927-04-30,2005-01-10,W,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,14224.72,396786.07,13875
+085249b7-590b-86a2-74c2-076c8b56011c,1921-06-28,,S,white,nonhispanic,F,Barnstable,Massachusetts,Barnstable County,2675,740791.1,383193.4,83847
+aa833f23-c747-86cb-8e7d-e8e915bf2687,1927-04-30,1994-02-18,M,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,16233.92,235774.76,13875
+b3c7b7b3-0b24-5a12-0961-e6ab7e0a923e,1993-08-26,,M,white,nonhispanic,M,Ludlow,Massachusetts,Hampden County,0,127222.21,54350.15,146601
+347164dd-7c00-2783-9793-f09bffe592d5,1946-04-08,,D,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1151,191121.1,1138810.23,132137
+3898c3d3-be1b-570a-f09e-cd6d0e62aff7,1972-11-23,,M,asian,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2191,17841.4,1288802.54,9129
+8bf09af6-e34e-c4bf-124c-f7a5cc7fa026,1991-07-08,,S,white,nonhispanic,M,Everett,Massachusetts,Middlesex County,2149,85752.32,12358.31,92096
+ebbfcb7e-b0f3-8b26-5922-aed0f465771b,1985-09-29,,D,native,nonhispanic,M,North Attleborough,Massachusetts,Bristol County,0,121843.06,0.0,61984
+2eba75a9-0c26-cc22-959b-a0929ac6ae3d,1927-04-30,,D,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,50791.58,1123965.68,13875
+ad71b663-c90f-8f2b-22eb-3b2fa7313942,2009-07-12,,,white,nonhispanic,F,Plymouth,Massachusetts,Plymouth County,2360,24764.08,17611.38,138028
+b6d87795-331d-8ec6-3062-d4f5cfc9878a,1988-07-11,,M,white,hispanic,M,Springfield,Massachusetts,Hampden County,1109,8895.06,137218.0,4090
+1a32a027-35d9-b9b7-b327-907cae1694ab,2009-05-08,,,white,nonhispanic,F,Fitchburg,Massachusetts,Worcester County,1420,6882.94,688034.21,15557
+4ceee73c-d92c-2be2-fbb4-0eba864eec16,1986-02-27,,D,white,hispanic,M,Oak Bluffs,Massachusetts,Dukes County,0,94433.24,28130.95,145902
+6379e874-126e-3677-b68c-b2057cbd2db1,2020-08-24,,,white,nonhispanic,F,Swansea,Massachusetts,Bristol County,0,22819.81,6089.0,176981
+1b18509e-d9b0-eb34-e96d-1fcccac120d1,1977-03-10,,M,white,nonhispanic,F,Franklin,Massachusetts,Norfolk County,2038,296417.09,705578.66,177169
+2f980d0b-79a3-e990-4403-11679484a45a,2002-10-06,,,white,nonhispanic,M,Cambridge,Massachusetts,Middlesex County,2140,84065.96,0.0,108296
+c340bbbf-8c1a-3ba1-161c-8f1561b723f9,2025-06-15,,,white,nonhispanic,F,Northborough,Massachusetts,Worcester County,1532,3752.55,3346.18,334284
+6c9a5799-fad4-7bbf-31df-52bf7400eee3,2010-11-02,,,white,nonhispanic,F,Dudley,Massachusetts,Worcester County,0,15236.53,94141.73,92082
+e483495e-2bd9-fc48-11cf-3f6463866e62,2004-08-24,,,white,nonhispanic,F,Tewksbury,Massachusetts,Middlesex County,0,80097.95,146141.32,79014
+4813c86b-3f40-c67e-c6a9-d68eb4a3c20c,2017-04-04,,,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1603,34444.3,0.0,43983
+46ea038a-acf1-d2eb-c05f-b9938184e976,1967-10-30,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2109,578715.08,685640.29,119276
+4e87d61e-9f4d-b6b0-2cb6-ade5760033ce,2013-06-17,,,asian,nonhispanic,F,Methuen,Massachusetts,Essex County,1844,36090.29,10496.21,28843
+7faec552-ee92-3a7e-4bde-1fefc45f3122,1992-03-17,,M,white,nonhispanic,F,Dedham,Massachusetts,Norfolk County,2026,281755.09,477668.51,39043
+90c09c27-f731-efb5-4ccb-6c33137e8c71,1938-12-10,2016-09-14,M,white,nonhispanic,M,Revere,Massachusetts,Suffolk County,2151,82258.17,3628229.36,10041
+8b517fab-66ec-1431-adf4-9ed55c0aab1b,1961-06-27,,M,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,580395.62,274049.65,112988
+2279f31b-732c-91ba-f4a1-46126d306c20,1992-09-01,,M,white,hispanic,F,Andover,Massachusetts,Essex County,1810,60258.11,240292.69,70580
+22583311-245b-4276-9979-2d404f0e8a47,1990-03-28,,M,white,nonhispanic,M,Kingston,Massachusetts,Plymouth County,2364,73670.93,780.0,198443
+3cfe01ba-98c4-4303-01bc-79745d893e23,1941-11-23,2002-11-03,M,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2723,157593.98,11181.39,122491
+0a7d79d4-6587-7633-28e6-96e13c9ff355,2011-09-13,,,white,nonhispanic,M,Palmer,Massachusetts,Hampden County,1069,20439.92,17000.41,108022
+91d548c0-daaf-650d-5cfa-43f8f7fdf28c,1951-08-08,,M,white,nonhispanic,M,South Duxbury,Massachusetts,Plymouth County,0,207623.24,1035022.15,23863
+c6be6747-0560-ae72-a05e-c9959b58191d,2000-05-07,,,asian,hispanic,F,Watertown,Massachusetts,Middlesex County,2472,159477.78,337647.41,51718
+3189a2e9-7704-3ee2-0078-c688569be6b0,1938-12-10,,M,white,nonhispanic,M,Revere,Massachusetts,Suffolk County,2151,14839.7,253515.58,10041
+54baae19-96f8-2ec6-496c-1ef56e6f8650,1988-04-22,,M,black,hispanic,F,Boston,Massachusetts,Suffolk County,2110,84095.88,362053.84,262864
+ca4ca872-bbd3-eecf-06b5-55fd1a527567,1941-11-23,2012-12-19,M,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2724,194081.29,87019.06,122491
+263a62bc-2f68-99e3-b0d8-10a8380d62f2,2013-02-01,,,white,nonhispanic,F,Southborough,Massachusetts,Worcester County,0,17763.44,57556.63,96520
+f8ae4017-7813-487d-b0a2-53f757d2d1c0,1985-10-12,,M,white,nonhispanic,M,Cohasset,Massachusetts,Norfolk County,0,135379.87,255564.47,55792
+b608ac50-851f-77fa-387b-64f40800ead4,1965-08-15,,S,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1583,572766.38,8843.96,59349
+312bf1b0-deb0-a2da-cac8-95422a7aa368,1963-10-05,,M,hawaiian,nonhispanic,M,Belchertown,Massachusetts,Hampshire County,1007,148396.53,51133.26,89371
+af2e456a-5fed-3bb5-e2a4-3765a08886bd,2023-02-14,,,white,nonhispanic,F,Methuen,Massachusetts,Essex County,1844,14315.8,0.0,191274
+2342c0f3-9562-7c22-b6a9-286c596ee6d6,1941-11-23,2006-12-20,M,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2747,191689.79,222776.3,122491
+ba5702a3-5526-8202-c5b8-e19a8d26fd82,2023-02-25,,,white,nonhispanic,M,Sterling,Massachusetts,Worcester County,0,8745.67,537.83,35315
+5ed8ce48-73a9-c3ff-ab51-56e59cc60a95,2004-06-19,,,white,nonhispanic,F,Boxborough,Massachusetts,Middlesex County,0,67545.27,0.0,50219
+d3c5d835-44df-58d7-7ffb-b95423c98171,1996-06-17,,S,white,nonhispanic,F,Dracut,Massachusetts,Middlesex County,0,138717.8,348364.83,65047
+d9321335-5108-5485-8e4c-2d01248ec8c5,1975-06-03,,S,white,nonhispanic,F,Ashland,Massachusetts,Middlesex County,0,191338.42,22577.6,76235
+5a9e33ac-d174-edf3-4eaf-46fa42ec29fd,1974-02-03,,M,white,nonhispanic,F,Canton,Massachusetts,Norfolk County,0,20723.64,607295.6,18982
+9645d6bc-cd27-da5e-084d-a1a3c205c7da,1941-11-23,,M,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2790,186402.4,286676.39,122491
+0267a0d4-d020-147e-d33f-24e0e936fff4,1976-05-11,,M,white,nonhispanic,M,Milton,Massachusetts,Norfolk County,2186,151846.93,18794.18,50751
+b23a0daa-f4aa-c59b-1911-b0dc4ccd4c57,1968-07-29,,S,white,nonhispanic,M,Haverhill,Massachusetts,Essex County,1835,192452.2,58489.19,150014
+d220c4d1-c36e-5eba-4295-57d6886edd1e,1971-10-25,,M,white,hispanic,M,Holyoke,Massachusetts,Hampden County,1040,11914.27,194708.92,15530
+26b4df75-2ea4-f22b-198a-d8dee183d777,2026-05-27,,,white,nonhispanic,M,White Island Shores,Massachusetts,Plymouth County,0,100.0,2051.7,23675
+fb60eed7-c169-721e-8a41-d4c51369bc39,1959-05-13,,D,hawaiian,nonhispanic,F,Amesbury,Massachusetts,Essex County,1913,214118.84,59196.49,197021
+0f039a15-f7fd-46b2-c06b-b3811935b1bf,1961-04-17,2012-05-11,M,white,nonhispanic,F,Danvers,Massachusetts,Essex County,1937,79486.83,233658.29,26228
+3a2cb905-5d1e-b3d7-d30b-4665f039219c,1976-02-29,,M,white,nonhispanic,M,Malden,Massachusetts,Middlesex County,2155,109668.38,12730.36,69815
+cd51bfc0-e8d3-6f60-9f02-f862526f5e3e,1977-06-07,,M,white,nonhispanic,M,Methuen,Massachusetts,Essex County,1841,139739.47,616042.73,139567
+0092d035-b02a-64b2-f8fd-2f5c370770ff,1997-05-28,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2134,6123.66,118602.21,17957
+c03d8666-19e5-96f2-dbf0-63776237b8fa,1961-04-30,,M,white,nonhispanic,M,Somerville,Massachusetts,Middlesex County,2140,13181.23,340189.37,18856
+97216ad4-fe21-4c0d-d98f-a0018e4030ae,2013-12-04,,,white,nonhispanic,M,Pembroke,Massachusetts,Plymouth County,0,7261.46,51713.31,141459
+35ea72e2-7efe-106b-5070-a3d5b0d3b6b8,1961-04-17,,D,white,nonhispanic,F,Danvers,Massachusetts,Essex County,1923,213178.55,809969.78,26228
+b22e9f22-c9ca-d046-267f-8e6eaf83459e,2006-10-22,,,white,nonhispanic,F,Northampton,Massachusetts,Hampshire County,1062,67187.82,69757.94,46059
+20ea04cc-3344-a7c1-a30f-083b6c8aba13,1995-09-26,,M,asian,nonhispanic,M,Somerville,Massachusetts,Middlesex County,2145,60155.75,12359.51,45890
+5d8014e2-890a-9729-7243-c4f019223fe5,1974-11-20,,M,white,nonhispanic,M,Cambridge,Massachusetts,Middlesex County,2472,101090.45,284944.86,144916
+214dccc5-503c-53e5-87c6-9e6545f1e914,1993-07-21,,M,white,nonhispanic,M,Dedham,Massachusetts,Norfolk County,2026,13771.21,197168.37,9566
+87ce97ad-76f9-2f50-10bc-ecab039ec6e7,2021-03-10,,,white,hispanic,M,Springfield,Massachusetts,Hampden County,1106,1050.0,12566.79,6749
+72900cba-4940-bc06-47a9-c9035e66cabf,1993-06-14,,M,white,nonhispanic,F,Everett,Massachusetts,Middlesex County,2148,192851.14,650743.82,43982
+ebc149af-f977-c12b-4d2f-20258dbf15ce,2006-02-08,,,white,nonhispanic,F,South Amherst,Massachusetts,Hampshire County,0,81816.39,673243.34,140911
+13dc47d1-7a19-f689-92b3-c5409ac7cc64,1977-01-11,,M,white,nonhispanic,F,Fitchburg,Massachusetts,Worcester County,1420,600615.05,565259.69,110479
+f472d9d4-2962-e91b-ae97-3de24b808a73,1986-07-24,,M,white,hispanic,M,Westminster,Massachusetts,Worcester County,0,97182.9,40032.11,181699
+37670360-6d9b-cc66-faee-7aef220f5042,1987-09-25,,S,white,hispanic,F,Northampton,Massachusetts,Hampshire County,1053,15978.19,762311.39,23253
+8742ddaf-fde6-690f-3539-dec96a3da0d7,1965-01-08,,M,white,nonhispanic,F,Chelmsford,Massachusetts,Middlesex County,0,215326.64,532396.31,29054
+a3690391-d86b-937a-46cc-6e0371b57dfa,1979-11-11,,S,white,nonhispanic,M,Pembroke,Massachusetts,Plymouth County,0,123979.18,6915.22,65195
+ce9db538-c00d-a240-cd58-abd027363c3d,2016-04-22,,,white,nonhispanic,F,Duxbury,Massachusetts,Plymouth County,2332,15992.57,22317.27,72236
+22c03724-607c-32a7-0dbd-16cc906d6caf,1998-08-19,,M,white,nonhispanic,F,Belchertown,Massachusetts,Hampshire County,1007,56405.22,83834.92,43945
+6eb1cce2-bac8-6ff4-d5c2-0c77becaf625,1980-07-23,,M,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2302,142014.8,544042.6,138828
+2d94119a-aeb2-bf90-6a5a-d6b6831fbc67,1979-12-21,,M,white,hispanic,M,Boston,Massachusetts,Suffolk County,2119,233018.36,528632.3,101582
+0d66030e-9ddd-c501-9dfe-cf4824deb2b2,2015-12-14,,,white,nonhispanic,F,Taunton,Massachusetts,Bristol County,2780,1431.92,25660.74,25116
+9f830217-e1c5-1142-1054-15d744841409,2003-02-03,,,white,nonhispanic,M,Framingham,Massachusetts,Middlesex County,1702,45249.58,15953.29,35866
+429718a4-fc4e-285e-cd84-3a244a97b5bd,1976-01-28,,M,white,nonhispanic,F,Milton,Massachusetts,Norfolk County,2186,12132.45,524959.37,20117
+b120c448-875e-ae43-7fcd-a407595069b8,1961-03-28,,M,white,nonhispanic,F,Lynn,Massachusetts,Essex County,1904,18916.86,558246.5,15156
+3b4daefe-12e0-3b69-f4bb-bf086e6544cc,1967-03-25,,S,white,nonhispanic,M,Bourne,Massachusetts,Barnstable County,2532,30277.23,1019453.26,6499
+65a679f3-b2b2-9070-9719-af8092333646,2011-08-15,,,white,hispanic,F,North Andover,Massachusetts,Essex County,0,19661.02,13606.87,132093
+6cf1e273-07d0-4602-0008-12f1210fc11f,1964-02-06,,M,white,nonhispanic,M,Tyngsborough,Massachusetts,Middlesex County,0,216083.07,623566.15,125911
+60b9ea46-625e-6e5f-5c10-537fea6871a7,1986-11-29,,M,asian,nonhispanic,F,Northwest Harwich,Massachusetts,Barnstable County,0,424395.51,481109.71,80419
+2f38e1ef-d24c-397a-cafe-4c7061e07ef8,1941-07-02,,W,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2119,51111.96,1413204.01,5254
+51071b48-f9b7-7ed6-b3bb-01e3b8f4cf6a,1971-01-31,,S,white,nonhispanic,M,Revere,Massachusetts,Suffolk County,2151,172577.49,22106.85,36505
+08e54a9e-fb04-c946-568c-736d319e2b0e,2000-06-29,,,white,nonhispanic,M,Walpole,Massachusetts,Norfolk County,2081,34798.67,33351.08,873280
+5ab55b0f-0bc3-0087-bcd0-88a1bcaef6dc,1964-01-26,,W,white,nonhispanic,M,Dalton,Massachusetts,Berkshire County,0,134375.13,104820.75,95276
+43bb82ec-28f3-f550-803a-34fc4cbe72cf,2005-12-18,,,white,nonhispanic,F,Dudley,Massachusetts,Worcester County,0,70037.01,7323.14,54191
+3a3263ea-6a6e-a8c5-5de7-6dcc0c70eb7c,2011-01-06,,,white,nonhispanic,M,Lowell,Massachusetts,Middlesex County,1852,35252.79,8631.85,59149
+1d19a8d9-bbd7-778b-fd8a-abe0c4598b24,1975-09-27,,D,white,nonhispanic,F,Somerville,Massachusetts,Middlesex County,2144,150866.23,156770.45,184567
+7908198b-1ea3-96af-bd24-f9f7cfa5ff25,1972-11-24,,M,white,nonhispanic,F,Shrewsbury,Massachusetts,Worcester County,0,355955.05,82446.18,54324
+f7ff9a22-0574-1371-2e72-3c6f51009770,2010-05-03,,,white,nonhispanic,M,Amherst Center,Massachusetts,Hampshire County,0,24420.93,41642.81,99352
+6d0e6aa4-a0f8-1582-b284-a3599abf565f,1972-07-02,1983-03-16,,white,nonhispanic,F,Taunton,Massachusetts,Bristol County,2780,44613.44,29542.72,178227
+4291183f-736a-bb06-ebd5-d0b7df0fc3e9,1983-04-30,,M,white,nonhispanic,F,Yarmouth,Massachusetts,Barnstable County,0,449040.19,48620.73,87795
+547d3376-c96a-dccd-49fa-b8db0ca3ed36,2007-05-28,,,white,nonhispanic,F,Amherst,Massachusetts,Hampshire County,0,33760.0,43054.77,136209
+2a0f60d3-1c59-9185-7599-1cafdf6b3acb,1988-12-24,,M,white,nonhispanic,F,Marshfield,Massachusetts,Plymouth County,2050,251234.94,437816.85,77333
+5a44c1a3-b00f-47f4-a381-aa7a97248839,1972-07-02,,M,white,nonhispanic,F,Taunton,Massachusetts,Bristol County,2780,199343.79,925629.13,178227
+72cd9fbf-24d3-d885-3bec-2558e3e555da,2008-11-06,,,white,hispanic,M,Newton,Massachusetts,Middlesex County,2461,52248.43,5738.66,158478
+55a6d1e5-f17a-6733-cde0-97897fe3cb5d,1980-05-15,,M,white,nonhispanic,F,Malden,Massachusetts,Middlesex County,2155,267021.2,312442.81,28662
+047d573d-3c54-a50b-fb18-db90ae1db43a,2014-02-17,,,white,nonhispanic,F,Westford,Massachusetts,Middlesex County,0,79089.84,0.0,58691
+3b62677c-3340-38bf-6e88-d89dccc92af4,1993-03-10,,M,black,hispanic,F,Boston,Massachusetts,Suffolk County,2467,213374.36,451466.92,126611
+c9d18d0a-0708-d332-db6e-8447185e1eb6,2019-02-05,,,white,nonhispanic,M,Cohasset,Massachusetts,Norfolk County,0,26446.66,8720.83,46020
+11118797-505d-af09-73ce-10735792d353,1969-11-03,2019-04-26,M,asian,nonhispanic,M,Georgetown,Massachusetts,Essex County,0,250831.13,167241.07,52319
+45ba6f9f-cc37-e36a-9988-2b9628e5bb6c,1964-12-10,2018-09-27,S,white,nonhispanic,F,Acton,Massachusetts,Middlesex County,0,715955.95,92840.23,98770
+536ce1fd-73c3-3a61-bffb-16a6c00a5575,1964-12-10,,M,white,nonhispanic,F,Acton,Massachusetts,Middlesex County,0,794658.98,128565.97,98770
+d302e307-b9bf-12db-3538-efe71906df98,1943-05-17,,M,white,nonhispanic,F,Taunton,Massachusetts,Bristol County,2767,864340.28,494493.59,78563
+e8f1698e-87eb-1172-c34c-e5011682e3fa,1986-05-21,,S,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2125,10599.13,188236.16,13820
+b7862d2f-52a5-ab6f-4ff7-0247e4093aec,2012-05-17,,,white,nonhispanic,F,Lowell,Massachusetts,Middlesex County,1852,2380.51,42589.25,6679
+65d4afc0-d00a-19b3-0997-6b19f96b9c8e,1948-03-03,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2151,972615.64,1450906.42,45153
+aee89967-ae23-c43b-62a5-86177b89c03e,1969-11-03,,M,asian,nonhispanic,M,Georgetown,Massachusetts,Essex County,0,228116.11,462963.27,52319
+31593bfc-86cc-e8a7-9e5f-8a36ee7ae039,1955-01-17,,W,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1608,217032.41,870788.05,26415
+bace4562-fcd8-6033-2d6b-f5def181b7ac,1997-03-29,,M,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2118,87736.28,33796.74,156528
+0764eea6-d754-39a6-8a3d-d352be03f882,2017-08-14,,,white,nonhispanic,F,Somerville,Massachusetts,Middlesex County,2145,38586.69,0.0,38624
+28f47273-c326-900c-1486-ad721feadb0a,1990-03-26,,M,white,nonhispanic,F,Mashpee,Massachusetts,Barnstable County,0,99680.06,236352.22,25174
+5d3491ce-cb95-541a-9aa1-7cea6f4e9936,1975-08-22,,M,white,nonhispanic,F,Wilmington,Massachusetts,Middlesex County,1887,264363.71,1221982.26,129010
+06a8b911-e475-cd40-f4d4-2489b8aa7e20,1967-04-30,,M,white,nonhispanic,M,Medford,Massachusetts,Middlesex County,2145,167398.88,61482.78,132840
+7895f380-1cfd-d6f8-86d1-ae527d46df3e,1955-10-11,,M,white,nonhispanic,F,Methuen,Massachusetts,Essex County,1841,256798.24,338660.83,167513
+b1a68a78-7fb1-ace1-ae58-393437fe27ef,2012-08-25,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2109,22793.79,17198.6,50
+3605a6ae-8b2f-4e76-7d0f-935494509ad3,2004-03-04,,,white,hispanic,F,Boston,Massachusetts,Suffolk County,2135,55308.78,9090.13,91547
+b37695c6-0b48-c7e5-cd0e-481ff6fddf4b,1931-02-23,2019-04-22,W,black,nonhispanic,F,Chicopee,Massachusetts,Hampden County,1022,1201177.71,536923.32,57799
+4c9ee0c9-03e1-83ec-a8a3-b29e0c5f2824,1989-07-03,,D,white,nonhispanic,M,Lakeville,Massachusetts,Plymouth County,0,117525.04,37209.98,60031
+b9dc1f48-ce63-c57d-3a5b-6d174cbf2d45,1958-04-02,,M,white,nonhispanic,M,Weymouth,Massachusetts,Norfolk County,2188,193237.22,16520.36,94109
+64f37f1b-9398-0b19-0c28-13cc54c0af92,1987-10-02,,D,white,nonhispanic,M,Quincy,Massachusetts,Norfolk County,2186,55768.47,9712.22,67809
+9643df5b-5a3a-0ece-97e8-326322101fb1,1971-10-13,,M,white,nonhispanic,F,Milton,Massachusetts,Norfolk County,2186,741215.75,519295.02,66479
+e93c2a0d-acb5-b2b0-7e05-0e15971cea47,1931-02-23,,W,black,nonhispanic,F,Chicopee,Massachusetts,Hampden County,1022,610902.37,232671.19,57799
+b55d3ff1-0f5f-d097-af2e-eba7faa0008b,1948-06-04,2022-07-22,M,black,hispanic,M,Boston,Massachusetts,Suffolk County,2203,294218.9,787170.16,147980
+8d3ad26e-139a-e928-44b4-598b829838fb,1988-05-19,,M,white,hispanic,F,Marlborough,Massachusetts,Middlesex County,1752,19749.21,1087064.51,6231
+beb3f6e6-d5fc-e3fe-f922-4c3b3c8f0ca3,1974-02-10,,M,white,nonhispanic,M,Norton,Massachusetts,Bristol County,0,18176.11,208322.95,11345
+a048298c-7135-8449-cea8-1fe6fe002a1b,1964-01-17,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2118,913822.41,433632.36,88254
+becb1c1b-5736-c4dc-f786-b76c52d3778b,1975-06-04,,M,black,nonhispanic,F,Wareham,Massachusetts,Plymouth County,0,818982.85,203371.71,83087
+78349ccd-5c54-899a-0f5b-fd500bc0f030,2013-11-16,,,white,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,2152.95,66796.51,23800
+86d2a28f-b82f-13eb-aeed-a63871077231,1964-04-05,,D,white,nonhispanic,M,Marshfield Hills,Massachusetts,Plymouth County,2051,136984.27,316305.75,179937
+51dedddf-b385-5a21-ce8f-9b4fff2634bd,1983-02-15,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2109,277276.41,440884.69,68714
+168fbdf4-d47d-d9ce-f86c-408bd08e270c,2024-11-19,,,white,nonhispanic,F,Dedham,Massachusetts,Norfolk County,2026,3242.12,1915.24,75993
+22215de1-7b17-6366-c7e5-c7430e432d88,2003-07-08,,,white,nonhispanic,F,Littleton,Massachusetts,Middlesex County,0,73585.7,108581.73,661566
+ed3d1ce3-ca37-9ac1-25c9-13dea5e4c2d1,1956-01-29,,D,native,nonhispanic,F,East Dennis,Massachusetts,Barnstable County,2641,307743.37,868120.99,29272
+716497fc-e655-63ad-1959-49fda8716411,1948-06-04,,D,black,hispanic,M,Boston,Massachusetts,Suffolk County,2118,217736.58,264965.88,147980
+c6363aad-cadc-ef12-b679-dc84bc5c4a93,1977-03-18,,M,white,nonhispanic,F,Wellesley,Massachusetts,Norfolk County,2457,244697.03,382888.89,329383
+8cb9b5c2-924d-9b82-815c-1abeb9bc3f66,1943-07-17,,M,white,nonhispanic,M,Barnstable,Massachusetts,Barnstable County,2632,330235.8,203608.92,64166
+818bde9e-78b2-a5a2-1401-4078745f164d,2008-02-20,,,white,nonhispanic,M,South Amherst,Massachusetts,Hampshire County,0,8331.31,72571.53,1762
+0ccddc01-5fe4-96c8-58de-cd776e8bd41e,1980-01-03,2017-02-18,S,white,nonhispanic,F,Clinton,Massachusetts,Worcester County,1510,348290.21,97590.67,87196
+609b9ee2-55c1-9f26-896d-d1c30165108b,1964-12-18,,D,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2169,549085.8,60778.8,96322
+5dfeff99-7613-881f-4b63-811e529c8573,1982-04-25,,S,black,nonhispanic,M,Avon,Massachusetts,Norfolk County,0,113959.62,13357.12,64563
+11b3c588-1133-8e53-29b9-434ec94e35e8,2000-10-28,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2119,62020.41,25269.4,41402
+26773730-2215-3726-95c4-e6ac1cd22028,1980-01-03,,W,white,nonhispanic,F,Clinton,Massachusetts,Worcester County,1510,30695.78,1293826.04,87196
+3740dee7-458a-7470-74fd-b2dae984ed94,2018-12-03,,,white,hispanic,M,Holyoke,Massachusetts,Hampden County,1040,1279.78,19015.32,13979
+f53a0bc4-2365-4c32-8ba5-6ab55f36f871,1993-02-12,,S,white,nonhispanic,F,Lawrence,Massachusetts,Essex County,1840,44276.69,152590.25,25155
+1c465fcd-a556-22bc-db47-2b6752fbbe44,2010-09-26,,,black,nonhispanic,F,Lynn,Massachusetts,Essex County,1906,53265.91,368574.23,119112
+bdf069f3-068d-610c-bb80-b0c14fed07c4,1989-10-19,,M,white,nonhispanic,M,Pittsfield,Massachusetts,Berkshire County,1201,109991.47,151312.34,110452
+ce4d43f6-6217-c99f-784f-6f5e02ea39db,1954-12-29,,M,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1609,23331.61,1402758.91,6503
+fac9ed97-a67f-65f0-baaa-f9907d8b9b66,2007-08-09,,,asian,nonhispanic,M,Milton,Massachusetts,Norfolk County,2186,49727.5,7183.24,139265
+02f81ea2-74ac-eef7-7beb-c78c74f6b8d1,1969-12-04,,M,white,nonhispanic,F,Wareham,Massachusetts,Plymouth County,0,696639.45,118513.46,57363
+950faf8d-fcc3-cc81-f947-376e09296b69,1946-04-06,,M,white,nonhispanic,F,Sudbury,Massachusetts,Middlesex County,0,1294832.52,378836.06,108721
+9eab8c3b-e48b-ba9f-e468-1716e495f820,1960-09-19,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2199,10627.88,344194.67,12803
+d32ce983-e6c0-9bfd-ffbb-d4552e1767eb,1974-08-15,,M,white,nonhispanic,M,Cambridge,Massachusetts,Middlesex County,2140,132653.94,5513.87,98476
+945f534f-5dac-fd1d-2a08-86f3b4fd3ff3,1989-08-12,,M,white,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,187326.75,87765.0,109337
+2afe77b3-f963-940f-830e-4e7b0cf01eb7,1989-08-19,,M,white,nonhispanic,M,Framingham,Massachusetts,Middlesex County,1701,9420.98,99175.6,10074
+e0672ed9-4ae4-4624-f4de-7b3f17bde9bc,2008-01-31,,,white,nonhispanic,M,East Bridgewater,Massachusetts,Plymouth County,0,61778.3,3646.56,149889
+7c8c6a0d-382c-ceee-cafe-253d59b95a3d,2005-12-18,,,white,nonhispanic,M,Holden,Massachusetts,Worcester County,0,82238.77,26043.38,122811
+baa5dde3-c499-2a14-9597-a02c3c958309,1968-11-21,,S,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2724,58505.93,321324.91,760
+3e45415b-a337-746c-27b5-097dbfbc2fc2,2026-04-21,,,white,nonhispanic,F,Conway,Massachusetts,Franklin County,0,1929.64,0.0,74936
+963aa511-9051-683b-cd2c-3dc8c0ae92a0,1961-12-20,,M,white,hispanic,M,Winthrop,Massachusetts,Suffolk County,2128,190862.91,82065.77,29536
+9649f910-6fd5-cc97-4b6e-1dda0234ff6f,2002-12-31,,,white,hispanic,M,Winchester,Massachusetts,Middlesex County,1890,4558.68,82620.33,16409
+ca851061-0d31-84b9-0405-7c43977bf5ee,2003-07-18,,,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2169,92113.56,797839.79,73806
+d417928f-2e47-e6f9-0b15-b68aa0ab0b76,2022-03-31,,,white,nonhispanic,F,Wakefield,Massachusetts,Middlesex County,1880,850.0,14828.19,9295
+fba0636a-100d-484d-4fa7-d98c9042978f,2004-05-13,,,white,hispanic,M,Everett,Massachusetts,Middlesex County,2149,37684.21,39860.09,81440
+959a19b9-3a48-0b78-f325-692ad979c2ad,1999-12-22,,,white,nonhispanic,F,Mansfield Center,Massachusetts,Bristol County,0,170058.1,329900.53,128336
+c1640ba4-67e0-c5c0-6c7a-28e939ff780a,1990-12-22,,D,white,nonhispanic,M,East Falmouth,Massachusetts,Barnstable County,2536,7113.12,111999.06,20924
+79df401b-ade3-fe3d-2f55-1f42f17ea507,1958-01-14,2010-02-16,M,white,nonhispanic,M,Scituate,Massachusetts,Plymouth County,2066,140930.71,102529.39,39093
+3cced9db-f944-28ce-d19e-e9f8790324be,1958-05-31,,M,white,nonhispanic,F,Canton,Massachusetts,Norfolk County,0,1114044.45,218004.45,52167
+2222ec1b-e83f-fa33-357e-468b36ce53e7,1958-01-14,1974-03-03,,white,nonhispanic,M,Scituate,Massachusetts,Plymouth County,2066,48344.05,0.0,39093
+f5661d37-4276-aa9e-2869-7f592c66df18,1974-08-16,,S,white,nonhispanic,M,Salem,Massachusetts,Essex County,1907,8987.46,134079.91,11983
+c57d9e73-f300-1e6c-8a4b-44294a7155f7,1936-10-14,,D,white,hispanic,M,Marblehead,Massachusetts,Essex County,1945,19309.44,494230.23,9667
+c7a736ab-f1b1-0f9f-297b-7601ebd305e1,2018-02-15,,,white,nonhispanic,F,Gloucester,Massachusetts,Essex County,1930,26738.78,4757.81,97338
+f9a86180-ba1e-79ed-e75e-e4ddbb53e1eb,2018-07-11,,,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2467,15987.25,15804.61,138543
+87fe7351-379b-6211-58f8-a738f4717087,1958-01-14,,S,white,nonhispanic,M,Scituate,Massachusetts,Plymouth County,2066,162488.38,48799.09,39093
+e3307704-d6be-bbde-b1ac-ea6add5cb4f0,1956-05-28,2022-09-29,M,asian,nonhispanic,M,Chelsea,Massachusetts,Suffolk County,2150,198348.14,603367.12,52098
+16ce7e95-470d-bab7-eb94-6d465ff81926,1994-06-28,,M,white,hispanic,M,Boston,Massachusetts,Suffolk County,2132,69022.84,10987.69,58234
+8ac26277-08d5-63d4-cd61-3f6ffa6b0003,2015-09-12,,,other,nonhispanic,F,Rowley,Massachusetts,Essex County,1969,14379.55,7798.61,130529
+9b6e9f0d-e501-2bf5-52d7-552b37b272b2,1955-11-08,,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2703,184617.58,1122212.33,145021
+e8fd4ea2-3139-d005-aeaa-1190bfbc54a6,2007-04-25,,,white,nonhispanic,M,Milford,Massachusetts,Worcester County,1757,27827.26,24141.71,79596
+a4907ec9-df71-1dce-7aff-412e071ae93c,1998-10-25,,,asian,nonhispanic,F,Brookline,Massachusetts,Norfolk County,2215,7660.0,262787.91,15865
+b239a6de-3042-c93c-79b2-a69785a5d163,1966-01-12,,M,white,nonhispanic,F,Chicopee,Massachusetts,Hampden County,1020,152765.03,63333.97,27590
+98a08318-902b-1f60-9d5d-244fc0936b5c,1956-05-28,,M,asian,nonhispanic,M,Chelsea,Massachusetts,Suffolk County,2149,149222.43,89506.68,52098
+8d4019db-f323-1ef8-1d1a-c35ad93a4142,1960-09-25,2017-09-28,D,white,nonhispanic,M,Lee,Massachusetts,Berkshire County,1238,8654.99,137344.78,5217
+029ca4e5-02a2-2437-36d2-8c19bb6fe68f,1996-04-18,,M,white,nonhispanic,M,Stoughton,Massachusetts,Norfolk County,0,7276.94,698893.49,18815
+812e66bf-3afb-5ff8-d618-8074117da9ce,1957-12-15,,W,white,nonhispanic,F,Freetown,Massachusetts,Bristol County,0,311573.35,1056776.84,152906
+191a72ac-cc76-e647-23e5-e2641b9a72ae,1970-04-24,,M,white,nonhispanic,F,Northampton,Massachusetts,Hampshire County,1060,311787.04,695936.83,602208
+89494bcc-0a36-8fae-76f5-286c28208847,2015-08-01,,,hawaiian,nonhispanic,F,Holden,Massachusetts,Worcester County,0,2150.35,28114.12,8977
+b0f5ae1e-6235-223c-2a1d-e84f2e8048cb,2022-12-07,,,white,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2142,8609.04,16392.9,69728
+4edd2dfb-94b2-6fc1-cf22-8c70e2845376,1967-02-19,,S,white,nonhispanic,M,Rockland,Massachusetts,Plymouth County,0,11109.37,166863.44,22315
+3543e3d0-67ba-445e-3815-b9d167d10a69,1985-06-25,,S,white,nonhispanic,F,Lynnfield,Massachusetts,Essex County,1940,295029.73,1319110.74,150059
+28e979f4-ac7c-f3b7-8cd7-7a5f884000e8,1995-09-07,,M,white,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2139,110565.07,266427.56,162883
+56af910b-de69-02e3-4d7f-b83c84bb7c46,2023-12-02,,,white,nonhispanic,F,Milton,Massachusetts,Norfolk County,2186,4159.73,3020.94,41162
+f8ca9d07-2b97-417a-d614-93c41a729358,1985-02-19,,S,white,nonhispanic,F,Bourne,Massachusetts,Barnstable County,2532,224200.78,460105.74,176015
+cfd5acfb-8fc8-7784-62f2-ed67fe51ab68,1989-04-05,,S,black,nonhispanic,M,Natick,Massachusetts,Middlesex County,0,101174.39,20972.71,27188
+8507afd3-ba83-dd1d-f463-be592408a3f8,1990-04-22,,M,white,nonhispanic,M,Malden,Massachusetts,Middlesex County,2155,87348.29,1874.12,131762
+64cd8b6d-7600-5651-554d-8af687fbdb81,2015-12-22,,,white,nonhispanic,F,New Bedford,Massachusetts,Bristol County,2748,40819.87,25734.86,86694
+4d033ddc-913b-d592-4776-01e55d1dd41a,1930-12-06,1962-03-01,M,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2351,72990.83,44661.13,153475
+373f549c-9b0a-0376-762a-68369b058b22,2001-02-08,,,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1108,61793.55,7181.74,173446
+91ae3495-688e-b13d-7f06-24a0e60ef326,1953-01-16,,S,white,hispanic,F,Shrewsbury,Massachusetts,Worcester County,0,312019.24,936823.38,163490
+fa9d5c46-b472-cac1-f0d9-a1a43586dc15,2006-01-10,,,white,nonhispanic,F,Medway,Massachusetts,Norfolk County,0,117158.61,604420.01,611058
+9046e63f-2415-c061-549b-c9b89426f51c,1950-01-02,,D,white,nonhispanic,M,Kingston,Massachusetts,Plymouth County,2364,14181.6,390892.89,19172
+61cc3ca9-a65c-5974-7323-446688958473,1960-09-25,2017-04-29,D,white,nonhispanic,M,Lee,Massachusetts,Berkshire County,1238,106366.91,566468.02,5217
+3614ca9a-8595-f9be-9614-e76e98ab9415,1976-05-04,,M,black,hispanic,M,Agawam,Massachusetts,Hampden County,1001,134114.0,46009.39,26681
+099ebdb8-dea2-d0d7-b3e0-58ee66a8ce02,1964-05-12,,M,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2460,255756.34,81667.28,788315
+6f58af21-ef5c-5d06-e4dd-077cf2f90c65,1969-11-20,,M,black,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2301,184873.0,0.0,94789
+0f3aa619-7aec-4103-a061-23b7af58261c,1930-12-06,1989-08-03,S,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2302,115985.26,3292823.44,153475
+7a9518f8-2474-a095-0374-5aa490fe00f1,1960-09-25,,M,white,nonhispanic,M,Lee,Massachusetts,Berkshire County,1238,14698.72,273556.77,5217
+c2afef55-c25f-66a3-a304-683ae1701df5,2002-10-07,,,white,nonhispanic,M,Natick,Massachusetts,Middlesex County,0,39283.92,43731.01,795611
+f2f73974-7ab2-806a-b79b-d13a9f588c62,2005-04-22,,,white,hispanic,M,Boston,Massachusetts,Suffolk County,2136,3650.0,60160.49,21431
+362caeff-f797-8fd2-933a-28fdbdeaaa35,2005-06-19,,,asian,nonhispanic,M,Salem,Massachusetts,Essex County,1970,3845.86,71080.08,20786
+bf1c7248-449f-c6d0-6c00-fb5623ac25dd,1961-05-08,,S,white,nonhispanic,F,Auburn,Massachusetts,Worcester County,0,22803.76,751777.9,21506
+5cc5c77d-b947-aceb-d69e-f6c57c842b88,2015-02-21,,,asian,nonhispanic,M,Plymouth,Massachusetts,Plymouth County,2360,24248.87,0.0,134214
+04ef3786-81ea-0a1c-181f-65559d42cb09,1995-08-04,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1610,6234.08,78634.1,15707
+57031c84-e700-6b4f-65bd-e41505f22245,1978-07-04,,S,hawaiian,nonhispanic,F,Chelsea,Massachusetts,Suffolk County,2149,398871.41,455750.7,61190
+56b00b6c-e76e-da21-2df0-5272beab2d6e,1996-07-23,,M,white,nonhispanic,M,Woburn,Massachusetts,Middlesex County,1801,72512.98,2435.75,86266
+db4a616b-5c28-2f2e-23c7-511a1c1d23bb,2003-08-23,,,black,nonhispanic,F,Worcester,Massachusetts,Worcester County,1583,116777.56,596222.93,70388
+c3428081-3950-bd0c-c720-69e177d62467,1953-05-06,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1545,189372.74,26473.79,46793
+6e2575bc-d1ee-8700-466a-c96d8aae8058,1977-08-16,,D,white,nonhispanic,F,Wayland,Massachusetts,Middlesex County,0,335842.05,585468.11,115692
+238dbc23-8f94-7633-2f62-773253933bd2,1970-05-28,,M,white,nonhispanic,F,Oakham,Massachusetts,Worcester County,0,272704.86,568102.01,34731
+ce595fde-9294-633e-3588-e8bbcd066b6f,1930-12-06,,M,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2351,231349.67,478092.58,153475
+590fd332-c82b-4c97-20fd-0d2b484937b5,2000-12-21,,,white,hispanic,M,Boston,Massachusetts,Suffolk County,2152,83348.01,602999.16,49759
+d0012030-0297-ff4b-ec2e-5c94f3d89231,1986-05-03,,M,native,nonhispanic,F,Barnstable,Massachusetts,Barnstable County,2635,170086.75,1089359.76,32764
+e8954a70-46ad-b6ef-8c8e-d255fa24cc3c,1974-09-30,,D,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2108,418130.36,605405.54,42360
+81ef5cc8-c5d8-9d44-54cc-b917ba944bf7,1966-06-11,,M,white,hispanic,M,Lynn,Massachusetts,Essex County,1902,162636.93,35174.77,138669
+dd6623b1-d73b-35a0-2adf-fdc465bbf520,1962-10-28,2006-12-15,S,white,hispanic,M,Ludlow,Massachusetts,Hampden County,0,449550.63,315582.81,116649
+c390a655-8a6c-38ce-f3f2-6a163210c719,1943-01-09,,S,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2115,55648.83,1492630.52,20616
+8bcabac2-e8c6-9d27-1fdb-cf97f04e9460,1971-08-27,,M,white,nonhispanic,F,Brookline,Massachusetts,Norfolk County,2467,624104.41,432456.23,60003
+73825060-6e16-5ec5-188b-93c355af44a8,1962-10-28,2021-03-22,M,white,hispanic,M,Ludlow,Massachusetts,Hampden County,0,219437.38,3338.96,116649
+4a029b46-9189-b4a5-f9d9-475cbf59eb4a,2010-12-29,,,white,nonhispanic,M,Southbridge,Massachusetts,Worcester County,1550,3545.86,60216.55,25764
+8d0a1029-345b-c81b-b763-1082ac414682,1958-12-06,,M,white,nonhispanic,M,Reading,Massachusetts,Middlesex County,1867,162782.56,158095.86,106807
+933af3f6-2222-bdfc-1ba9-c7802a725780,1962-10-28,,M,white,hispanic,M,Ludlow,Massachusetts,Hampden County,0,271570.37,50923.53,116649
+c3918d28-a097-d457-0f16-4c61b49084f6,1969-10-21,,D,white,nonhispanic,M,Bridgewater,Massachusetts,Plymouth County,2324,100676.14,120781.87,23940
+14fc72a9-d7d6-b0af-40a3-2ddb27321efb,2017-09-22,,,white,nonhispanic,M,Medway,Massachusetts,Norfolk County,0,23073.44,0.0,66497
+37160ee6-7dec-5013-e910-1de3f5adccdc,1980-09-06,,M,white,hispanic,M,Bourne,Massachusetts,Barnstable County,2532,101148.23,7549.53,733613
+b2c078e9-bfc7-700e-eb10-fae322c41b13,2004-03-04,,,white,nonhispanic,F,Palmer,Massachusetts,Hampden County,1095,49421.58,17429.5,52040
+504bd24d-cd60-595b-c81a-1760800346ff,1993-02-17,,M,white,nonhispanic,M,Mansfield Center,Massachusetts,Bristol County,0,21832.76,662545.12,162048
+6eb005bb-2034-eadd-5d33-3afe0ab7220c,1966-01-25,,W,white,hispanic,M,Salem,Massachusetts,Essex County,1907,21147.06,316853.64,13091
+25bd95d1-e14c-e2d8-678f-2dcf6d765aee,1954-01-26,2014-10-12,M,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2132,55088.85,979719.11,10344
+830c0fb3-5944-3193-7502-a7a02def8042,2012-06-27,,,white,nonhispanic,F,Reading,Massachusetts,Middlesex County,1867,30272.55,734.31,125989
+449757f1-274d-81e8-1e32-b831b18632fb,1998-12-23,,,white,nonhispanic,M,Taunton,Massachusetts,Bristol County,2718,5912.42,104521.91,25558
+0b1dd036-6189-e194-b393-af9fdecd792b,1938-07-27,2022-02-11,S,black,nonhispanic,F,Wilmington,Massachusetts,Middlesex County,1887,1054423.36,237399.67,84151
+3654367c-9e09-da93-bd7a-76cb17041ee1,2004-01-13,,,black,hispanic,F,Boston,Massachusetts,Suffolk County,2108,103284.68,0.0,117175
+684bd14a-bc76-5e62-a49e-d0756f5eaa54,2003-02-13,,,white,nonhispanic,M,Hamilton,Massachusetts,Essex County,0,362799.75,314476.8,42723
+1ea74aeb-4444-8d3e-8462-3a8838099d7a,2000-08-03,,,white,hispanic,M,Boston,Massachusetts,Suffolk County,2151,88606.98,38942.64,139587
+002dcb37-6986-a741-c2e2-35414edadbcd,2019-05-04,,,white,nonhispanic,M,Salem,Massachusetts,Essex County,1970,14280.25,0.0,52968
+ebf7a4d5-76e0-c5a7-da4f-c3d7dcdd9579,1954-01-26,,S,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2151,18926.88,1490820.46,10344
+2a1befa3-5f69-137e-b188-7ca0d268efce,1938-07-27,,M,black,nonhispanic,F,Wilmington,Massachusetts,Middlesex County,1887,832340.22,154763.33,84151
+39ff5c5c-cb3b-7c47-e015-4af3e016ce99,2024-12-07,,,white,nonhispanic,F,Falmouth,Massachusetts,Barnstable County,2540,5892.43,0.0,122053
+465769eb-7149-9bec-94b9-81adbd794ac0,1973-05-02,,S,white,nonhispanic,F,Wellesley,Massachusetts,Norfolk County,2492,69907.58,397847.78,593119
+00da4b9b-8830-138b-c60e-99ce98f9cc48,1991-02-21,,S,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2136,11162.44,563315.21,17851
+0ce92a15-9eaf-239f-f0d6-fa7c39bb24a0,1964-09-01,,W,white,nonhispanic,M,Wakefield,Massachusetts,Middlesex County,1940,164534.68,52142.73,136392
+89f2dd15-b580-ebeb-6b80-7497f27c29de,2019-11-10,,,black,nonhispanic,M,Springfield,Massachusetts,Hampden County,1108,6095.69,12530.65,26864
+5c118616-4ecc-946b-6e46-e638155abe0d,2020-08-25,,,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1583,10601.5,9054.89,68911
+bcb37da0-f3c4-145f-2f28-70cd64865e71,1976-09-06,,S,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2466,15784.72,216405.25,10891
+913121e1-08c0-8790-7370-be5039f15f57,1983-12-08,,M,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1128,620543.22,341165.3,38936
+8d947702-8ae3-963a-7a7f-ae7d497ac726,1987-05-21,,M,white,nonhispanic,M,Canton,Massachusetts,Norfolk County,0,69807.88,6110.18,52543
+a2c98e3c-8bc3-96ad-e273-d8e71b0a0d93,1993-09-19,,M,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2127,82681.1,5310.23,170453
+ab8e9010-11bd-b918-69d3-89e2e068cf9d,1992-10-09,,M,white,nonhispanic,M,Dartmouth,Massachusetts,Bristol County,0,182954.25,0.0,47955
+fc8df96b-f11c-3f41-cfbe-9381e8db8910,1971-09-23,,M,white,hispanic,M,Dartmouth,Massachusetts,Bristol County,0,108853.94,680.93,123484
+1437997c-200c-a3b2-b957-1cbb7f7b9c5d,1975-07-25,,D,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2464,79660.17,132478.1,26278
+73dd5df4-395d-7268-9d15-c1fb93a2a43c,1997-06-22,,M,white,nonhispanic,F,Brockton,Massachusetts,Plymouth County,2301,8240.99,477065.8,8284
+856ceac3-3bcc-1163-6bda-5c089ed548fd,1987-08-19,,M,black,nonhispanic,F,Holden,Massachusetts,Worcester County,0,34910.4,523718.8,782217
+be69a68a-4624-7d36-05bd-3e1e3ec0aa6a,1957-06-24,,M,white,nonhispanic,F,Lynn,Massachusetts,Essex County,1907,574521.11,152061.67,81597
+d05b2fcb-3a5e-30aa-1fc1-c6788b992227,1998-02-17,,M,white,nonhispanic,M,Wilmington,Massachusetts,Middlesex County,1887,403663.07,280584.79,101872
+2edff4a1-7588-61a5-4895-4e1835277a33,2005-05-13,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2136,59589.65,376.59,157731
+8e069bd4-996c-c3f4-12df-848b3874096e,1972-11-23,2023-06-11,M,white,nonhispanic,F,Nantucket,Massachusetts,Nantucket County,2554,467477.94,819050.23,35415
+5b517465-aa97-23ff-4f44-bbc8af2d8e0a,1988-11-13,,D,white,nonhispanic,M,Lynn,Massachusetts,Essex County,1907,7005.56,89897.96,18538
+c8cfa602-edbf-ef04-b310-5b42d718db64,1991-08-07,,S,white,nonhispanic,F,Medford,Massachusetts,Middlesex County,2145,121970.49,445045.0,80826
+b9f50b04-54d8-9dc0-af77-0f5f295a8843,2005-06-13,,,white,nonhispanic,F,Danvers,Massachusetts,Essex County,1923,44525.14,115405.1,83969
+149db04f-6e45-464a-d433-bc2a698cbd02,1977-03-27,,W,white,nonhispanic,M,Northbridge,Massachusetts,Worcester County,0,433194.72,306235.98,73788
+c6f5a623-e12c-78e3-177f-d2984747fda4,1972-11-23,,M,white,nonhispanic,F,Nantucket,Massachusetts,Nantucket County,2554,520845.54,417128.29,35415
+382ce600-af74-5da6-02ab-94cecd57dd1b,1996-08-19,,M,white,nonhispanic,M,Medford,Massachusetts,Middlesex County,2155,89243.95,25309.73,73006
+5610495b-48c7-78de-a040-c3d44e439855,1970-06-03,,M,white,nonhispanic,F,Salem,Massachusetts,Essex County,1907,590388.74,394275.57,37155
+b8a73fca-7fd6-52ab-d10e-1d915997f450,1971-02-23,,M,white,nonhispanic,M,Lynn,Massachusetts,Essex County,1901,181751.63,431673.81,24728
+033377f2-b96d-f7a7-d50e-d5bf407b4c3b,1999-07-29,,,white,hispanic,F,East Harwich,Massachusetts,Barnstable County,2645,93473.78,418220.92,92811
+052c2356-5b68-0d1a-f817-56b9d861a1ac,1998-10-25,,,white,nonhispanic,M,Nahant,Massachusetts,Essex County,1908,61567.33,4771.71,46104
+3a1b1033-845e-7366-01cf-de6be6470192,2021-06-03,,,white,nonhispanic,F,Salisbury,Massachusetts,Essex County,1952,952.51,23136.66,23028
+9d528ce3-531d-e606-d233-f631994804c2,1951-09-27,2018-09-30,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2121,433390.75,2260800.82,88079
+42fcfb2e-4b3c-1c68-d184-2b4ca654cb1e,1981-03-28,,M,white,nonhispanic,F,Gardner,Massachusetts,Worcester County,1440,148345.94,631566.9,428767
+886d6e90-c5b2-889a-bac3-57a78808cf26,1973-10-29,,S,white,nonhispanic,M,Winchester,Massachusetts,Middlesex County,1890,126004.82,43721.03,799671
+ee2720ed-b945-d29d-c9ab-7b92585cf0c8,1966-01-30,,S,white,hispanic,M,Winchendon,Massachusetts,Worcester County,1475,23830.33,651818.52,20134
+37a37bc5-6558-5c7a-7f92-31695a780bb5,1951-09-27,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2118,1007761.07,535737.59,88079
+b6ad0e1b-d588-28aa-aea9-855fed5e63b8,1979-10-12,,S,white,hispanic,F,Boston,Massachusetts,Suffolk County,2108,363129.98,367308.43,35501
+6942797c-ac3c-d558-ad97-5cc5cc6278ef,1964-05-10,,M,white,nonhispanic,F,Duxbury,Massachusetts,Plymouth County,2332,311856.74,1261337.8,168548
+bf07da7b-9bf9-9cc8-0a54-2b86e82f22bd,1980-06-13,,M,white,nonhispanic,F,North Adams,Massachusetts,Berkshire County,1247,306165.03,694451.23,35858
+2a7039dc-6020-88d5-6c87-a8b4b793a139,1994-12-03,,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2861,52273.52,19614.58,81669
+68e9ce98-e602-7fc7-9eec-df3402901998,1960-08-29,,M,black,nonhispanic,F,Methuen,Massachusetts,Essex County,1844,225875.33,1295779.98,184021
+3307a10b-d4a9-8cc5-61ce-ef3be5bbfc94,2014-01-19,,,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2131,4150.0,39728.03,21371
+8e5f109f-f5b6-eb6b-e94b-663af9bf2a04,2014-11-29,,,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1610,25912.61,291.04,86962
+703d01a3-55a6-4afc-d498-756c964e571b,1950-10-29,,D,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1108,404338.62,920173.06,96298
+6c0a60f6-aaf9-4526-ea49-e75526e2771c,1996-05-31,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2129,384439.94,15022.7,52919
+cce07d17-0392-5c53-c6f0-f2a1d1a13406,2003-11-04,,,white,hispanic,M,Boston,Massachusetts,Suffolk County,2210,58601.16,11067.75,76649
+e1bf4b4a-dbde-32a6-0b93-be4f3387c9ea,1966-01-20,,D,asian,nonhispanic,M,Rockport,Massachusetts,Essex County,1966,148127.1,55637.71,26905
+477a12ec-d200-ef68-4787-6ce33f91db7c,1978-08-01,,D,white,nonhispanic,F,East Bridgewater,Massachusetts,Plymouth County,0,368018.49,137489.52,54995
+10e861f7-d821-af17-96c2-83a04efc6591,2012-09-03,,,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1103,51936.6,0.0,48503
+d0eb46bb-a8d2-59ba-3b7c-43af9d0c26cc,2026-07-14,,,white,nonhispanic,M,Saugus,Massachusetts,Essex County,1906,1070.46,0.0,116273
+fab5cbdf-eb22-4ee6-ae75-d9d3671305ca,1997-07-07,,S,white,hispanic,F,Boston,Massachusetts,Suffolk County,2114,7495.56,259805.97,22197
+648a983e-c356-ae4e-47ff-f5bea12304cf,2007-09-02,,,white,nonhispanic,F,Sharon,Massachusetts,Norfolk County,2067,76164.33,113315.9,588273
+2fc6ab47-e23b-df6e-1a14-eda7da4d2e0f,1998-02-13,,M,white,nonhispanic,F,Foxborough,Massachusetts,Norfolk County,2035,162435.08,306053.74,43712
+9b767279-b059-bc49-91c1-e0c12de7abb6,2010-08-21,,,white,nonhispanic,M,Peabody,Massachusetts,Essex County,1940,67955.34,389713.1,39701
+420070d7-6af5-8c33-a13a-4f3693947dbc,1970-07-02,,D,asian,nonhispanic,F,Watertown,Massachusetts,Middlesex County,2472,636437.5,111921.44,98175
+9a47cc2b-b2c9-3d54-4ba2-c509b9896bb8,2008-01-05,,,white,nonhispanic,F,Gloucester,Massachusetts,Essex County,1930,67069.34,607041.63,59565
+375f38b5-eb10-fb61-dc2f-34beaf37b15e,2009-04-01,,,white,nonhispanic,M,Stoughton,Massachusetts,Norfolk County,0,28654.01,17078.01,62909
+4debde28-85da-b9cf-75a4-d6672722886e,1951-11-15,,S,white,hispanic,M,Gloucester,Massachusetts,Essex County,1930,205423.68,249117.33,28688
+f9f70504-786c-b132-9dde-a66a257c9438,1961-09-28,,M,white,nonhispanic,M,Adams,Massachusetts,Berkshire County,1220,14701.19,285520.58,11372
+1ed36445-905e-0403-2f96-128856c18a29,1984-12-19,,M,white,nonhispanic,M,Beverly,Massachusetts,Essex County,1915,132918.87,0.0,57143
+ca3389c6-2488-ad82-468c-87c1c1f4d90f,2023-02-06,,,white,nonhispanic,F,Cordaville,Massachusetts,Worcester County,0,7642.11,0.0,869504
+46e5b5e0-e9fc-45d7-0bae-3fc9813919c9,1920-01-08,1999-10-12,W,white,nonhispanic,F,Lynn,Massachusetts,Essex County,1906,20512.75,1317494.43,5800
+c788ae37-8c91-3cf9-5994-f62a48ffc5f1,1993-12-17,,M,white,nonhispanic,M,Cambridge,Massachusetts,Middlesex County,2140,7143.44,114377.21,4463
+813d85b8-31ee-2e0b-145a-2b2cb8f6b28e,2005-08-06,,,white,nonhispanic,F,Northbridge,Massachusetts,Worcester County,0,92898.22,127511.46,146845
+7afbd2ab-4fbb-2b37-e191-8e9ceb494e3a,1953-02-05,,M,white,nonhispanic,M,Brookline,Massachusetts,Norfolk County,2215,217644.26,124724.08,91817
+21ed6cab-650c-1419-24aa-e187fbd6ae4f,2014-09-28,,,white,nonhispanic,F,Foxborough,Massachusetts,Norfolk County,2035,20062.64,27311.05,119811
+a26dbd52-0104-c18c-b821-2c96822bf6f1,1971-06-05,,M,white,nonhispanic,M,Cochituate,Massachusetts,Middlesex County,0,151943.9,13551.69,300050
+0cab1ab0-71af-a005-b8d5-417cad7ae5b7,2022-01-17,,,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1610,6176.51,3547.85,72739
+9f0dcb20-4ffc-8f5f-46cd-2ab08bef966f,2026-06-29,,,white,nonhispanic,F,Amesbury,Massachusetts,Essex County,1913,620.18,0.0,86101
+b840a643-c28b-5fed-67e1-10db1093d475,2022-09-16,,,white,nonhispanic,F,Amherst,Massachusetts,Hampshire County,0,6232.8,4389.97,122870
+c2a6c4cf-6f5c-9170-2b09-d882134f53c9,1974-12-05,2001-07-13,,white,nonhispanic,F,West Yarmouth,Massachusetts,Barnstable County,2673,223350.4,24929.1,57843
+5ae2bf7b-f518-4446-c552-be8125dd98e0,2000-04-15,,,white,nonhispanic,F,Framingham,Massachusetts,Middlesex County,1701,156573.27,242135.17,144782
+3989657d-2eb9-2509-811f-626aaeabd6ee,1979-12-20,,D,asian,nonhispanic,F,Arlington,Massachusetts,Middlesex County,2474,614380.71,506642.55,60929
+b48de110-bddb-b10a-56d1-16f36b822506,2000-12-31,,,white,nonhispanic,M,Holliston,Massachusetts,Middlesex County,0,53216.22,983.82,177891
+f6bca68b-097b-977d-d77c-ff2c84ee153c,2006-06-22,,,white,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,44496.6,15730.16,43494
+c0ca9d5c-0d64-ff79-b343-26e8365177af,1974-12-05,2016-08-30,M,white,nonhispanic,F,West Yarmouth,Massachusetts,Barnstable County,2673,586029.57,393991.94,57843
+2fba2bd8-9bec-c703-dc91-e0e83e993a22,1973-01-02,,M,white,nonhispanic,M,Lowell,Massachusetts,Middlesex County,1854,8486.97,118278.3,3109
+460eb80c-0b02-8908-697c-3adcbf95ad20,1976-05-13,,M,white,nonhispanic,M,Mansfield,Massachusetts,Bristol County,0,174751.88,21570.07,39286
+ab90b1b0-cbfe-462d-ae1a-ea118fb8c2a7,1974-12-05,,M,white,nonhispanic,F,West Yarmouth,Massachusetts,Barnstable County,2673,538812.42,436141.36,57843
+618cba45-3d51-9db8-edbb-f4babb9ac45c,2009-01-04,,,white,nonhispanic,M,Pembroke,Massachusetts,Plymouth County,0,39989.24,232.48,177581
+ae1d0946-2a2c-f31f-d1af-b13e93db1503,1960-11-10,,M,white,nonhispanic,F,Methuen,Massachusetts,Essex County,1844,342769.3,674934.55,169286
+6482bc9d-36a7-535d-0449-ceb7a443a617,1947-09-03,2010-10-02,S,white,nonhispanic,M,Williamsburg,Massachusetts,Hampshire County,0,61892.65,242171.52,71572
+66b300cc-2415-2001-37c1-2af8173e8c89,2018-10-08,,,white,nonhispanic,F,Chicopee,Massachusetts,Hampden County,1022,1439.13,27491.76,4542
+1edebe20-568c-0431-e716-824fab930078,1947-09-03,,M,white,nonhispanic,M,Williamsburg,Massachusetts,Hampshire County,0,478795.41,452543.36,71572
+1c608888-2c1f-9a6b-b70e-2006df6d5092,1952-03-30,,D,white,nonhispanic,M,Holliston,Massachusetts,Middlesex County,0,203381.44,134797.61,141849
+d904a18c-f52c-fb5f-6938-cc40787e5451,1938-08-07,2007-01-29,W,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,148650.38,1583544.78,23810
+a6778da7-3e8a-0a6a-ff6d-a7b464b946e3,2017-08-05,,,white,nonhispanic,F,Dedham,Massachusetts,Norfolk County,2090,14373.19,13895.47,597473
+ffc5c0ab-5a96-1c7f-db5c-aa20886d748b,2026-03-14,,,white,nonhispanic,M,Watertown,Massachusetts,Middlesex County,2472,2253.78,0.0,176887
+c935ba90-85ed-8888-16f0-3fc90e75795b,2003-01-29,,,white,hispanic,F,Boston,Massachusetts,Suffolk County,2199,99331.75,20167.11,362226
+40fc03c9-4080-d6ad-4bea-269197066e34,1920-01-08,2014-09-12,M,white,nonhispanic,F,Lynn,Massachusetts,Essex County,1940,125297.03,2707388.91,5800
+26d0615a-cc75-7a52-3e4e-b712c04ade04,2002-12-31,,,black,nonhispanic,F,Winthrop,Massachusetts,Suffolk County,2152,44001.74,346016.74,24818
+caeb6678-4ac8-4752-c30f-d81a4fe3b5b0,2012-12-25,,,white,hispanic,F,Boston,Massachusetts,Suffolk County,2109,37455.79,1923.95,125193
+d9ded2f6-b439-5b82-2bac-8b9931267b66,1957-09-12,,S,white,nonhispanic,F,Orleans,Massachusetts,Barnstable County,2653,336771.71,1507531.26,26338
+a3cda312-e50b-2300-df84-fcf0ae3d5980,2024-08-15,,,white,nonhispanic,M,Marshfield,Massachusetts,Plymouth County,2050,7779.47,0.0,149553
+1b51e149-bf81-6e05-de98-889090c3c56e,2008-06-12,,,white,nonhispanic,M,White Island Shores,Massachusetts,Plymouth County,0,47884.52,4699.22,92557
+632270b7-87b8-8690-30f6-81d21e5fc12e,2014-03-17,,,white,nonhispanic,M,Revere,Massachusetts,Suffolk County,2151,27492.99,36720.67,792392
+3c95b28e-f288-e744-7245-7f8461a182f0,1938-08-07,2019-03-09,D,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,135334.12,425839.54,23810
+7d0134e0-a376-e4b8-adb5-a35d1be4ed42,1920-01-08,1996-12-30,M,white,nonhispanic,F,Lynn,Massachusetts,Essex County,1907,30315.67,930531.35,5800
+fd920e15-70db-eb67-83a7-667f268aa734,1970-10-30,,S,white,hispanic,F,Westfield,Massachusetts,Hampden County,1086,787246.41,45712.1,112775
+64b8f50b-7e08-f786-b3a9-546e9358f781,1967-04-29,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2134,14310.81,733827.27,10932
+8131c235-6d15-3565-bbec-75dcf80ce1ea,1993-02-15,,M,white,nonhispanic,M,Blackstone,Massachusetts,Worcester County,0,139389.02,632488.86,140811
+3a115d1e-7767-938a-b946-ec7920ec9fe8,1938-08-07,,M,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,115022.04,404029.49,23810
+46ae0b95-e04c-09ec-948c-6556b182e581,1996-03-18,,M,black,hispanic,M,Dartmouth,Massachusetts,Bristol County,0,78083.25,137401.36,40126
+b1a6d8b0-2a0f-bc75-06d8-255cb2ad17da,1996-07-11,,M,white,nonhispanic,F,Northampton,Massachusetts,Hampshire County,1062,257739.18,480660.04,33230
+2c95e2c5-8524-9579-2326-d9e087698521,1934-08-17,2007-06-30,S,white,nonhispanic,F,Bolton,Massachusetts,Worcester County,0,1037036.95,1065407.97,112866
+fafc0cb3-3697-8b1f-ba6c-c4828f1f335f,2021-04-03,,,white,nonhispanic,F,Easthampton,Massachusetts,Hampshire County,1027,19184.22,4235.91,166296
+977184dc-1c42-f898-fa93-37cba7d3a3f5,1974-10-03,,M,white,nonhispanic,F,Newburyport,Massachusetts,Essex County,1951,184715.8,872725.97,668988
+8c60fdce-24c0-fba4-ed1b-8c194bc4c07f,1967-07-21,,M,white,nonhispanic,M,Quincy,Massachusetts,Norfolk County,2186,143156.33,14411.12,44011
+c9069655-1493-ae92-4fc1-d3f1c5017756,1981-08-11,,M,white,nonhispanic,M,Chatham,Massachusetts,Barnstable County,2633,99670.91,43279.8,59832
+4c063d85-23f4-c19a-8f16-e76787ae6203,1981-04-27,,W,white,nonhispanic,M,Sutton,Massachusetts,Worcester County,0,78892.64,4535.18,178122
+cf7db68b-8501-6b1c-e36a-766ebd83cdfe,2001-02-03,,,white,nonhispanic,M,Hanson,Massachusetts,Plymouth County,2341,53185.8,178.25,123461
+0a553325-13bb-6b94-2a4d-34cb2bdf8177,1928-03-29,1951-03-14,,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,50285.97,26915.18,529251
+6d135cf7-50dd-c1cb-3038-193ded59add2,1965-12-31,,S,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2130,10275.02,220115.97,14551
+806ecad4-fab0-73d2-e831-3dc8b0c9430e,1988-08-24,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2135,73061.08,669966.95,26145
+e6191ac9-4b3a-2618-1c73-5531a51665f4,1928-03-29,2001-04-01,S,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,168851.63,355637.25,529251
+bcd7bdf7-aa8b-e66c-c1fe-ccde46efb9d2,1928-03-29,2009-04-29,D,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,177082.6,457517.21,529251
+a9277f43-5b2b-e217-9d41-3b2ceedc834d,1958-12-10,,W,white,hispanic,M,Fitchburg,Massachusetts,Worcester County,1420,257651.15,245429.56,75614
+1bddd2ec-51eb-c87c-8714-132c8ebb8b68,1934-08-17,,S,white,nonhispanic,F,Bolton,Massachusetts,Worcester County,0,1674185.54,1588766.54,112866
+f516d800-92dd-57b8-50fd-5515304cfe7a,1928-03-29,2020-10-29,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,88473.63,279005.89,529251
+16290fe9-9b00-8f11-8364-5b27403334f7,1972-01-10,,M,white,nonhispanic,F,Pittsfield,Massachusetts,Berkshire County,1201,257581.48,1486755.33,26489
+ab7381f0-21c0-dd59-4d21-fdcc3a89a4d4,1988-03-28,,D,white,nonhispanic,F,Orange,Massachusetts,Franklin County,1364,134160.25,130503.41,46924
+67fce95a-a652-9d7d-c97b-e2deb486d5d5,2017-09-01,,,white,nonhispanic,M,West Brookfield,Massachusetts,Worcester County,1585,1450.0,17173.67,18952
+7a66a7c7-dd6b-dadd-300d-c84919ebde94,1920-01-08,,S,white,nonhispanic,F,Lynn,Massachusetts,Essex County,1901,412276.06,3714541.44,5800
+c2f4cd45-1678-cf23-f861-d825d42868de,1998-03-06,,M,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2171,75607.16,299131.96,117086
+629396f7-88f3-12f6-6848-9125a51f66a6,2020-07-24,,,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1604,10183.38,139.36,41060
+1d025c59-bec9-4426-e94c-efdf0d0c6d5b,1928-03-29,2012-04-21,D,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,108657.59,391429.81,529251
+c8a3f233-bc13-5b22-46f8-9a0f0e26f7ee,1928-03-29,1960-03-26,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,45327.59,58725.19,529251
+40d24ff8-2ecc-dabc-4d43-8be7843bb730,1947-07-30,,S,white,nonhispanic,F,Framingham,Massachusetts,Middlesex County,1702,450293.79,1216782.13,128907
+a6a016dd-d23b-cdf2-e424-1767bb19254b,2009-12-28,,,white,nonhispanic,M,Georgetown,Massachusetts,Essex County,0,338694.9,315450.95,85274
+f2fd302e-bd68-4e89-f841-5a7e46e03160,1954-09-27,,M,white,nonhispanic,M,Billerica,Massachusetts,Middlesex County,0,13582.22,284221.77,20572
+7a11444d-56cc-9b86-d39d-77076626f1d1,1988-08-20,,M,white,nonhispanic,M,Middleborough,Massachusetts,Plymouth County,0,91956.05,9775.69,93572
+cde496c1-96ef-7c31-4d00-3da6c182241e,1928-03-29,1992-10-28,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,137237.76,148761.15,529251
+794ac188-0efd-76ce-a58c-4acc83d1ee6b,1962-01-31,,D,white,nonhispanic,F,Malden,Massachusetts,Middlesex County,2148,407910.38,1021410.64,146783
+c6e92255-3bbd-f690-ab4e-ecd8153c5b8c,1974-07-25,,S,white,nonhispanic,M,Sandwich,Massachusetts,Barnstable County,2563,150737.46,12432.17,107080
+9d4cb5d8-e489-d9cc-fbbc-4a7dcec71e2e,1979-06-23,,S,white,nonhispanic,F,Southampton,Massachusetts,Hampshire County,0,257304.22,401364.97,79963
+32ed9e5a-2845-73db-4df8-79db2c5819cc,2002-08-24,,,asian,nonhispanic,M,Ashby,Massachusetts,Middlesex County,0,51915.35,5235.92,173354
+3547ef60-12e6-7a03-39de-3a8562a67f14,1974-10-28,,M,white,nonhispanic,M,Somerville,Massachusetts,Middlesex County,2155,117570.68,168974.52,120085
+eb93fcdd-0ca0-df96-c6c5-8680ea7d507d,2015-02-07,,,white,nonhispanic,F,Beverly,Massachusetts,Essex County,1915,1618.0,42987.11,22244
+a698d38b-0397-2d39-6c91-ceaf09db5e28,1955-06-18,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2152,17838.4,1030135.59,13528
+49411b04-71dd-1528-84d7-7f4699aaf732,2009-12-24,,,white,nonhispanic,F,Pittsfield,Massachusetts,Berkshire County,1201,49381.29,9478.14,49417
+c3238346-c934-899f-d1b5-ba53e1546234,2017-06-10,,,white,nonhispanic,F,Millville,Massachusetts,Worcester County,0,16373.71,15266.85,167998
+66060a78-7aea-80ef-fcd6-f9ca5d2bfed6,2003-06-12,,,white,nonhispanic,F,Adams,Massachusetts,Berkshire County,1220,98172.65,132800.58,88330
+227cfe27-2f1d-149a-5ef4-8ebae5ab9ca3,1928-03-29,1985-12-26,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,93965.95,188530.1,529251
+59ebb780-18ca-088f-e3e0-1d1226e7cade,1997-02-18,,M,white,nonhispanic,M,West Springfield,Massachusetts,Hampden County,1089,78407.78,2497.9,151827
+bd093c7d-b460-f399-a9c4-41d0668fede9,1948-12-07,2024-06-22,D,white,nonhispanic,F,Lee,Massachusetts,Berkshire County,1238,528930.68,280899.76,65720
+69bb48f6-2948-4bba-1c5a-209c24c8ccae,1928-03-29,1995-01-01,S,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,189991.24,82982.61,529251
+41523d08-14d7-d025-2919-82570576fb12,1964-01-12,,D,white,nonhispanic,M,Northborough,Massachusetts,Worcester County,1532,80302.84,80397.68,205682
+a9d70ec7-4b83-25b9-6f9a-b0e3edf229c3,1928-03-29,1994-07-08,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,27184.42,227142.68,529251
+f46262d9-ec7e-ab28-d878-53e08e0015c3,1978-07-29,,D,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2108,18307.89,831022.24,15582
+d8c99a65-5be8-d1b1-e79e-acac5890c534,1948-12-07,,D,white,nonhispanic,F,Lee,Massachusetts,Berkshire County,1238,456724.98,179983.29,65720
+c262b42b-bd9b-7479-1578-2100e4ce0ed6,2001-02-08,,,white,hispanic,F,Revere,Massachusetts,Suffolk County,2151,136127.22,194863.03,136606
+565ca08d-2c12-49db-f85e-c4388b833b36,1990-11-05,,M,asian,nonhispanic,M,Malden,Massachusetts,Middlesex County,2155,25924.84,117135.7,60203
+f80a5a08-e705-3d8a-6508-2eb4336c44d9,1989-06-29,,M,white,nonhispanic,M,Waltham,Massachusetts,Middlesex County,2472,102715.82,14765.72,49555
+cd36fced-1aa8-c34b-652f-719d8d04e96c,1970-04-06,,M,white,nonhispanic,M,Leominster,Massachusetts,Worcester County,1453,114663.65,130471.56,110260
+df94f3b1-e219-fba8-4765-8ff34103f815,1997-10-26,,M,white,nonhispanic,F,Sagamore,Massachusetts,Barnstable County,2561,245116.57,0.0,98567
+e44a8229-daa7-2104-7324-b0cdcbe88561,2023-05-29,,,white,nonhispanic,F,Amherst,Massachusetts,Hampshire County,0,15744.44,8753.89,94659
+ecee12ad-24ca-180e-048c-f8cca1e867b1,2003-04-19,,,white,nonhispanic,F,Leicester,Massachusetts,Worcester County,0,6403.37,156059.82,2451
+7bfc77cd-4a11-5856-05e3-45bb8354bdec,1963-05-21,,M,white,nonhispanic,F,Sandwich,Massachusetts,Barnstable County,2563,20474.48,1186451.26,4359
+6b16a03a-182e-c2c7-da10-7bf336978805,1951-10-15,2009-12-08,M,black,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2142,667191.53,416938.24,36531
+43e0408c-ba1a-ed9d-1744-8c5f6fd2e32e,2004-03-16,,,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2703,56190.35,30451.25,48454
+b06e8568-e03c-5091-97bd-c6e4a5014ba2,1991-08-12,,M,asian,nonhispanic,M,Wellesley,Massachusetts,Norfolk County,2492,20007.49,376651.71,15560
+ee9f696b-a91e-07c2-87e0-61ebc08d7d06,2022-01-10,,,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2747,815.7,13021.38,6324
+f7e2d29d-356d-d6be-8a7b-2f4185f26b70,1951-10-15,2001-09-12,S,black,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2140,688996.71,252547.87,36531
+b4477255-b20f-97d3-0541-d9007f179f65,1957-09-13,,S,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2464,135421.1,116391.65,569046
+2a2ce237-ebc3-2f5d-d3a3-1deb4b590dff,1928-03-29,1993-04-09,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,171705.16,488546.62,529251
+0ecd5c49-6a25-2074-cd20-9c1faa16e2ee,1973-02-23,2024-07-19,D,white,nonhispanic,M,Framingham,Massachusetts,Middlesex County,1701,157513.21,76247.0,148892
+e26d1280-ce5a-ad3b-02f5-df8d549f24cd,1951-10-15,,M,black,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2140,668866.79,160862.88,36531
+b1da68a3-9b88-9507-38c1-eabfcad4df13,1995-10-21,,M,white,nonhispanic,F,Rockland,Massachusetts,Plymouth County,0,112872.3,411353.53,25083
+95b3fe6e-c944-b0eb-6d05-bd1259f014b8,2013-03-19,,,white,nonhispanic,M,North Lakeville,Massachusetts,Plymouth County,0,2395.82,29955.16,10534
+8c819fa1-1777-22a7-2a36-b70e195fecc7,1973-02-23,,M,white,nonhispanic,M,Framingham,Massachusetts,Middlesex County,1702,155570.13,33646.29,148892
+0723042a-2aea-cb29-f793-46e08cf30ab8,1937-01-09,1998-04-03,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,204428.94,105807.74,529251
+623dc471-8e79-64e4-887f-6b04324af688,2017-11-06,,,white,nonhispanic,F,Revere,Massachusetts,Suffolk County,2151,22476.67,1324.45,169328
+9bebacd5-0427-84b4-e100-63e561e7c299,2004-07-29,,,white,nonhispanic,M,North Reading,Massachusetts,Middlesex County,0,65361.64,9419.89,82772
+733b55ac-c5a0-7061-4735-8e0cf53f7015,1984-12-19,,S,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2135,114604.94,11937.06,388708
+2cc0a1e2-a4fc-c17d-3491-1e057f1f1237,2010-10-03,,,white,hispanic,F,Oxford,Massachusetts,Worcester County,1540,37635.2,33218.89,67768
+73746757-edf3-7dd7-0c5b-c4918d67c226,1937-01-09,2001-05-16,S,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,63948.39,135043.85,529251
+79f341ef-8dc9-c554-f923-a97d2dc7cd14,1966-06-18,,M,white,nonhispanic,F,Brewster,Massachusetts,Barnstable County,2631,679206.3,558169.2,54679
+d6c71985-815e-126c-c3de-0bcde244d99c,1982-07-17,,M,black,nonhispanic,M,Middleborough,Massachusetts,Plymouth County,0,89838.66,25543.75,106327
+dd56e3a4-6a36-1a49-4f9d-b68b6ab41c8a,1946-11-09,1997-01-11,M,white,nonhispanic,F,Fall River,Massachusetts,Bristol County,2723,282677.45,1045550.12,32506
+a77abecb-50cf-8d34-27e4-a2b3204c795a,2000-02-18,,,white,nonhispanic,M,Medford,Massachusetts,Middlesex County,2155,40169.76,0.0,96979
+ecf6c9c5-b216-465f-6247-ddfff58602f4,2024-08-13,,,black,nonhispanic,M,Framingham,Massachusetts,Middlesex County,1702,3658.5,2969.98,98021
+70545f13-a6cc-72f7-fbaa-6f624931328c,1937-01-09,2020-10-25,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,128750.78,411607.19,529251
+f4fd36d5-508c-295e-200f-ad0056fdedeb,1964-04-21,,W,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2135,14432.09,826550.99,3372
+53b36bf9-eeed-60a9-8932-6c8e8056528c,1989-10-14,,S,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2466,115667.67,26842.68,47881
+dba5d07a-13eb-f3a5-e753-42e4c80c0db0,1964-09-12,2011-02-11,M,white,nonhispanic,M,Tyngsborough,Massachusetts,Middlesex County,0,118211.55,751531.5,130776
+414d269d-8c62-4e1c-42a2-5cceecf4d0c4,1937-01-09,1997-04-22,S,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,159064.73,90688.61,529251
+3c3f3fe7-3298-e040-b9ee-df96b28442f4,2003-12-18,,,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2169,90431.75,703017.54,69809
+2395d7f6-1cd4-c97a-cc9c-1f8cefe0b1ee,1946-11-09,,M,white,nonhispanic,F,Fall River,Massachusetts,Bristol County,2724,463798.49,1231732.33,32506
+597478df-1678-0ad9-5049-ead7ffb41616,1937-01-09,2015-06-19,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,84315.65,185532.65,529251
+5abb86bc-8e42-9786-8b61-38e15d1e0b3d,1964-09-12,,D,white,nonhispanic,M,Tyngsborough,Massachusetts,Middlesex County,0,246620.76,55564.55,130776
+5ae4757d-ad78-f95d-97ef-3fbe8f3f5513,1991-02-03,,D,white,nonhispanic,M,Lowell,Massachusetts,Middlesex County,1850,75087.87,0.0,50321
+bfc01162-3743-4eb5-e02c-4c1c1e8e2cf1,1957-06-16,,D,black,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2141,343398.68,728219.21,148643
+3558b96e-3700-89ff-0348-0dae239fc2ba,1991-05-18,,M,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2459,103159.47,82763.0,843725
+5bc87b64-a4dc-a161-0b2f-628d6729517a,1970-12-15,,M,white,nonhispanic,F,New Marlborough,Massachusetts,Berkshire County,0,597367.22,108543.7,60094
+767b1026-8849-9f2f-f643-0b1c1eea8884,1959-08-19,,M,white,nonhispanic,F,Easton,Massachusetts,Bristol County,0,45648.4,511172.42,138852
+dc517595-f6e5-2bb1-e4e3-ef8b4b2c5325,1998-10-10,,,white,nonhispanic,M,Chesterfield,Massachusetts,Hampshire County,0,55612.16,0.0,137851
+ddccc72e-0dcf-a707-3bc1-9e6dac5d17f8,1987-10-03,,M,white,nonhispanic,F,Medford,Massachusetts,Middlesex County,2155,186765.01,616250.23,67239
+84889030-b6f6-44cf-3cce-d20359bd1e8f,1995-09-08,,S,white,nonhispanic,F,Peabody,Massachusetts,Essex County,1940,160589.4,123720.42,142818
+a9aa80c8-73ef-de53-bd64-e313798a22c2,2004-02-14,,,white,nonhispanic,F,Bernardston,Massachusetts,Franklin County,0,65922.53,3069.44,91723
+dab93bd4-7a60-51ed-be4a-7197b68e81e9,1970-09-02,,D,white,nonhispanic,F,Sturbridge,Massachusetts,Worcester County,1507,641796.36,422533.24,116207
+403c9766-348b-a085-bcc0-98d3b8dd9403,1963-08-17,,D,white,nonhispanic,M,Webster,Massachusetts,Worcester County,1570,115260.66,172542.29,86187
+08640621-bce0-ff13-5fd6-833d8071467a,1962-05-07,1992-12-15,M,white,nonhispanic,M,Brookline,Massachusetts,Norfolk County,2467,158111.91,7584.41,52238
+5f744496-05ac-fec2-a638-9b193450437d,1988-10-10,,M,white,nonhispanic,F,Northborough,Massachusetts,Worcester County,1532,188376.67,465513.35,130429
+4b96ca0a-c1aa-0e84-1225-7618d4900eaa,1975-10-14,,S,white,nonhispanic,F,Dartmouth,Massachusetts,Bristol County,0,23813.46,954390.41,2870
+46ca7fb9-9916-8b2f-9bee-4108cf3b2007,2023-06-27,,,white,nonhispanic,M,Dennis,Massachusetts,Barnstable County,2638,562.82,27164.67,17926
+d74461d0-b7b0-3fc5-998e-69de5a908240,1970-01-05,1983-07-12,,white,nonhispanic,M,Scituate,Massachusetts,Plymouth County,2066,41236.71,12045.04,48149
+63dc7e7a-64e7-15c8-f39c-9af2b7e1403a,1970-01-05,,M,white,nonhispanic,M,Scituate,Massachusetts,Plymouth County,2066,154306.27,55605.61,48149
+2f0e9010-7bf1-5372-5c23-892d031eae83,2007-12-26,,,white,nonhispanic,F,Concord,Massachusetts,Middlesex County,0,3950.53,64956.2,3073
+070c8679-b53d-00de-78e3-0fba3ab057a9,1962-05-07,2018-03-26,W,white,nonhispanic,M,Brookline,Massachusetts,Norfolk County,2445,126396.11,2257770.96,52238
+cb69a5ba-a836-df09-4243-4fa998410629,1941-11-25,,S,white,nonhispanic,M,Braintree,Massachusetts,Norfolk County,2184,196086.43,1852716.52,655886
+71b3020a-d562-8e0d-22aa-34f51b9049f2,1962-09-19,,M,white,nonhispanic,M,Billerica,Massachusetts,Middlesex County,0,127550.5,97098.44,84516
+7f27ef85-5929-72b3-56c0-cc406bcb3038,2014-09-13,,,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1020,1750.0,30711.88,10789
+4ac55654-55c0-a9c3-e7f0-57594aa6ac2b,2021-05-09,,,white,nonhispanic,F,Holden,Massachusetts,Worcester County,0,31059.36,0.0,55134
+1c7ddba5-a9db-b2ff-527a-7caa38f5c020,1962-05-07,2021-09-01,M,white,nonhispanic,M,Brookline,Massachusetts,Norfolk County,2467,195926.46,112939.54,52238
+7f02feb7-b89f-3d2d-b947-8afd24813e33,1962-07-30,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2113,17782.23,770496.71,19480
+2ff07f48-a3d0-dccd-b8f9-424913e5450c,1962-05-07,,S,white,nonhispanic,M,Brookline,Massachusetts,Norfolk County,2215,161037.05,43899.7,52238
+eb3e3eee-ae61-0b3d-66d1-7b1d4308cf5e,1937-01-09,2025-08-20,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,286029.89,1454928.68,529251
+8d8f9f59-9ceb-1e77-c817-742b34fa9cae,1954-07-06,,S,white,nonhispanic,F,Walpole,Massachusetts,Norfolk County,2081,349556.04,861313.82,646251
+6a16a703-66e2-79c3-0da8-c85d04cda47c,1992-12-02,,M,white,nonhispanic,F,Peabody,Massachusetts,Essex County,1960,134394.13,224575.61,124180
+2c5c2bb9-95de-5aa6-ae46-a9b69c0cdc65,1981-09-08,,M,white,nonhispanic,F,New Bedford,Massachusetts,Bristol County,2747,15092.8,1029109.5,5388
+6f5189fc-ea49-b481-381e-7b98fa66b487,1990-06-02,,M,white,nonhispanic,M,Carver,Massachusetts,Plymouth County,0,101941.01,18341.25,126981
+235f86e1-8303-6a21-fdc1-769e103f775a,2022-06-09,,,white,nonhispanic,F,Plymouth,Massachusetts,Plymouth County,2360,8641.69,30.2,75800
+ab7ed8a6-c48a-4e4a-0d6c-cc1e537c50b0,1977-09-19,,M,white,nonhispanic,M,Milford,Massachusetts,Worcester County,1757,10076.74,178078.64,10892
+861a1729-d0b1-38d3-356c-7ef406f4d864,1968-02-21,,S,white,nonhispanic,F,Norwood,Massachusetts,Norfolk County,2090,342735.0,704254.68,628791
+7b327abe-4cb2-1966-d8ac-e4a703e9efb2,1985-12-07,,M,white,nonhispanic,F,Topsfield,Massachusetts,Essex County,1983,598072.31,274274.8,93231
+b020f79c-be25-890b-47af-9f4cec656944,2026-03-14,,,white,nonhispanic,F,Norton,Massachusetts,Bristol County,0,150.0,2887.09,11375
+519db91f-c734-a1da-9ce7-1dc10151ee95,1974-10-22,,M,white,nonhispanic,F,Boylston,Massachusetts,Worcester County,0,766588.38,1306687.1,72658
+8f78c5a2-dbe5-faef-f6c9-18748751943a,2007-01-10,,,white,nonhispanic,M,Hudson,Massachusetts,Middlesex County,1749,60006.59,6858.07,70526
+a61482ec-c895-7889-7bb2-0c17e1fc4a23,1937-01-09,,M,white,nonhispanic,M,Westwood,Massachusetts,Norfolk County,0,82725.02,390214.05,529251
+806a71ab-17ee-b5b8-5cef-93a5f83ad609,1971-09-20,,M,asian,nonhispanic,M,Milton,Massachusetts,Norfolk County,2186,220565.6,0.0,74070
+e0ac5e4e-4b94-5566-65c9-2d6791fec9de,2010-06-06,,,asian,nonhispanic,M,Huntington,Massachusetts,Hampshire County,1050,54002.82,14689.44,57877
+934d4c76-ac2b-7b57-cbbd-6c838391c687,2021-04-19,,,white,nonhispanic,M,Bellingham,Massachusetts,Norfolk County,2019,20090.51,2563.4,60366
+1840f494-dfcc-4f09-b079-33acd69e38a4,2003-07-27,,,white,nonhispanic,M,North Amherst,Massachusetts,Hampshire County,1059,4969.48,51784.48,5229
+004a4e80-a8a4-656b-243e-86ac76a41188,2018-08-15,,,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2351,1900.0,27807.92,1886
+817b7a00-949e-5f07-66a3-f2a1348fbfae,1987-01-08,,W,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,200301.18,820514.91,28462
+6de87f46-7872-4a2b-f4ed-9d2f2130598a,1991-05-03,,M,white,nonhispanic,F,Woburn,Massachusetts,Middlesex County,1801,156654.87,459250.46,67022
+4357baf0-dc8c-2aff-6e45-043f4c885490,2014-02-09,,,white,hispanic,M,Springfield,Massachusetts,Hampden County,1128,34271.74,154.98,136192
+826df349-83f3-cbd0-028d-0883f7160b5c,1995-04-23,,M,black,hispanic,M,Boston,Massachusetts,Suffolk County,2134,98391.52,10376.89,151566
+1c0a24ee-94ca-96fe-c954-7d6ea7b4bedd,1983-01-14,,M,white,nonhispanic,F,South Ashburnham,Massachusetts,Worcester County,0,239807.42,445383.85,142620
+4b18539d-ff61-76ba-957e-528100dbb2b2,1971-01-24,,M,white,nonhispanic,M,Quincy,Massachusetts,Norfolk County,2171,163314.09,16411.98,84867
+103645b1-aea4-cce4-694e-df466d26f03a,1960-03-03,,M,black,nonhispanic,F,Waltham,Massachusetts,Middlesex County,2451,34081.06,1094597.16,953
+b136a3b0-e168-cc04-df5f-1f195548539c,1970-01-11,2004-09-01,M,white,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,328254.65,0.0,42986
+dac46283-4dde-c103-b4a1-d827f8cb2695,1981-03-12,,M,white,nonhispanic,F,Brockton,Massachusetts,Plymouth County,2301,138384.35,502221.28,30201
+472220cf-5b1b-93f0-9dd6-a8eb18f45027,1980-10-12,,S,white,nonhispanic,M,Bourne,Massachusetts,Barnstable County,2532,15792.93,208207.39,17759
+3e2af4bf-d692-77f3-da6e-872789246afd,2003-03-16,,,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2464,76243.59,698624.2,104460
+faa74b90-1c8f-73dd-b9a9-8c48b031e711,1970-01-11,,W,white,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,372308.77,89472.38,42986
+09fb677c-e9d8-3b79-8fcf-bedd6ffacb01,1961-02-20,,M,white,nonhispanic,F,West Wareham,Massachusetts,Plymouth County,2576,326500.21,589275.43,145991
+48faa85f-314e-948a-904f-d1c9795b0fde,1996-05-20,,S,white,nonhispanic,F,Melrose,Massachusetts,Middlesex County,2176,86192.95,329936.56,598761
+d4928235-01e7-ed63-319f-c238c4c0af0b,1971-10-24,,D,white,nonhispanic,F,Fall River,Massachusetts,Bristol County,2721,16737.34,1228248.03,6936
+5351e43d-1d77-973b-e1fa-d106e3cee189,1979-07-12,,M,white,nonhispanic,M,Natick,Massachusetts,Middlesex County,0,117127.25,5134.08,115139
+26f36de7-dc56-f6e6-9795-b66d734f4358,2025-09-20,,,white,nonhispanic,F,Princeton,Massachusetts,Worcester County,0,2156.55,2794.19,101349
+b95f999d-2daa-0e86-9c5a-a98b1d6a131c,1989-11-12,,M,white,nonhispanic,F,Townsend,Massachusetts,Middlesex County,1469,148825.81,267159.62,418352
+9d3dab03-ceea-1d81-0cc1-53bc16710388,2022-01-15,,,white,nonhispanic,M,Marshfield Hills,Massachusetts,Plymouth County,2051,15959.15,1615.86,919299
+3fed53c1-d6ff-d20d-6297-62d4660d251d,1960-03-14,2014-08-01,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2109,44407.4,645991.3,10238
+09cc00cf-7d80-d650-8275-3c0564c49e21,1972-11-27,,D,white,nonhispanic,F,New Bedford,Massachusetts,Bristol County,2743,18687.69,1099378.86,10592
+831b9f2f-2578-0060-aab3-5ba84843d725,1995-01-31,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2127,81860.95,10918.02,27768
+76dd5a0c-985e-bf73-3816-1ea750d108fe,2016-01-08,,,hawaiian,nonhispanic,F,Abington,Massachusetts,Plymouth County,2351,16888.93,6297.69,29414
+6892002d-0667-d65d-1083-14edeacf1e2e,1959-09-10,,D,other,nonhispanic,M,Essex,Massachusetts,Essex County,1929,178435.38,62140.71,802869
+0c4258ff-5f72-0a82-95a9-7ebf3d4f9618,1973-07-31,,W,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1608,132748.76,28767.0,88617
+e94ba30a-85f3-c238-15db-bc7ab457d2f5,2021-06-18,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2113,14158.52,42295.64,32698
+82bbcf6d-e8c3-9ddb-599e-71349a235d4d,2003-08-29,,,black,nonhispanic,M,Randolph,Massachusetts,Norfolk County,2368,49753.08,8569.74,34654
+0e990ae6-b760-54bb-467e-16cb6e66fdee,2007-09-07,,,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2723,3245.86,55484.27,10046
+3012cfe7-9f4b-a19b-fd6b-75f548b3932f,2013-06-14,,,white,nonhispanic,M,Lynn,Massachusetts,Essex County,1906,22661.49,18237.22,189312
+9746aca9-014b-d560-99dc-954a38483536,1998-08-31,,M,white,nonhispanic,M,Westhampton,Massachusetts,Hampshire County,0,71150.22,16002.01,49771
+ef7799f9-4b21-d740-3f52-f9738bef87f5,2004-02-26,,,white,nonhispanic,M,Dartmouth,Massachusetts,Bristol County,0,4049.06,70518.1,19919
+3b50c6f6-d8e9-146f-5228-ed88a7ade617,1916-07-15,1999-09-25,D,white,nonhispanic,F,Randolph,Massachusetts,Norfolk County,2368,46504.28,2425200.52,23047
+bbc883b1-0017-cd9e-d3d9-bdfd3b3d10d3,1969-12-05,2016-09-18,M,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2748,144942.7,652300.19,30897
+f61d1353-b48c-7b59-6f24-89fc05fe297b,1916-07-15,2000-02-27,M,white,nonhispanic,F,Randolph,Massachusetts,Norfolk County,2368,32614.58,1404201.91,23047
+4780b2a9-705c-bc09-9be5-2f48f915e8f5,1964-07-21,,D,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2129,343809.12,448735.8,141974
+269936a6-a6c1-266c-cbca-c65a815ceedd,1969-12-05,,M,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2743,250608.43,710243.53,30897
+f5068941-1e15-959b-b25c-ea466f9a55a9,2008-05-30,,,other,nonhispanic,F,Haverhill,Massachusetts,Essex County,1835,70571.96,10439.54,106143
+004a8d87-7422-56df-06e7-c62bb7efc1f3,1986-09-29,,M,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2744,93663.2,0.0,43178
+c7c964e4-692e-c649-d3bb-53224cc05808,2022-02-11,,,white,nonhispanic,M,Plainville,Massachusetts,Norfolk County,0,8924.0,15698.72,72203
+866e9876-de46-6423-1dce-b866eab2c575,1960-03-14,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2152,53558.79,871009.76,10238
+62619da5-4eb9-41ef-f2d2-74608a69d6d1,2000-05-30,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2163,4624.61,45325.33,3065
+3802c0fb-6efb-2e37-a36d-a87d4e8214e9,2015-09-29,,,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1103,14066.14,5483.83,32285
+da332871-4b74-233d-0cb4-6ac77e00f5f1,1974-03-05,,S,black,nonhispanic,F,Swampscott,Massachusetts,Essex County,1907,333612.89,855548.91,177252
+aaf9516e-72cd-a14f-8da6-47737fd5857d,1916-07-15,2010-11-11,W,white,nonhispanic,F,Randolph,Massachusetts,Norfolk County,2368,36580.44,1894030.05,23047
+a1bfe879-b1b8-c603-13a0-2e05b19c5b66,2006-09-15,,,white,nonhispanic,M,New Salem,Massachusetts,Franklin County,0,55964.5,8359.22,35657
+c21a2f34-87b6-7a9b-159b-203dffeb6992,1944-11-09,2021-05-29,D,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,355681.66,955160.75,629101
+94938808-bd74-827f-2e37-aee09c7d3f4c,1957-08-11,,D,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1103,870153.58,357571.45,49282
+f3ab9982-9c01-b834-4278-83b2dde05172,1969-03-08,,S,white,nonhispanic,M,Rockland,Massachusetts,Plymouth County,0,92811.98,55029.66,73454
+2f07de4f-213a-9246-b202-b0e82e8f91b9,1991-05-25,,M,white,hispanic,F,Blackstone,Massachusetts,Worcester County,0,670132.25,315094.28,63166
+5d875905-3b14-065d-8b48-e078a5914f2c,1944-11-09,2001-01-15,D,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,160186.66,577329.04,629101
+45f08929-85b7-7a5c-00d9-3f631d98580b,1950-09-24,2005-08-14,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2125,16834.69,831133.12,7038
+f8b3273c-d79b-d7b1-ac2d-4435b1763a56,2005-12-08,,,white,nonhispanic,F,Westhampton,Massachusetts,Hampshire County,0,160034.88,518862.32,704
+10a6f5a7-91f0-6aa0-d0e4-1cab181f8598,1916-07-15,,D,white,nonhispanic,F,Randolph,Massachusetts,Norfolk County,2368,108349.52,2031076.47,23047
+e1f21055-0489-f305-cecc-81cfbbe6e760,1984-07-05,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2132,218133.02,563987.17,125482
+d1411c4c-437c-2d2c-ce36-a0f267ab05f6,1993-07-04,,M,asian,hispanic,F,Boston,Massachusetts,Suffolk County,2119,22273.12,1530332.28,14424
+dfddde6b-2907-7b1c-f8b0-422a5153969f,1950-09-24,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2163,18880.02,929871.71,7038
+c94169a4-7b6c-4a1e-51ea-c5b40e2ba4c9,1975-12-08,,M,white,nonhispanic,F,Lawrence,Massachusetts,Essex County,1840,9354.59,313986.32,4684
+e15b71cc-4e86-865d-e5d1-41288b4a26e6,1989-10-30,,W,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2746,21001.76,220668.17,13349
+601a899d-49ab-84ad-dac7-4005c82618c8,2026-04-02,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2110,3332.28,0.0,74853
+a172c893-870b-7cf2-d3e7-2bb7770387a0,1965-07-24,,D,black,nonhispanic,M,Westport,Massachusetts,Bristol County,0,18091.88,728931.73,7706
+bbf626db-639f-4aac-66f0-45af1d13cb9b,2000-11-01,,,white,nonhispanic,F,Blandford,Massachusetts,Hampden County,1008,242801.26,21166.48,116590
+b37f9b86-78fa-5997-a209-e4ab45457ee8,2006-12-21,2019-11-01,,white,nonhispanic,M,Cochituate,Massachusetts,Middlesex County,0,10489.57,47619.02,142627
+0bea83d8-41b6-61f1-d186-bf02ac3c6285,2010-01-14,,,white,nonhispanic,M,Gardner,Massachusetts,Worcester County,1440,3183.91,47274.27,10820
+3a9131c1-1c22-bfa9-9ff2-3dc2d1f6ff31,2024-04-05,,,white,nonhispanic,F,Northbridge,Massachusetts,Worcester County,0,6010.46,6545.87,122394
+7ced76c8-729a-db8d-78b0-e50fda3427ca,1974-02-22,,M,white,nonhispanic,F,Sterling,Massachusetts,Worcester County,0,1012605.08,584948.66,90178
+9da775bc-8845-4c50-d99d-fbc9b8399005,2006-12-21,,,white,nonhispanic,M,Cochituate,Massachusetts,Middlesex County,0,31254.27,34814.42,142627
+08aeff8d-0d41-d403-079d-538493efdf12,2023-05-26,,,white,nonhispanic,F,Paxton,Massachusetts,Worcester County,0,6575.76,0.0,148918
+dea16a46-e6cb-7eff-f9cb-4107f64ec55d,1997-11-18,,M,white,nonhispanic,F,Framingham,Massachusetts,Middlesex County,1701,80264.18,331179.43,197129
+f82ff27c-e600-1ddc-7a66-6483b005c276,2004-03-28,,,white,nonhispanic,F,Bliss Corner,Massachusetts,Bristol County,0,119859.71,238551.56,127466
+0efcc1e1-067c-95a6-7690-9d5f3d341805,2019-11-28,,,white,nonhispanic,F,Wareham,Massachusetts,Plymouth County,0,14650.31,163.95,85637
+8e9ab915-1a66-c863-f56d-7281878a90d1,1968-10-02,,W,white,nonhispanic,F,Lynn,Massachusetts,Essex County,1905,586564.81,355035.08,55260
+410731a0-e955-75a3-57af-bbf08b2b618f,2007-11-18,,,white,nonhispanic,F,Newton,Massachusetts,Middlesex County,2464,4295.86,59966.55,6787
+8df5bc02-03b1-9e5f-acdf-e1e13562155f,2009-10-07,,,white,nonhispanic,F,Barnstable,Massachusetts,Barnstable County,2601,207446.8,487045.25,51708
+ac055850-4451-6b1a-8114-9fd46ed92523,1980-07-27,,M,white,nonhispanic,M,Hudson,Massachusetts,Middlesex County,1749,121407.77,24144.17,45886
+6555a587-a948-f576-ec8b-4d9adb83d5b8,2004-04-06,,,white,hispanic,M,Revere,Massachusetts,Suffolk County,2151,4991.72,69304.16,5601
+e943f7e8-35ed-bc54-6fb1-f024d80ed2eb,2001-10-26,,,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1606,30068.85,642669.28,922224
+253f6133-d4fa-b429-28a6-aedc34aa79df,1952-03-17,,M,white,nonhispanic,M,Mashpee,Massachusetts,Barnstable County,0,593080.27,450105.67,42847
+4513be13-ee6f-bcf7-5ed7-5d51d6df0e54,1944-11-09,2024-11-03,M,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,304533.12,1105048.81,629101
+e964f2e0-e07b-af70-c83a-1790c14dc697,1968-10-18,,M,white,nonhispanic,F,Haverhill,Massachusetts,Essex County,1830,357415.81,126194.84,87697
+10ba2eb2-f24c-d5fb-90e0-bbd97ddd5746,1971-11-30,,M,white,nonhispanic,M,Woburn,Massachusetts,Middlesex County,1801,129228.14,20134.46,904706
+4b99d661-48ed-a163-e76d-14635a4be4ec,1948-05-28,,M,white,nonhispanic,M,Wellesley,Massachusetts,Norfolk County,2492,211290.42,101240.89,48279
+2c8d3055-3413-7449-5f50-ccb4b50c036b,1983-11-14,1986-05-17,,white,nonhispanic,M,Wakefield,Massachusetts,Middlesex County,1880,13507.27,8268.45,51181
+6cbbbdf5-9dc4-593e-944a-ce1bb2b5824a,1983-11-14,1986-07-08,,white,nonhispanic,M,Wakefield,Massachusetts,Middlesex County,1940,27916.11,13090.88,51181
+9457f732-4fea-af2c-12a9-e6686249a5d3,1967-11-18,,M,other,nonhispanic,F,Fall River,Massachusetts,Bristol County,2790,13285.58,672431.87,12984
+383ea68b-e970-e8e1-6407-87a319d8c933,1981-07-11,,S,white,nonhispanic,M,Westfield,Massachusetts,Hampden County,1085,169992.0,52820.87,81930
+27cbc27e-2f3b-eac7-f5bb-b554066f8386,1983-11-14,,S,white,nonhispanic,M,Wakefield,Massachusetts,Middlesex County,1880,123014.62,21811.98,51181
+07f4c2f9-15fd-2c46-e97a-e01f41827df5,2021-08-27,,,white,nonhispanic,F,Framingham,Massachusetts,Middlesex County,1702,13341.97,0.0,159692
+dec00c2c-952a-87d1-68da-1087999ebb64,1992-04-10,2010-05-19,,white,hispanic,F,Dalton,Massachusetts,Berkshire County,0,12157.77,651607.26,3685
+7801cf57-5218-7d59-c92b-0b939548962e,1970-08-02,,M,white,nonhispanic,M,Marlborough,Massachusetts,Middlesex County,1752,209672.23,44545.47,71421
+62d308f2-62d6-bde8-18bb-01b287ff1882,2021-05-21,,,asian,nonhispanic,F,Concord,Massachusetts,Middlesex County,0,7260.56,4689.26,118342
+bb4bd412-27ae-f84b-7912-7086fa22e059,2021-10-07,,,white,nonhispanic,M,Holyoke,Massachusetts,Hampden County,1040,24442.88,1619.51,173763
+e35f537c-3c38-708d-820a-e338c772b029,1944-11-09,2008-01-26,S,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,163346.88,2747371.61,629101
+4ae01fda-0164-04ed-fcae-f89431c6171e,1992-04-10,,M,white,hispanic,F,Dalton,Massachusetts,Berkshire County,0,14102.28,651300.67,3685
+15a0aa5e-fdbc-3d67-ba60-4d645aa51884,1955-05-25,,D,white,nonhispanic,F,Middleborough,Massachusetts,Plymouth County,0,1140426.44,838681.95,67489
+aec0db2e-4ae2-4d16-2c48-53da4b1f36ed,1995-08-03,,S,white,nonhispanic,M,Princeton,Massachusetts,Worcester County,0,125903.74,376059.79,34644
+2ec48745-1c75-3728-f2c4-d677d0caa273,1962-07-13,,M,white,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2189,363011.84,940947.04,305519
+b239e7c1-e128-7943-09e9-bf68190c61ea,1977-01-04,,S,white,nonhispanic,M,Bridgewater,Massachusetts,Plymouth County,2324,98688.2,0.0,74279
+0c707a87-0385-ab6b-cafc-50ca994ba2ef,1954-10-06,,W,asian,nonhispanic,F,Medford,Massachusetts,Middlesex County,2155,838855.48,319130.27,112877
+d9e44ada-3eef-2e6d-8b79-a2e2c4403d1c,1944-11-09,2025-05-09,D,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,310259.12,680246.51,629101
+a22aec35-bb87-9b98-e90b-0025bdd76f64,2003-01-14,,,white,nonhispanic,F,Wilbraham,Massachusetts,Hampden County,1095,76876.7,6307.71,104702
+838d0937-4529-f87b-7bf5-3c7a632ae7df,1983-10-02,,M,asian,nonhispanic,M,Natick,Massachusetts,Middlesex County,0,10241.72,114853.37,14852
+6007e38d-4f0d-8bcc-620d-724e18e1d253,1978-09-15,,M,white,nonhispanic,F,Malden,Massachusetts,Middlesex County,2148,214000.52,754515.64,171618
+04b9d5bc-f572-eac9-d55a-601305f7f148,1997-07-30,,S,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1129,6762.82,90863.87,6018
+6784ed89-a570-c4f3-246e-d61f29243175,1968-07-11,,M,white,nonhispanic,F,Marshfield,Massachusetts,Plymouth County,2050,266028.42,723507.09,29153
+30c76e3f-d3d6-2147-2801-7bb050b09525,1944-11-09,,M,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,195616.52,930300.15,629101
+e74a9d9f-ded4-a54d-4481-4a8a81f4fa31,1980-10-24,,M,white,nonhispanic,M,Newton,Massachusetts,Middlesex County,2459,122178.79,6712.23,745260
+9dc5ea4c-5dec-b96b-19d7-13dfa1d80379,1989-03-08,,D,white,nonhispanic,F,Somerville,Massachusetts,Middlesex County,2140,135828.77,62854.93,56824
+b7089dd1-8593-8606-151a-54b7a9f50b03,1987-02-26,,M,white,nonhispanic,F,Brookline,Massachusetts,Norfolk County,2215,107503.34,1150443.94,25294
+23676ac4-58cf-9798-dfec-83f1f7d188da,2022-05-29,,,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2126,8024.86,0.0,96096
+6e7cdd44-5fdf-bdd6-8f62-df5a0f93f827,2001-04-05,,,native,nonhispanic,F,Dartmouth,Massachusetts,Bristol County,0,6612.98,293843.28,6801
+006e927e-7ae3-311c-9069-1f0e003aa8ae,1932-09-15,2012-12-09,W,black,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2191,321227.8,829891.66,190301
+ee07e08e-057a-eb4b-2996-494006d9ac9a,1984-11-22,,M,white,nonhispanic,F,Southampton,Massachusetts,Hampshire County,0,224517.33,404933.15,156437
+d19f8ab5-11d8-a4d6-c0c3-8050b7fd2a03,2002-04-22,,,white,nonhispanic,F,Amherst,Massachusetts,Hampshire County,0,5972.99,231617.86,23121
+318214d1-e925-83e5-c48c-9117a7e5cfad,1975-05-28,,D,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2703,120271.09,2287563.64,184369
+5e73c9d3-872a-615f-32b4-3a5cf54089ab,1959-05-19,,M,white,nonhispanic,M,Great Barrington,Massachusetts,Berkshire County,1230,320828.61,151833.53,63764
+767e548a-94af-cf39-b2f5-af94c37ebcb1,1932-09-15,2018-01-26,M,black,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2188,222536.99,1333436.7,190301
+2ebe1927-ee48-25b5-836f-d65f8a62cfcb,2006-03-06,,,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2118,59676.89,5199.96,103963
+b19674d0-5ad9-1fba-14f8-cda1a593623e,1975-10-09,,S,white,nonhispanic,F,Norwell,Massachusetts,Plymouth County,0,150121.8,575389.52,408489
+96606c10-74ee-0656-771b-a8bc57b95f87,1967-09-06,2022-11-02,W,white,nonhispanic,F,Stow,Massachusetts,Middlesex County,0,226297.49,321686.86,916599
+f9438f27-f554-79f0-52e0-488989d92c40,1967-06-02,,M,white,nonhispanic,F,Weston,Massachusetts,Middlesex County,0,164720.02,685531.0,549704
+34dc7781-e57e-be13-e63d-d98b6bacc45c,1982-12-04,,M,white,nonhispanic,M,Abington,Massachusetts,Plymouth County,2351,92745.18,8866.17,698314
+fe0cb44a-0c48-4d6b-5e33-38351a535fac,2026-04-06,,,black,nonhispanic,F,Brockton,Massachusetts,Plymouth County,2351,1753.0,1180.02,149762
+3b18f90d-43cb-1e07-66d4-df8958d39f8f,2023-07-18,,,white,nonhispanic,F,Spencer,Massachusetts,Worcester County,1562,5412.23,4152.88,181690
+41d3950a-2bb0-3160-5717-2770a07ed23a,1967-09-06,,M,white,nonhispanic,F,Stow,Massachusetts,Middlesex County,0,211768.7,274783.57,916599
+c5475445-74d3-f1b2-597e-49a2dd6d6423,1967-11-28,,M,white,nonhispanic,M,Williamstown,Massachusetts,Berkshire County,1267,168175.51,16389.17,44557
+c8dae6fc-a97d-d534-650e-ccd6a1f019dd,1955-06-20,2021-10-31,S,white,nonhispanic,M,Methuen,Massachusetts,Essex County,1844,339358.7,103730.78,77486
+4b1ab006-165e-06ec-f50f-55b208739ec0,1995-08-11,,M,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1151,8616.63,434586.88,3375
+150f471a-633b-b771-c792-b64b0609b020,1983-04-07,,M,white,nonhispanic,F,Rutland,Massachusetts,Worcester County,1543,154100.4,1404098.07,33974
+6106b44e-6cd3-914c-3609-40df892d800b,1995-08-04,,M,white,nonhispanic,F,Tewksbury,Massachusetts,Middlesex County,0,135576.27,937730.96,111054
+088ca039-be46-aa23-9b0a-9e911262298a,1955-06-20,,M,white,nonhispanic,M,Methuen,Massachusetts,Essex County,1841,224438.57,176827.99,77486
+13954a60-68e2-4cee-61e1-22da718941e3,1983-09-29,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2131,13613.58,484547.26,20499
+4002ba3c-aa46-90c6-c32e-c13afb0cbc56,1999-05-20,,,white,nonhispanic,M,Barnstable,Massachusetts,Barnstable County,2601,4548.78,51237.98,18011
+005c17fa-15e4-2684-1521-aa85e4d5ae45,2008-08-17,,,white,nonhispanic,F,Leominster,Massachusetts,Worcester County,1420,46387.05,8408.73,70597
+a78fba0f-7de4-a6f1-e21d-4cc8284fb515,1967-12-20,,W,white,nonhispanic,F,Randolph,Massachusetts,Norfolk County,2368,664734.1,226129.87,104279
+58078db7-0bff-51c3-d791-9b9e19b095f6,1978-04-19,2013-02-11,M,white,nonhispanic,M,Monson,Massachusetts,Hampden County,0,9578.75,707379.7,7540
+8cac533c-4689-1106-58cf-6e126b4a15d6,1970-11-10,,M,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2111,238868.97,512862.86,32263
+5112baad-44b4-a826-0b3f-13b9a9a25cce,1932-09-15,2008-03-14,M,black,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2188,167127.9,978338.19,190301
+8b2692b3-0ceb-2eeb-08c8-60ef61ad3d9d,1978-04-19,,S,white,nonhispanic,M,Monson,Massachusetts,Hampden County,0,10516.29,196594.81,7540
+5a2a0a61-ef74-e953-53e5-8ec8aea979f0,1963-01-25,,D,white,nonhispanic,M,Sandwich,Massachusetts,Barnstable County,2563,43636.0,146475.54,194411
+fafbcf2c-7124-1d0e-ab7d-6943a0e62143,2023-11-02,,,asian,nonhispanic,F,Boston,Massachusetts,Suffolk County,2121,4374.09,2250.46,169095
+63865354-19e9-2e62-3178-766166565fd2,1996-08-30,,M,white,nonhispanic,M,Canton,Massachusetts,Norfolk County,0,96213.56,573514.92,90825
+b43082e5-cd23-8ba0-8221-7e15951cbaa5,2023-06-18,,,other,nonhispanic,F,Stoneham,Massachusetts,Middlesex County,2180,7369.32,0.0,44928
+2c47c853-aeda-18c9-0eec-62072c33472e,1960-12-22,,D,white,nonhispanic,F,Ashburnham,Massachusetts,Worcester County,0,788267.59,88620.8,94448
+7f85c51a-1f27-d764-d006-72cdf7016b96,1916-07-19,2023-08-06,M,native,nonhispanic,F,Newburyport,Massachusetts,Essex County,1951,129146.9,1868734.43,463169
+0ac0b2a2-fb4b-bd83-9556-5bacf125e5ac,1932-09-15,2013-03-27,M,black,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2191,195706.08,1836627.98,190301
+a4502e1e-acfd-ee03-faa8-f22e83581e0e,1916-07-19,1930-08-01,,native,nonhispanic,F,Newburyport,Massachusetts,Essex County,1950,35646.89,21754.44,463169
+fdf51b95-32ed-a388-d380-cd04b76b2103,2002-01-20,,,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2210,49297.26,679393.73,69311
+f9cfbcbe-ada7-8901-a82d-becb6d0de57a,2022-09-12,,,white,nonhispanic,F,Chicopee,Massachusetts,Hampden County,1013,8185.87,9415.48,980861
+7a181ff7-044d-b805-78f8-ae4b1341e63a,1982-08-13,,M,white,nonhispanic,F,Salisbury,Massachusetts,Essex County,1952,328903.23,250583.94,61645
+e6389117-1bf4-b2b2-2a34-10f1c8526148,1985-01-31,,M,white,nonhispanic,M,Stow,Massachusetts,Middlesex County,0,80945.99,2425.83,153959
+f0bef887-d691-680f-0d20-4731b4edc30a,2020-06-15,,,white,hispanic,F,Sutton,Massachusetts,Worcester County,0,31212.37,4774.98,190941
+93fd012d-f4f3-5cf5-e669-610c641b72d1,1955-08-05,,S,white,nonhispanic,M,Westfield,Massachusetts,Hampden County,1086,205420.51,90174.35,82386
+723f455e-e5f2-0870-7e19-7238dcd56a9d,1932-09-15,1994-09-18,M,black,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2189,189374.84,948071.07,190301
+b29b7c39-7caf-0410-1e49-8b8171d2a43e,1916-07-19,2013-05-11,M,native,nonhispanic,F,Newburyport,Massachusetts,Essex County,1951,119710.02,699095.72,463169
+5dd531d3-4ced-c584-9f31-ff9088993c3f,1997-03-15,,M,white,nonhispanic,F,Pembroke,Massachusetts,Plymouth County,0,177241.1,920536.33,205948
+856ae087-33ca-bf49-3b05-897f48617687,1934-11-19,1951-03-28,,white,nonhispanic,M,Cambridge,Massachusetts,Middlesex County,2142,37479.19,77843.95,716684
+40c071e8-535f-5a61-cfd8-a1b0ba2d74b3,1957-01-02,,M,white,nonhispanic,F,Sterling,Massachusetts,Worcester County,0,348256.42,767936.36,310067
+6ad6cbf9-d6da-a856-60ad-c6e2c2ab40bf,1992-12-26,,M,asian,nonhispanic,M,Lexington,Massachusetts,Middlesex County,2421,51127.46,2052.44,450337
+de63962f-b796-45cc-bc63-57f15e5c6286,1932-09-15,2008-05-21,M,black,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2191,211214.92,1254748.42,190301
+59979d21-886d-9ce0-3cdb-c311211af315,1916-07-19,,S,native,nonhispanic,F,Newburyport,Massachusetts,Essex County,1951,219751.02,781501.92,463169
+c82523cf-ab2a-5a03-baa9-16bafbfad616,1934-11-19,1996-09-24,M,white,nonhispanic,M,Cambridge,Massachusetts,Middlesex County,2138,123596.76,766528.87,716684
+bcc7026e-12af-05d8-64a8-e6b1d95e337c,2010-03-11,,,white,hispanic,M,Natick,Massachusetts,Middlesex County,0,81323.62,450229.63,130656
+7a0d0cf4-4c9d-2209-ee96-967cf2d1d71a,1975-12-22,,S,white,hispanic,F,Boylston,Massachusetts,Worcester County,0,354554.28,219034.4,63399
+da594955-e6c8-6027-8a85-c4205f3d862c,1969-02-01,,M,white,nonhispanic,M,Canton,Massachusetts,Norfolk County,0,139352.21,34042.49,679898
+31e1fa41-8059-caa3-7493-3dd10dcfbc07,1998-07-22,,M,hawaiian,nonhispanic,F,Winthrop,Massachusetts,Suffolk County,2152,116854.03,254177.66,189169
+9791ff7a-d0ae-6b30-9a99-5038dede9bd3,1932-09-15,,M,black,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2190,335074.37,723046.86,190301
+708a2063-d6c5-d617-17d3-13cd2eeddbd8,2006-06-15,,,white,nonhispanic,F,Chicopee,Massachusetts,Hampden County,1020,50156.49,13884.85,37880
+6cc4e785-068a-495c-7db7-fcc22bf16e9a,1996-12-27,,M,white,nonhispanic,M,Scituate,Massachusetts,Plymouth County,2066,56767.73,23472.9,73701
+f4f222a8-96d8-0505-1ca9-c1245b55d386,1934-11-19,,M,white,nonhispanic,M,Cambridge,Massachusetts,Middlesex County,2142,204762.32,253882.53,716684
+4ac0f670-2a72-b581-20e4-880c2cf1fc00,1997-08-19,,M,white,nonhispanic,M,Westford,Massachusetts,Middlesex County,0,37312.87,17933.27,652345
+4c809aa7-b49a-f071-9559-6b60b820d293,2003-05-15,,,white,nonhispanic,M,Somerville,Massachusetts,Middlesex County,2144,59540.69,17456.09,75457
+b621ce9b-67a1-5c4f-a381-b026a030506f,1992-10-28,,M,asian,nonhispanic,M,Norwood,Massachusetts,Norfolk County,2062,14448.56,124221.14,20036
+211d7232-3851-c4a6-4521-a98efcac64c3,1979-12-19,,M,white,nonhispanic,F,Amesbury,Massachusetts,Essex County,1913,399028.98,619564.04,58251
+354bf3a7-d1b4-6047-85e7-794ab79af006,1976-07-27,,M,white,hispanic,F,Springfield,Massachusetts,Hampden County,1108,12383.57,523522.9,19420
+0eba76a3-524b-e22e-18de-fada4e43bff9,2006-11-01,,,white,nonhispanic,M,Lawrence,Massachusetts,Essex County,1843,55062.0,8076.06,69694
+f671b1bc-35af-350e-ac95-6c1db0f49346,1976-12-17,,M,white,nonhispanic,M,Amherst,Massachusetts,Hampshire County,0,181976.63,0.0,89627
+95c97bea-857f-ed8e-581d-181da41fcc58,2006-10-27,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2126,46876.93,8269.52,45242
+6052e176-3516-8054-dac5-821e6c99fc56,1951-03-18,,M,white,nonhispanic,F,Brockton,Massachusetts,Plymouth County,2302,797427.98,243152.97,79757
+b2cc2846-20f2-456a-7a15-253d19ed43bd,2010-08-03,,,white,nonhispanic,M,Auburn,Massachusetts,Worcester County,0,21675.95,30785.4,32218
+0e8421c1-3710-0fb1-356a-7cebca29196e,1966-11-02,,M,white,nonhispanic,F,Worcester,Massachusetts,Worcester County,1602,636922.17,309575.56,54243
+8733e1a5-589e-537f-4108-54040b7204e6,2012-01-01,,,white,nonhispanic,F,East Longmeadow,Massachusetts,Hampden County,0,29605.23,6203.51,58231
+8a9e7a4b-be7a-1db9-cbdd-ba393d9829c5,1990-09-30,,M,white,nonhispanic,F,Marshfield,Massachusetts,Plymouth County,2050,275162.49,743413.07,157932
+5d858676-adb2-82b2-a4e3-9e95804029b1,1988-08-30,,S,white,nonhispanic,M,Lakeville,Massachusetts,Plymouth County,0,58663.46,81037.55,287097
+6e9ee390-0fd1-dad4-e4ef-ff365ae81869,2014-03-24,,,white,nonhispanic,M,Brookline,Massachusetts,Norfolk County,2215,24722.61,21230.94,33467
+2c8f298d-1d56-4f4e-78f9-16e5092d51b1,1951-05-29,,S,asian,nonhispanic,F,Weston,Massachusetts,Middlesex County,0,240514.89,1492161.15,392822
+37b4003d-4a97-f73f-249f-8223cef5ad73,2010-01-11,,,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1013,4220.2,61262.44,12895
+26d51c08-2c6d-6cf0-395e-9701b7d8dfa5,1969-11-04,,M,asian,nonhispanic,F,Merrimac,Massachusetts,Essex County,0,11000.55,444794.03,19753
+218a0180-7930-e3b4-f2ad-807e526c2f38,2008-01-12,,,white,hispanic,M,Burlington,Massachusetts,Middlesex County,1803,114856.46,661889.19,158541
+12bfa9ff-a84e-a0f5-3592-60ad2db4c98d,1974-08-19,,M,white,hispanic,F,Springfield,Massachusetts,Hampden County,1103,581185.6,387848.46,87522
+7408bb44-aca9-4c15-1dd3-362baed68df9,1988-11-29,,M,white,nonhispanic,F,Everett,Massachusetts,Middlesex County,2149,584782.64,1225560.98,65186
+1b981dc1-5b28-2836-e4e4-a54d26c21820,2010-08-25,,,asian,nonhispanic,M,Hopkinton,Massachusetts,Middlesex County,1748,42736.61,1437.9,163421
+967c2a98-21c0-4b71-8264-8ccb2d15ac36,1955-09-03,,M,white,nonhispanic,F,Needham,Massachusetts,Norfolk County,2494,224796.79,1023146.57,770407
+4e3c72ee-8f43-3164-9c09-621d46360d3a,1972-08-02,,D,white,nonhispanic,M,Canton,Massachusetts,Norfolk County,0,87195.76,338191.68,795810
+755f3f96-6a2a-f695-1b59-c615712007d5,1965-12-03,2020-12-14,M,white,nonhispanic,M,Shrewsbury,Massachusetts,Worcester County,0,113796.28,13709.34,186544
+e7efa74b-8210-e5ba-281f-231f5457f846,2010-08-23,2014-08-17,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2118,8471.42,16040.67,82679
+f63b4f0f-7ecc-b25e-53bc-4a74fb8407a4,2010-08-23,,,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2124,56227.52,4971.37,82679
+78f898f1-5f13-3470-1c2f-cb3d09d494e9,1970-06-28,,D,white,nonhispanic,F,Pittsfield,Massachusetts,Berkshire County,1201,233094.15,692449.45,34540
+7bce5723-1469-c3ec-3e7c-29e0e8b8e80f,1965-12-03,,M,white,nonhispanic,M,Shrewsbury,Massachusetts,Worcester County,0,130087.57,50890.94,186544
+73eeb67c-0c21-b5f4-d48e-86bea6d77894,2018-09-15,,,white,nonhispanic,M,Rehoboth,Massachusetts,Bristol County,0,9599.17,6884.63,79364
+9a51b7fd-5342-2711-600f-bebe3a9e18aa,1977-07-03,,M,white,nonhispanic,F,Billerica,Massachusetts,Middlesex County,0,227546.28,704080.83,30981
+af0834d3-179d-0138-e9d8-88c6b5e9d73d,1952-05-09,,W,white,nonhispanic,F,Falmouth,Massachusetts,Barnstable County,2540,1448511.15,172608.98,90726
+60418271-3dea-4b40-eb34-3371d16824b6,2004-02-24,,,white,nonhispanic,F,Provincetown,Massachusetts,Barnstable County,2657,10343.65,803788.89,73711
+a0ef3e13-b6cd-d0d7-7c85-03fd7a491d65,1985-03-30,,M,white,nonhispanic,F,Agawam,Massachusetts,Hampden County,1001,322866.57,409666.73,97521
+cb64c360-4cc9-2376-4c49-5a56bcd4392b,1963-10-22,,D,black,hispanic,M,Lynn,Massachusetts,Essex County,1907,28764.72,608602.55,10798
+98bc1ee3-26d4-be95-2145-4eb7779c8b35,1956-02-12,,D,white,nonhispanic,M,Upton,Massachusetts,Worcester County,1568,168567.07,800516.2,93886
+87968440-459c-9e98-75ef-31eef1c9ba49,1952-05-25,2021-03-09,W,white,nonhispanic,M,North Scituate,Massachusetts,Plymouth County,2060,288355.09,1969853.87,67722
+68863b94-d2c3-27bd-d13d-8e339d1191ff,1974-12-26,,M,white,nonhispanic,M,Montague,Massachusetts,Franklin County,0,17329.8,775952.66,93833
+58157317-ed68-9eff-f5cf-8c1e9f795824,1998-06-06,,M,white,nonhispanic,F,Mattapoisett,Massachusetts,Plymouth County,0,247518.18,6031.63,75941
+b7423682-f60f-0662-4b2c-fbaee0e7ced4,2008-08-03,,,white,nonhispanic,F,Stoneham,Massachusetts,Middlesex County,2180,63508.93,640624.13,190850
+1c282100-01dd-45e8-282b-9f7e3cf47457,1952-05-25,,D,white,nonhispanic,M,North Scituate,Massachusetts,Plymouth County,2060,219541.62,30960.03,67722
+eebb7bdf-ee6f-0a64-4713-7ec5fff79ce2,1962-07-07,2014-03-17,M,white,nonhispanic,M,Chelmsford,Massachusetts,Middlesex County,0,121761.7,3722716.69,172496
+f7bffdff-9a9c-0f40-0854-d61ff1733acc,1978-09-14,,D,asian,nonhispanic,M,Holyoke,Massachusetts,Hampden County,1040,162746.14,0.0,35554
+baedaf58-f209-3209-93a2-236763cc3451,1971-07-26,,M,white,nonhispanic,F,Seekonk,Massachusetts,Bristol County,0,12666.3,660131.48,16899
+f203d783-b716-ed53-e8af-303914950171,1972-02-21,,M,white,nonhispanic,M,Winthrop,Massachusetts,Suffolk County,2128,10338.59,123979.78,15530
+08e5cdf8-3bb4-2577-a552-130090b0ec15,1956-09-03,2003-01-30,M,white,nonhispanic,M,Dennis Port,Massachusetts,Barnstable County,2639,13009.12,216504.79,12924
+fb0a13a4-59a2-0d1f-03df-a4304ce7003a,1962-07-07,,M,white,nonhispanic,M,Chelmsford,Massachusetts,Middlesex County,0,207828.37,605708.6,172496
+cd3f735e-eaf1-f408-04f2-ba6ad88a407d,1994-04-09,,M,white,nonhispanic,F,Medford,Massachusetts,Middlesex County,2155,465025.55,40775.29,91968
+426a83b0-92cf-fb88-cc2a-2552432446fd,1956-09-03,,M,white,nonhispanic,M,Dennis Port,Massachusetts,Barnstable County,2639,25899.01,497569.39,12924
+9412ded1-bd84-8de3-2f7b-c9dd0b21ff52,1990-08-14,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2124,13475.88,1396571.22,16570
+0aecda31-1681-67ee-f603-1ea0fedfdcbb,1965-09-28,,D,white,nonhispanic,F,Pittsfield,Massachusetts,Berkshire County,1201,895852.31,566681.46,42271
+2c40570f-fb2e-acc2-05d1-fb0018e93f09,1993-12-14,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2163,156504.81,142293.5,94057
+cc77d72d-5c99-3318-ca46-0841be548977,1980-10-06,,M,black,hispanic,M,Peabody,Massachusetts,Essex County,1940,429183.94,305542.89,49246
+f956f8e2-d809-10f4-b9e6-08ff351e1dbb,1968-02-23,,D,white,nonhispanic,F,Hull,Massachusetts,Plymouth County,2045,180367.45,902250.82,295001
+edf7fb96-5b43-6068-5fd5-9078a46d2677,1974-01-16,,M,white,nonhispanic,M,Lawrence,Massachusetts,Essex County,1841,128039.98,106929.98,26978
+54716658-521c-4fcf-22c6-9e7d19b39936,1995-02-08,,M,white,nonhispanic,M,Billerica,Massachusetts,Middlesex County,0,5181.41,88477.69,13489
+e9ce2dfb-6bb3-6117-1d0c-2621a0ce31ee,2001-09-26,,,white,nonhispanic,F,Rutland,Massachusetts,Worcester County,1543,119897.55,295037.98,67383
+4db30a78-ac2f-634f-72bd-474516adecea,1976-05-24,,M,white,nonhispanic,F,Sutton,Massachusetts,Worcester County,0,330640.57,168137.35,100948
+8da23e80-c836-9994-39f0-d4710760e827,1977-04-20,,M,white,nonhispanic,M,Fairhaven,Massachusetts,Bristol County,0,10532.96,693473.76,21850
+76742323-fd4e-c83d-4e06-531cda6bc30e,1974-07-04,,M,asian,hispanic,M,Peabody,Massachusetts,Essex County,1940,238392.06,19915.95,99847
+cea8f647-0127-134a-4b70-084e12743fa4,2007-05-06,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2132,39085.75,33026.07,47363
+dd906957-84d2-82ac-a054-5f4e8931c3e8,2020-03-03,,,white,nonhispanic,F,Mansfield Center,Massachusetts,Bristol County,0,15370.05,507.81,85366
+f04d82e1-db99-f67a-e12c-40ca01083f65,1995-04-17,,M,white,nonhispanic,M,Gloucester,Massachusetts,Essex County,1930,82516.82,32118.63,44448
+22f5e83c-3722-0fb1-f50f-d9a5bc58b0a0,1988-10-31,,M,white,nonhispanic,F,North Andover,Massachusetts,Essex County,0,272263.57,696825.53,316598
+ca469577-236c-b353-7fa1-390c644a8a45,1918-09-07,1977-01-13,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2703,237784.88,794662.24,187649
+c611d76f-9194-ac74-2a22-d229bb7c2995,1999-11-20,,,white,nonhispanic,M,Hopkinton,Massachusetts,Middlesex County,1748,119174.39,536538.83,253750
+e9075f73-f935-58c2-35d4-3080bdca13c6,1997-05-29,,M,white,hispanic,F,Rockport,Massachusetts,Essex County,1966,161138.09,340230.16,175982
+04d4f635-7494-d100-a92a-5b118079cfc5,1918-09-07,1965-01-03,D,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2861,69924.09,100521.72,187649
+0c2fe377-721a-0912-a467-bc73bd177385,1961-06-12,,M,white,nonhispanic,M,Hanson,Massachusetts,Plymouth County,2341,251809.72,106614.32,149365
+0ec2220f-4980-7b60-1ea7-79d1cee7f81f,2005-03-06,,,white,hispanic,F,Springfield,Massachusetts,Hampden County,1119,41124.54,155697.08,83175
+4b61ad5b-c324-d3ef-18a1-153e18be0d1e,1954-04-14,,D,white,nonhispanic,F,Dartmouth,Massachusetts,Bristol County,0,22904.97,1015041.71,11617
+6f6739a7-5b2a-820c-6787-1e2c371383a2,1968-07-01,,S,white,hispanic,F,Worcester,Massachusetts,Worcester County,1606,317081.13,1299165.65,32517
+33407957-1bdd-9eff-c943-b88ffe09ca41,2002-09-24,,,black,nonhispanic,F,South Amherst,Massachusetts,Hampshire County,0,5324.62,76702.01,3530
+9bfa7e93-178b-06d7-b892-27ef768a560b,1970-10-16,,M,white,nonhispanic,F,Shrewsbury,Massachusetts,Worcester County,0,169936.75,716285.09,196002
+9a08bfef-7c6c-fccd-3fe2-2111a0198d09,2004-11-25,2007-10-01,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2114,8267.68,0.0,111738
+7a3d3afc-0a17-186a-54db-191f4da3260c,2012-06-05,,,other,hispanic,F,Bridgewater,Massachusetts,Plymouth County,2324,54273.56,0.0,41650
+48c542dc-b5d8-55f1-ad4f-cc7bf1694b07,1918-09-07,,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2703,96893.03,419493.31,187649
+656e4e51-9e36-643d-d337-f7c97caf7f16,2004-11-25,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2215,213124.7,11605.58,111738
+4e6a8fab-59ce-8acd-c36b-86640bce22bb,1973-01-04,,D,asian,nonhispanic,M,Woburn,Massachusetts,Middlesex County,1890,231227.04,0.0,107974
+2828ab01-bd8b-cacd-99f4-d5b7433f27e4,1977-04-23,,M,white,nonhispanic,F,Somerville,Massachusetts,Middlesex County,2140,786605.06,217002.67,68677
+82466f4a-aaf7-4a9a-2c3b-bc70aac31dbf,1986-11-28,,D,white,nonhispanic,F,Raynham,Massachusetts,Bristol County,0,145072.07,701095.63,27169
+4588fa46-e0e7-af96-d334-935100b2ad0f,1981-11-08,,M,white,nonhispanic,M,Bridgewater,Massachusetts,Plymouth County,2324,88846.61,5029.57,145833
+a387c936-6b53-a580-f93e-89557d7f6e87,1971-09-25,,M,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1108,15591.65,296112.51,16720
+aca3ea38-7730-864d-9c2d-6475d55c222b,1952-10-09,2020-01-16,S,white,nonhispanic,M,Waltham,Massachusetts,Middlesex County,2452,173908.52,31235.95,103674
+a6c8b5c3-bbd5-6dbd-d420-e0b00ff3c0ff,1965-05-26,,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2861,12550.41,207701.01,12370
+691296a3-dd81-e73d-60bf-28a6c2408c51,1967-04-29,,S,white,nonhispanic,F,South Lancaster,Massachusetts,Worcester County,1561,202230.02,861941.66,860142
+d0423da6-4905-7ca9-68ff-cc1654f22638,2006-10-06,,,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1020,64846.84,17554.64,55175
+ca60042a-0be7-1264-a9c2-16214d8c616b,2016-07-15,,,white,nonhispanic,M,Scituate,Massachusetts,Plymouth County,2066,22087.87,296.88,709411
+582f43d9-a886-87ca-3db3-0ed2ef9e881f,1998-03-01,,S,white,nonhispanic,M,Somerset,Massachusetts,Bristol County,2725,75710.54,35671.5,29404
+3c23b2cd-a7b6-d1ac-cc00-e0be0a527bac,1970-06-23,,M,white,hispanic,F,Agawam,Massachusetts,Hampden County,1001,516915.83,159779.64,102392
+5403211c-5a67-96ce-9d3e-7a83f3db7fbf,1970-04-26,,S,asian,nonhispanic,M,Ludlow,Massachusetts,Hampden County,0,180308.57,485910.99,116276
+4cb588de-40fd-4a5d-1b31-ce7c860f51ab,1976-05-29,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2120,558588.06,65146.71,70976
+8fee9845-7208-fe90-462d-a8da2c32c531,1966-01-17,,D,white,nonhispanic,M,Arlington,Massachusetts,Middlesex County,2476,124281.43,42542.73,73271
+097c8634-bc4a-4660-ff1e-fa6778cca8aa,1965-05-18,,D,white,nonhispanic,M,Southampton,Massachusetts,Hampshire County,0,186759.27,76799.47,105608
+7b994fae-4c0a-c33c-4eda-45709cdf87f9,1999-03-07,,,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2746,101128.73,7771.9,55594
+3d24c467-372b-79bb-dd36-95a8e4ba41c6,1983-10-10,,M,white,hispanic,F,Longmeadow,Massachusetts,Hampden County,1106,15156.1,1059927.41,20517
+0cc274d0-475a-423b-1638-9980dce51e2e,1996-11-17,,M,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2128,156824.68,298025.1,138322
+7d677a2b-feda-32ea-f33f-418f6d904697,1967-06-24,,S,white,nonhispanic,M,Springfield,Massachusetts,Hampden County,1105,65321.98,144911.22,88305
+7b417880-b77a-3f35-96d2-ef626e4e1b99,2007-06-24,,,white,nonhispanic,M,Billerica,Massachusetts,Middlesex County,0,65728.63,5443.17,142222
+257a3bb1-f17a-ac00-3b8d-78c0f18ae1f7,2004-09-29,,,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2120,5527.4,309160.83,3550
+7df0026c-a5bb-c971-9cd9-17747da769f9,1993-04-30,,S,white,nonhispanic,M,Berlin,Massachusetts,Worcester County,0,80248.82,40616.52,94224
+72f6409f-7944-861a-292c-30fdc4159185,1992-12-23,,M,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2128,8762.91,776342.7,2181
+3edea87d-6e0d-79a6-6801-d85b62a4134f,2016-02-16,,,white,nonhispanic,F,North Eastham,Massachusetts,Barnstable County,2651,20461.6,2049.48,42645
+e4ec0594-39df-ff2f-28f1-93e2088245a0,2017-11-09,,,white,nonhispanic,F,Bridgewater,Massachusetts,Plymouth County,2324,29334.53,860.09,126853
+ab7e37ae-2811-19dd-465a-a189cc269ebf,1969-05-02,,W,white,nonhispanic,M,Dudley,Massachusetts,Worcester County,0,339637.26,123651.71,42392
+3b58c22a-db38-34e9-b3ad-8a4e35977f8a,1979-07-14,,M,hawaiian,nonhispanic,M,Boston,Massachusetts,Suffolk County,2116,432046.92,259312.03,93836
+e4767cca-f101-ec19-8b8c-041c183bf820,1963-06-13,,D,white,nonhispanic,F,North Reading,Massachusetts,Middlesex County,0,300855.8,1199619.48,168699
+fdd60ddf-d635-1da1-94a1-2cb19dd00cd1,1952-10-09,,M,white,nonhispanic,M,Waltham,Massachusetts,Middlesex County,2472,233802.77,839225.05,103674
+f0d201ea-ce38-679a-277d-d28dedace230,1994-07-19,,M,black,nonhispanic,M,Boston,Massachusetts,Suffolk County,2203,71864.79,995.19,419313
+ddc01927-93cf-eeb0-5338-144708530d23,1988-06-18,,M,white,nonhispanic,M,North Adams,Massachusetts,Berkshire County,1247,15016.24,94016.69,80166
+c14815db-8de8-525e-3b28-5288a257d35a,2025-02-23,,,white,nonhispanic,F,Charlton,Massachusetts,Worcester County,0,5990.85,0.0,132428
+f6efc159-471e-6a1c-578d-33526e418423,1925-09-15,2026-01-16,D,black,nonhispanic,M,Chelsea,Massachusetts,Suffolk County,2151,74683.75,1592398.18,16198
+ed99d59f-4659-5af0-e440-1502c12a0843,1959-04-24,,M,white,hispanic,F,Boston,Massachusetts,Suffolk County,2113,163507.48,1064013.83,4994
+51897b09-5206-043a-73cd-3986359de5c6,1925-09-15,1968-02-01,M,black,nonhispanic,M,Chelsea,Massachusetts,Suffolk County,2150,9068.21,151490.52,16198
+ddd4b875-6c5d-1396-ad84-d7b120430cb6,1978-09-08,,D,other,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2190,350035.68,285812.94,116081
+cb593efa-6af3-573b-18dc-f670723c5ed9,1963-12-29,,D,white,nonhispanic,F,Holyoke,Massachusetts,Hampden County,1040,57626.71,812522.17,372670
+3289a988-cdc2-e0a8-cd3b-2d0d88fe2e4a,1992-01-11,,M,black,nonhispanic,F,Medford,Massachusetts,Middlesex County,2155,172769.93,608127.35,39526
+ade0fec5-e42f-5199-89d1-db955f176c2f,1991-08-15,,S,white,nonhispanic,F,Medford,Massachusetts,Middlesex County,2155,174826.05,861156.22,27659
+b122005a-91d9-7e97-c3c1-dfbf06f16620,2014-02-19,,,white,nonhispanic,F,Rockland,Massachusetts,Plymouth County,0,34423.41,737.9,114793
+d344bec1-fd8e-6781-8588-dac336e264ed,2024-03-25,,,white,nonhispanic,F,Hardwick,Massachusetts,Worcester County,0,11287.66,0.0,117302
+d6525c4f-8667-48cf-d4ce-b6d410759df2,2015-01-04,,,white,nonhispanic,F,Bellingham,Massachusetts,Norfolk County,2019,16228.38,0.0,168024
+9c404b6f-4784-7960-6800-7c0a83758afb,1963-01-15,,D,white,nonhispanic,M,Hanson,Massachusetts,Plymouth County,2341,198859.53,32603.18,134802
+a5604271-a2fc-2352-f9a1-5d5a5a1dd723,1925-09-15,2000-05-23,W,black,nonhispanic,M,Chelsea,Massachusetts,Suffolk County,2151,16671.27,312870.6,16198
+5218b47f-c9fb-ce7d-afa2-641daa85095e,2006-01-08,,,white,nonhispanic,F,Brookline,Massachusetts,Norfolk County,2446,70104.64,662172.07,872412
+9537032c-7cd1-9dec-185e-2c9a0facc838,1980-08-05,,M,white,hispanic,M,West Newbury,Massachusetts,Essex County,0,100941.9,194183.09,88355
+39cc3792-d22f-05c9-cc5c-edec93add036,1957-02-02,2024-07-17,M,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,205567.5,90705.82,112477
+89c8406c-392b-2b1e-9392-82d80b215736,1925-09-15,1999-09-13,M,black,nonhispanic,M,Chelsea,Massachusetts,Suffolk County,2150,17730.51,521230.12,16198
+23301a10-ecb0-5c72-e40a-c4f7caad03a3,1969-04-18,2019-08-27,M,white,hispanic,M,Methuen,Massachusetts,Essex County,1841,130201.37,31127.23,87422
+92985468-a528-54c7-b735-9fa0860850e3,1970-02-12,,M,white,nonhispanic,M,Franklin,Massachusetts,Norfolk County,2038,160015.75,36642.03,49199
+a6dfa822-1607-4e10-2783-7458b940ab3b,1969-04-18,,D,white,hispanic,M,Methuen,Massachusetts,Essex County,1844,124599.69,10215.08,87422
+34ea6725-77d5-0652-b2a2-8ee196a9c9f1,2004-12-20,,,white,hispanic,M,Cambridge,Massachusetts,Middlesex County,2142,58713.04,0.0,97040
+bf6fdfb3-4184-d3eb-1e39-7e416671bda1,2025-06-05,,,asian,nonhispanic,F,Malden,Massachusetts,Middlesex County,2155,2813.24,1811.58,92041
+26436a21-994d-2a7d-1051-9cfe99bcd927,1925-09-15,,D,black,nonhispanic,M,Chelsea,Massachusetts,Suffolk County,2149,18278.82,593745.93,16198
+3ce5c973-683f-2165-3433-5af33bd1e3e2,1950-02-22,,M,white,nonhispanic,F,Braintree,Massachusetts,Norfolk County,2184,339658.42,669721.62,34464
+804f38c9-7aff-db77-f599-5146d8b5a0e6,1997-02-28,,M,white,hispanic,F,Palmer,Massachusetts,Hampden County,1057,175479.75,270606.66,863067
+40c65d8e-4324-4d4c-20f7-f3a6172c6f8e,2002-05-30,,,white,nonhispanic,M,Whitinsville,Massachusetts,Worcester County,1588,36045.32,19255.46,31844
+e062720e-6530-41e1-bd7b-5f6c53ed0de0,1994-10-23,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2132,122915.85,75349.91,131271
+3beee9a7-67de-df81-25a3-810b9ae6172f,1988-04-28,,M,asian,hispanic,F,Pinehurst,Massachusetts,Middlesex County,1866,177675.89,403226.84,709972
+3c88b541-e535-3484-319f-c3dcfc4514e9,1969-06-23,,M,white,nonhispanic,M,Plymouth,Massachusetts,Plymouth County,2360,159681.66,585996.11,121670
+c1e4284a-80ad-dc28-c514-78442aa56acf,2003-02-12,,,white,hispanic,F,South Amherst,Massachusetts,Hampshire County,0,5542.4,110648.9,9371
+4dd5cdf5-f2c6-6996-a270-23d79c6cf9ec,1970-09-08,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1606,126740.99,15786.45,71281
+f6a7b0eb-a395-0b87-3b16-b2a16bb7dab7,2020-08-10,,,white,hispanic,F,Taunton,Massachusetts,Bristol County,2718,900.0,24922.2,14167
+aa5e261b-5c58-177f-93b7-7069c0223e53,2010-06-05,,,white,nonhispanic,F,Fall River,Massachusetts,Bristol County,2790,3058.49,55859.25,24536
+0e62cb5c-d894-e9d2-1506-414503348d71,1999-04-16,,,white,hispanic,M,Boston,Massachusetts,Suffolk County,2127,44149.68,44462.91,179368
+a2dbe6fd-c69b-e393-8b7a-43a9764dcd19,2020-10-12,,,white,nonhispanic,F,Sturbridge,Massachusetts,Worcester County,1566,15152.16,0.0,95740
+f9a0bafd-1be7-0ecb-c417-39266f2e2281,1957-02-02,2025-01-24,D,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,93330.87,3753975.78,112477
+697034c6-3152-3b6b-1935-149398dd2a4f,1976-05-06,,S,black,nonhispanic,F,Wilmington,Massachusetts,Middlesex County,1887,386801.03,388702.07,68465
+49f81136-55a5-86a8-1244-e5bebb1d14a6,1999-03-09,,,native,nonhispanic,F,Beverly,Massachusetts,Essex County,1915,153942.6,170984.45,118501
+613241f3-5f13-d1cb-35a4-ed0a21c64543,2019-12-24,,,white,nonhispanic,M,New Bedford,Massachusetts,Bristol County,2744,2106.1,17219.25,25109
+c12a886c-c30d-454a-5dbe-7a157905cf2a,2005-08-11,,,black,nonhispanic,F,Boston,Massachusetts,Suffolk County,2136,90801.24,137638.56,458174
+fb2af2a2-2684-6a8d-ae5b-4d9daefad95b,1938-11-01,,M,white,nonhispanic,F,Weymouth,Massachusetts,Norfolk County,2190,346315.06,266486.97,91832
+ba77d582-f77a-9495-27bd-2b11cea82358,2009-06-14,,,white,nonhispanic,M,Danvers,Massachusetts,Essex County,1923,45109.89,12444.98,123150
+5dd83d30-4723-282f-f266-2de855d660ae,2025-05-31,,,white,nonhispanic,M,Swansea,Massachusetts,Bristol County,0,4861.14,0.0,128351
+462ceb61-c13f-e875-4797-2c2c4cb571fc,2007-04-12,,,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2302,3238.08,45500.86,1099
+25970d71-f3eb-b016-edbb-5aacf71bf176,2015-12-04,,,asian,nonhispanic,F,Medford,Massachusetts,Middlesex County,2145,16096.43,19351.58,189011
+49f1264c-79f3-3893-e710-318f393ac3ba,1999-06-07,,,white,nonhispanic,F,Marlborough,Massachusetts,Middlesex County,1752,142241.79,175930.74,166042
+295c37d9-888c-cdcc-4c62-4756c9daf8f5,1957-02-02,2014-07-28,S,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,226720.56,107815.9,112477
+058e0cc4-93a1-8156-51c6-8ce4d715b67b,2018-10-07,,,white,hispanic,F,Andover,Massachusetts,Essex County,1810,7314.5,2611.87,82199
+68402516-7dd1-4362-c3bb-a1db1fef4213,1997-08-16,,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2703,76294.05,581440.42,92148
+c7157b96-c9ee-4176-6ed9-be7a133f8f12,2011-05-17,,,white,nonhispanic,M,Amherst,Massachusetts,Hampshire County,0,2787.58,44492.59,4197
+c28ea4ec-22d4-c61b-fcbf-8b8043cf54d0,2014-04-05,,,white,nonhispanic,F,Bellingham,Massachusetts,Norfolk County,2019,20218.26,16974.96,145513
+5ab80e03-3efb-393a-09e0-7b23f04bb6f3,1975-03-17,,D,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2186,678627.88,211983.73,78523
+d27b12dc-0525-7593-e3fa-07e59c565346,2025-12-26,,,white,nonhispanic,F,Ashburnham,Massachusetts,Worcester County,0,4088.05,0.0,733316
+acbc83b1-575a-729e-803c-d96d49dbfc02,1957-02-02,,M,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,192106.1,53298.29,112477
+754bf361-d992-96bd-2d20-a2ae0c21e23f,1971-09-22,,M,white,nonhispanic,M,Bellingham,Massachusetts,Norfolk County,2019,136578.69,18540.7,160551
+f909cfc8-0eb0-9abf-6182-81223600cef1,2008-01-22,,,asian,nonhispanic,F,Rutland,Massachusetts,Worcester County,1543,63848.39,0.0,69455
+ed5b93fb-3544-8cb4-b56c-b178f9865367,1928-12-04,1986-07-05,M,white,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,122543.86,59061.55,607177
+4d1e00a4-bcdd-f365-2a5a-7b41e3b1901e,2007-06-30,,,white,nonhispanic,F,Fall River,Massachusetts,Bristol County,2720,115739.09,87203.71,40757
+74f3f928-dca9-2fe2-c472-37c9a5c50c4a,1928-12-04,1977-11-03,D,white,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,127841.09,85384.93,607177
+5ddec072-c077-0ba0-121e-3efc3087f3c9,1954-01-18,,D,white,nonhispanic,M,Eastham,Massachusetts,Barnstable County,0,574737.75,412541.74,39148
+7b756aeb-f16c-d4b5-2629-f51655c929fc,1997-07-04,,M,white,nonhispanic,F,Lexington,Massachusetts,Middlesex County,2420,145884.81,95953.57,164511
+8109cc70-81ba-3c3e-09c9-3a4c5513450e,1950-04-23,2012-08-21,S,black,hispanic,M,Boston,Massachusetts,Suffolk County,2121,469662.27,396999.98,36858
+5090a7c9-81bd-71be-0ede-db1dd3037204,1998-12-05,,,hawaiian,nonhispanic,M,Chicopee,Massachusetts,Hampden County,1013,501156.33,281556.33,77363
+4ac52c36-c047-1d7a-8776-01c8691419d8,2003-02-03,,,white,nonhispanic,M,Orleans,Massachusetts,Barnstable County,2653,29261.24,669687.06,575551
+76b6ac49-4a6d-32bc-9cd0-dbdf0371b95e,2009-04-30,,,white,nonhispanic,M,Brockton,Massachusetts,Plymouth County,2351,3022.27,52443.51,17087
+50960bf3-53a8-2ba9-2ce1-74cfed485e1d,1928-12-04,2018-03-26,M,white,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,185617.28,245532.21,607177
+ac32c554-e2b2-21e7-c5e0-dfee9ce2f057,1950-04-23,2019-06-19,D,black,hispanic,M,Boston,Massachusetts,Suffolk County,2130,219211.66,69243.19,36858
+4be404b2-eda8-87de-d3ef-3bdec5f07082,1963-01-27,,M,white,nonhispanic,F,Southampton,Massachusetts,Hampshire County,0,72741.25,954782.9,153355
+82cc1ac2-96c5-63e0-6192-e05de4ce252f,2010-08-15,,,white,nonhispanic,F,Salem,Massachusetts,Essex County,1907,71775.97,452010.0,57102
+968ed59a-be0b-5e44-b565-56ca54029cd6,1952-10-26,1960-12-07,,white,nonhispanic,F,Monument Beach,Massachusetts,Barnstable County,2553,7367.34,16298.28,63499
+d667ec5f-b07a-ce9a-cc88-c303ab4bb3f1,1928-12-04,1997-06-22,M,white,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,195451.72,142016.67,607177
+5aa4c250-df17-50c0-4e41-5426ce233d55,1940-03-03,2017-03-19,M,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2186,1196563.33,621828.32,49867
+2e95d509-06a2-0b11-3458-07f574cc2513,1950-04-23,2015-10-23,D,black,hispanic,M,Boston,Massachusetts,Suffolk County,2135,216245.76,133633.84,36858
+8905f8e6-c8f1-00d5-7a00-e991eb61c951,1952-10-26,,M,white,nonhispanic,F,Monument Beach,Massachusetts,Barnstable County,2553,868552.84,154985.58,63499
+299445d1-504c-e66f-5c0e-7f834c9946f4,1950-04-23,,D,black,hispanic,M,Boston,Massachusetts,Suffolk County,2119,196074.82,91042.17,36858
+965c5f7c-337d-da3c-9938-3c08937eed69,1988-06-05,,M,white,nonhispanic,F,Ludlow,Massachusetts,Hampden County,0,126547.65,581611.03,834506
+fdb0a4c6-0f7d-b60c-9f01-db148e0b853a,1974-01-20,,M,asian,hispanic,M,Springfield,Massachusetts,Hampden County,1020,176232.71,602206.07,45214
+1028b00f-f74d-6e3e-3f55-37ac6750bab9,1997-04-19,,M,white,nonhispanic,F,Mashpee,Massachusetts,Barnstable County,0,139404.79,247841.55,139285
+2bd61b7e-8fa7-d8e0-b695-f5a76a87c2f4,1928-12-04,,M,white,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,115847.18,420925.49,607177
+a1faaf61-57cf-b683-4255-5b545ef03f76,1997-07-02,,M,white,nonhispanic,F,Revere,Massachusetts,Suffolk County,2151,14789.26,502101.62,19156
+c55a93fd-e6a5-a9db-7feb-7dbf876f207e,2022-10-01,,,white,nonhispanic,F,Nahant,Massachusetts,Essex County,1908,7124.74,5553.36,89472
+c7204eb0-08b8-c535-76d4-a1780f84e7f5,2005-05-17,,,white,nonhispanic,M,Blackstone,Massachusetts,Worcester County,0,108414.68,585667.69,54387
+3a9118db-9d7b-801a-6c70-25ff2551ef26,1968-09-05,,M,white,nonhispanic,M,Worcester,Massachusetts,Worcester County,1605,9887.26,180869.11,13663
+63dc83d1-0ddb-b421-6b8e-3a96dc938af7,1962-12-05,,M,white,nonhispanic,F,Revere,Massachusetts,Suffolk County,2151,270148.24,899817.37,33032
+32b6980e-7477-7dcd-f04a-cffa3b3eab1d,1997-07-01,,M,asian,nonhispanic,M,Lexington,Massachusetts,Middlesex County,2421,7920.54,68286.52,8154
+fb4490a9-8ce2-3946-c704-8864edbd8d76,1940-03-03,,M,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2169,616076.05,564328.8,49867
+2e29084d-7b5e-5e23-2c03-ade4b649d7e7,2002-02-22,,,asian,nonhispanic,M,Ware,Massachusetts,Hampshire County,1082,56473.22,15509.11,55659
+626cae0d-852f-771f-adf7-b74e8d08c16e,1998-03-12,,M,white,nonhispanic,F,Revere,Massachusetts,Suffolk County,2151,137000.71,217594.31,66624
+7178926b-6369-0d56-70e3-65c0b1b2fc8c,1996-11-20,,M,white,nonhispanic,F,Sharon,Massachusetts,Norfolk County,2067,129624.48,1518282.54,136578
+aa1da521-cdab-853b-12af-32498421c612,1988-04-03,,S,white,nonhispanic,M,Hingham,Massachusetts,Plymouth County,2043,41445.51,31209.52,188836
+73cd5820-b9bb-f6bb-03f7-6fafe7118e0a,1967-01-23,,M,white,nonhispanic,M,Longmeadow,Massachusetts,Hampden County,1106,113706.95,50168.56,51746
+df7a266f-709f-70b4-5299-22f76c7d500a,1972-06-16,,S,white,nonhispanic,F,Hanover,Massachusetts,Plymouth County,0,59492.29,326592.0,167535
+4a1b6852-9425-67c7-5032-dc52c85220fe,1996-06-19,,M,white,nonhispanic,F,Rowley,Massachusetts,Essex County,1969,157187.06,221151.93,199323
+184e8678-57fc-e203-ddac-ebc07fb4d19d,2002-10-06,,,white,nonhispanic,M,Belmont,Massachusetts,Middlesex County,2138,20858.28,49795.11,412302
+c4d332bc-0204-d37e-4601-d1bfdedb419c,1982-07-15,,M,white,nonhispanic,M,Revere,Massachusetts,Suffolk County,2151,95517.33,5033.04,99218
+0f18ee43-a8ec-f299-3a82-0e8d1d76264d,1981-04-23,,D,white,nonhispanic,F,North Falmouth,Massachusetts,Barnstable County,2556,353189.82,647337.25,44354
+91bd9775-6164-5c4f-7977-63bdfa5b71ba,1979-09-27,,S,white,nonhispanic,M,Holyoke,Massachusetts,Hampden County,1040,127513.8,24643.94,64698
+0e0a2fd7-6aeb-c9c4-c02c-aaa8ae653af4,2000-04-22,,,white,nonhispanic,F,Quincy,Massachusetts,Norfolk County,2169,51372.33,833788.45,25916
+f4e0fa0a-beeb-01d1-70eb-c7ed7ec328ce,2017-04-18,,,white,nonhispanic,F,Ipswich,Massachusetts,Essex County,1938,16645.89,88563.53,96304
+b653d77e-3a2f-6367-65af-67f2995c7997,1975-11-17,,D,white,nonhispanic,F,West Boylston,Massachusetts,Worcester County,0,401741.91,588.56,87738
+b6d2723b-26b2-11c6-6704-cfef96d1d2b3,1980-03-30,,S,white,nonhispanic,F,Belmont,Massachusetts,Middlesex County,2472,272457.11,611000.5,139786
+79d55b94-585d-0be9-c755-be999c6bb7cc,1983-07-13,,M,white,nonhispanic,F,Cambridge,Massachusetts,Middlesex County,2141,184093.42,220908.95,141996
+c2a9f309-0ba2-abe6-d743-20d3655f5b48,1999-01-29,,,other,hispanic,M,Topsfield,Massachusetts,Essex County,1983,100519.88,8289.46,144767
+55fe8c17-7ba7-a27a-5828-5f21270e41a5,1991-01-30,,M,black,nonhispanic,M,Walpole,Massachusetts,Norfolk County,2081,86192.04,4174.89,96769
+63351c3e-1c4f-c998-a08f-f75036e077ae,1962-05-08,2026-02-17,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2703,191350.91,453862.99,27934
+086b6620-3bd4-6347-9f31-03e3ed64a716,1962-04-23,,S,white,nonhispanic,M,Dracut,Massachusetts,Middlesex County,0,226914.63,115796.9,488662
+02c9f0c9-fd73-df1b-cef9-5610f2221bdc,1962-07-04,,M,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2210,215712.31,10896.99,49579
+11f8b932-8929-dfb7-c001-8edd225bed54,1962-05-08,2018-04-30,M,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2861,117731.5,1972130.76,27934
+3583b5f8-1afd-96a6-3dfd-6ae11ce15146,2003-06-30,,,white,hispanic,M,Beverly,Massachusetts,Essex County,1915,70022.32,2754.84,386730
+07c90b0a-9849-5d3b-80b9-78ad9fc682a1,1994-11-20,,S,white,nonhispanic,M,Boston,Massachusetts,Suffolk County,2132,100427.52,35019.01,43302
+d8969bbd-9165-262f-8b5e-45d1861f2de6,1961-06-07,,D,black,hispanic,M,West Springfield,Massachusetts,Hampden County,1089,236796.3,453720.5,97892
+439de277-fcd9-24d6-6dbb-38d013c3454d,1962-05-08,,W,white,nonhispanic,M,Attleboro,Massachusetts,Bristol County,2861,129502.82,39977.3,27934
+9940259e-d426-d82b-4f7a-829362c5dc81,1994-06-05,,M,white,nonhispanic,F,Lowell,Massachusetts,Middlesex County,1851,129627.32,392403.7,63854
+17f3021a-ee05-05a3-59d4-56dc610cd4ce,2011-12-24,,,white,nonhispanic,M,Grafton,Massachusetts,Worcester County,0,24753.68,20381.08,31760
+0e001a69-4da6-20bd-c38e-e80b25dd7a3b,1976-01-22,,D,white,nonhispanic,M,Concord,Massachusetts,Middlesex County,0,105025.8,10616.6,137922
+6833da4b-6a42-0dd7-b699-210829da7f95,1990-09-19,,D,black,nonhispanic,F,Chelsea,Massachusetts,Suffolk County,2149,14630.28,1361098.76,6427
+34c8abb5-7c9f-24a0-9884-0c63cb782529,2004-10-22,,,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2723,3995.99,62992.09,4122
+8e05f345-25af-570b-493d-e8f1062bc04a,1988-09-09,,S,white,nonhispanic,M,Fall River,Massachusetts,Bristol County,2747,15738.81,527264.4,2059
+cfc7f77a-7b9c-615b-6393-74b263c30618,1995-02-04,,M,white,nonhispanic,F,New Bedford,Massachusetts,Bristol County,2747,5458.3,399719.63,15890
+730ba1fa-e448-8285-3c61-125325b82816,1972-09-08,,S,white,nonhispanic,F,Springfield,Massachusetts,Hampden County,1105,341188.35,55839.63,53346
+adfd1f81-827b-73bb-d291-5cfa06b80374,2006-10-04,,,white,nonhispanic,M,Topsfield,Massachusetts,Essex County,1983,68160.24,1588.05,107721
+bb28edc6-5cec-05e2-1c26-070674f9343a,1942-04-26,,M,white,nonhispanic,F,Boston,Massachusetts,Suffolk County,2467,279526.58,722168.14,174969
+a33e91f3-fbe8-820c-cf04-f1c276075e80,1921-09-02,,M,white,nonhispanic,F,Charlton,Massachusetts,Worcester County,0,476935.03,2743129.81,138486

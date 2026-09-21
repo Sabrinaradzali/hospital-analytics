@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Database
+data/database/
+*.db
+
+# Power BI temporary files
+*.pbit
+
+# System files
+.DS_Store
+Thumbs.db
+data/*.csv
+
+data/*.csv
